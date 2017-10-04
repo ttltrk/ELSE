@@ -1,4 +1,6 @@
-
+<html>
+<head></head>
+<body>
 learnshell.org
 
 01. Learn the Basics
@@ -123,6 +125,9 @@ date -d "$date1" +%A
 
 
 >>>
+
+</body>
+</html>
 Tuesday
 >>>
 
