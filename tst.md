@@ -1,14 +1,9 @@
-<html>
-
-<head></head>
-
-<body>
 learnshell.org
 
 01. Learn the Basics
   
-  01.001. <a href="#01.001.">Hello World</a>
-  01.002. <a href="#01.002.">Variables</a>
+  01.001. Hello World</a>
+  01.002. Variables</a>
   01.003. Passing Arguments to the Script
   01.004. Arrays
   01.005. Basic Operators
