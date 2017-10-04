@@ -1,5 +1,7 @@
 <html>
+
 <head></head>
+
 <body>
 learnshell.org
 
@@ -71,7 +73,7 @@ Goodbye, World!
 
 
 
-<h2 id="01.001.">01.002. Variables</h2>
+<h2 id="01.002.">01.002. Variables</h2>
 
 
 Shell variables are created once they are assigned a value. A variable can contain a number, 
