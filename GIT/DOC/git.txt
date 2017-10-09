@@ -1,1 +1,1029 @@
-xxx
+
+---------------------------------------------------------------------------
+codecademy 
+GIT
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+BASIC GIT WORKFLOW
+
+1.001. Hello Git
+1.002. git init
+1.003. Git Workflow
+1.004. git status
+1.005. git add
+1.006. git diff
+1.007. git commit
+1.008. git log
+1.009. Generalizations
+
+HOW TO BACKTRACK
+
+2.001. Backtracking intro
+2.002. head commit
+2.003. git checkout
+2.004. more git add
+2.005. git reset I
+2.006. git reset II
+2.007. git reset review
+2.008. Generalizations
+
+GIT BRANCHING
+
+3.001. git branch
+3.002. branching overview
+3.003. git branch 2
+3.004. git checkout
+3.005. commit on a new branch
+3.006. git merge
+3.007. merge conflict I
+3.008. merge conflict II
+3.009. delete branch
+3.010. Generalizations
+
+GIT TEAMWORK
+
+4.001. Overview
+4.002. git clone
+4.003. git remote -v
+4.004. git fetch
+4.005. git merge
+4.006. Git workflow
+4.007. git push
+4.008. Generalizations
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+1.001. hello git
+---------------------------------------------------------------------------
+
+We’ll get started by taking a look at the screenplay project.
+
+In scene-1.txt, add this text:
+
+Harry Programmer and the Sorcerer’s Code: Scene 1
+Then press enter to create a new empty line. Once you've created the new line, click Run.
+
+--------------------------------------------
+
+Harry Programmer and the Sorcerers Code: Scene 1
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+1.002. git init
+---------------------------------------------------------------------------
+
+In the terminal, initialize a new Git project.
+
+Notice the output:
+
+Initalized an empty git repository in /home/ccuser/workspace/sorcerers-code/.git/
+The Git project was created. Click Next to continue.
+
+--------------------------------------------
+
+git init
+
+>>>
+Initalized an empty git repository in /home/ccuser/workspace/sorcerers-code/.git/
+>>>
+
+---------------------------------------------------------------------------
+1.003. git workflow
+---------------------------------------------------------------------------
+
+Git Workflow
+Nice! We have a Git project. A Git project can be thought of as having three parts:
+
+A Working Directory: where you'll be doing all the work: creating, editing, deleting and organizing files
+A Staging Area: where you'll list changes you make to the working directory
+A Repository: where Git permanently stores those changes as different versions of the project
+
+--------------------------------------------
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+1.004. git status
+---------------------------------------------------------------------------
+
+From the terminal, check the status of the sorcerers-code project.
+
+In the output, notice the file in red under untracked files. Untracked means that Git sees the file but has not started tracking changes yet.
+
+--------------------------------------------
+
+git status
+
+>>>
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        init_test.rb
+        scene-1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+>>>
+
+---------------------------------------------------------------------------
+1.005. git add
+---------------------------------------------------------------------------
+
+1.
+Add scene-1.txt to the staging area in Git. Recall that you will need to identify the file by its name.
+
+2.
+Check the status of the project in Git.
+
+In the output, notice that Git indicates the changes to be committed with "new file: scene-1.txt" in green text. 
+Here Git tells us the file was added to the staging area.
+
+--------------------------------------------
+
+$ git add scene-1.txt
+$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   scene-1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        add_test.rb
+        init_test.rb
+
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+1.006. git diff
+---------------------------------------------------------------------------
+
+1.
+In the code editor, add this text to scene-1.txt:
+
+Dumblediff: I should've known you would be here, Professor McGonagit.
+Click Run.
+2.
+From the terminal, use the new command to check the difference between the working directory and the staging area.
+
+Notice the output:
+
+"Harry Programmer and the Sorcerer's Code: Scene 1" is in the staging area, as indicated in white.
+Changes to the file are marked with a + and are indicated in green.
+
+IMPORTANT: press q on your keyboard to exit diff mode.
+3.
+Add the changes to the staging area in Git. Recall that you will need to identify the file by its name.
+
+Here's a hint for how to add files to the staging area.
+
+--------------------------------------------
+
+@@@
+Dumblediff: I should've known you would be here, Professor McGonagit.
+@@@
+
+$ git diff scene-1.txt
+diff --git a/scene-1.txt b/scene-1.txt
+index 26eea90..975aa9b 100644
+--- a/scene-1.txt
++++ b/scene-1.txt
+@@ -1,2 +1,3 @@
+ Harry Programmer and the Sorcerers Code: Scene 1
+
++Dumblediff: I should've known you would be here, Professor McG
+onagit.
+\ No newline at end of file
+$ git add scene-1.txt
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+1.007. git commit
+---------------------------------------------------------------------------
+
+1.
+Make your first commit! From the terminal, type the command along with a commit message. The message should describe the point of the commit.
+
+If you're having trouble thinking of a good commit message, reflect on how the project has changed since it began.
+
+--------------------------------------------
+
+$ git commit -m "Complete first line of dialogue"
+[master (root-commit) 878bfc0] Complete first line of dialogue
+ 1 file changed, 3 insertions(+)
+ create mode 100644 scene-1.txt
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+1.008. git log
+---------------------------------------------------------------------------
+
+From the terminal, log a list of your commits.
+
+In the output, notice:
+
+A 40-character code, called a SHA, that uniquely identifies the commit. This appears in orange text.
+The commit author (you!)
+The date and time of the commit
+The commit message
+Click "Next" to continue.
+
+--------------------------------------------
+
+$ git log
+commit 878bfc0df58225efb715a2f1e7129dadeee143a7
+Author: codecademy <ccuser@codecademy.com>
+Date:   Fri Sep 22 04:28:20 2017 +0000
+
+    Complete first line of dialogue
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+1.009. Generalizations
+---------------------------------------------------------------------------
+
+git init creates a new Git repository
+git status inspects the contents of the working directory and staging area
+git add adds files from the working directory to the staging area
+git diff shows the difference between the working directory and the staging area
+git commit permanently stores file changes from the staging area in the repository
+git log shows a list of all previous commits
+
+--------------------------------------------
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+2.001. Backtracking Intro
+---------------------------------------------------------------------------
+
+1.
+You are in a Git project titled hamlet-prince-of-denmark. In the code editor, you'll be working on scene-5.txt. Here, Hamlet encounters the ghost of his father. Add this text to the file:
+
+Ghost: 
+My hour is almost come,
+When I to sulphurous and tormenting flames
+Must render up myself.
+2.
+From the terminal, add scene-5.txt to the staging area.
+
+Here's a hint on how to do it.
+3.
+Commit the changes to the repository with a good commit message.
+
+Here's a hint on how to do it.
+
+--------------------------------------------
+
+@@@
+Hamlet: Act 1, Scene 5
+
+Enter Ghost and Hamlet
+
+Hamlet:
+Where wilt thou lead me? speak; I'll go no further
+
+Ghost:
+Mark me.
+
+Hamlet:
+I will.
+
+Ghost: 
+My hour is almost come,
+When I to sulphurous and tormenting flames
+Must render up myself.
+@@@
+
+
+$ git add scene-5.txt
+$ git commit -m "sc5 first commit"
+[master d99cbac] sc5 first commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+2.002. head commit
+---------------------------------------------------------------------------
+
+Enter the command to show the HEAD commit.
+
+Notice the output. The ghost's most recently added line is in green text.
+
+--------------------------------------------
+
+$ git show HEAD
+commit d99cbac73d0029ebab1c20ab4df1e3377d0574c5
+Author: codecademy <ccuser@codecademy.com>
+Date:   Fri Sep 22 04:49:20 2017 +0000
+
+    sc5 first commit
+
+diff --git a/scene-5.txt b/scene-5.txt
+index b12dd97..fa75b29 100644
+--- a/scene-5.txt
++++ b/scene-5.txt
+@@ -11,4 +11,7 @@ Mark me.
+ Hamlet:
+ I will.
+
+-
++Ghost:
++My hour is almost come,
++When I to sulphurous and tormenting flames
++Must render up myself.
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+2.003. git checkout
+---------------------------------------------------------------------------
+
+1.
+Change the ghost's words in some way. Here's a fun suggestion:
+
+Ghost: 
+My hour is almost come,
+When I to sulphurous and tormenting balloons
+Must render up myself.
+2.
+From the terminal, use git diff to see the difference between scene-5.txt as it appears in the working directory vs. how it appears in your last commit.
+
+You may need to press q on your keyboard to restore the terminal.
+3.
+Use the new Git command to restore the file in your working directory to look as it did when you last made a commit.
+
+Notice that the changes you made to the ghost's line have been discarded.
+
+--------------------------------------------
+
+$ git diff scene-5.txt
+diff --git a/scene-5.txt b/scene-5.txt
+index fa75b29..58b11a1 100644
+--- a/scene-5.txt
++++ b/scene-5.txt
+@@ -13,5 +13,5 @@ I will.
+
+ Ghost:
+ My hour is almost come,
+-When I to sulphurous and tormenting flames
++When I to sulphurous and tormenting balloons
+ Must render up myself.
+$ git checkout HEAD scene-5.txt
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+2.004. more git add
+---------------------------------------------------------------------------
+
+1.
+The code editor is open to scene-3.txt and scene-7.txt. In scene-3.txt, everywhere you see the name "LARRY" change it to "LAERTES."
+2.
+Now change all instances of "LARRY" to "LAERTES" in scene-7.txt.
+3.
+Add the files to the staging area together using a single git command.
+
+--------------------------------------------
+                          
+$ git add scene-3.txt scene-7.txt                         
+$   
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+2.005. git reset I
+---------------------------------------------------------------------------
+
+1.
+To try out the new command, let's make a mistake on purpose!
+
+The code editor is open to scene-2.txt. Delete any line from the file and click Run.
+2.
+From the terminal, add scene-2.txt to the Git staging area.
+3.
+Now check the status of the Git project.
+
+In the output, notice scene-2.txt under “Changes to be committed”.
+4.
+Use the new Git command to unstage scene-2.txt from the staging area.
+
+Notice in the output, "Unstaged changes after reset":
+
+M    scene-2.txt
+M is short for "modification"
+5.
+Now that changes made to scene-2.txt have been booted out of the staging area, you're ready to commit. 
+From the terminal, make a commit to save the Larry/Laertes name swap in hamlet.
+
+--------------------------------------------
+
+...
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+2.006. git reset II
+---------------------------------------------------------------------------
+
+1.
+From the terminal, print out your Git commit log.
+
+Note: If your cursor gets stuck in "git log" mode in the terminal, press "q" on your keyboard to escape.
+2.
+From the terminal, enter the command to reset to a previous commit, using the first 7 characters of one of the past commit SHAs in your Git log.
+
+Next, print the Git commit log again.
+
+Notice anything interesting? The commits that came after the one you reset to are gone. The HEAD commit has been reassigned. You just changed history.
+
+--------------------------------------------
+
+$ git reset 27a3bfe
+Unstaged changes after reset:
+M       scene-2.txt
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+2.007. git reset review
+---------------------------------------------------------------------------
+
+--------------------------------------------
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+2.008. Generalizations
+---------------------------------------------------------------------------
+
+git checkout HEAD filename: Discards changes in the working directory.
+git reset HEAD filename: Unstages file changes in the staging area.
+git reset commit_SHA: Resets to a previous commit in your commit history.
+
+--------------------------------------------
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.001. git branch
+---------------------------------------------------------------------------
+
+Check what branch you are currently on.
+
+In the output, the * (asterisk) is showing you what branch you’re on. The project only has one branch at this time.
+
+Click Next to learn how to make a new branch.
+
+--------------------------------------------
+
+$ git branch
+* master
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.002. 
+---------------------------------------------------------------------------
+
+--------------------------------------------
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.003. git branch 2
+---------------------------------------------------------------------------
+
+Let's create a new version of a resumé to apply for a fencing instructor role.
+
+Create a new branch called fencing.
+
+Remember to spell the word "fencing" correctly.
+
+Next, view your branches as you did in the previous exercise.
+
+Notice in the output there now appear two branches: master and fencing.
+
+--------------------------------------------
+
+git branch fencing
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.004. git checkout
+---------------------------------------------------------------------------
+
+1.
+Switch to the fencing branch from the master branch.
+2.
+Use git branch to verify that you have switched branches.
+
+In the output, notice the * is now over the fencing branch.
+
+--------------------------------------------
+
+$ git branch fencing
+$ git branch
+  fencing
+* master
+$ git checkout master
+Already on 'master'
+$ git checkout fencing
+Switched to branch 'fencing'
+$ git branch
+* fencing
+  master
+$
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.005. commit on a new branch
+---------------------------------------------------------------------------
+
+1.
+Print the Git commit log.
+
+Notice the output:
+
+The commits you see were all made in the master branch. fencing inherited them.
+This means that every commit master has, fencing also has.
+Note: if you find that your cursor is stuck in Git log, press q to escape.
+2.
+In resume.txt, replace your skill at scheming against Hook with your experience in sword-fights.
+
+Delete this line:
+
+-Scheme against Captain Hook
+and type this line in its place:
+
+-Engage in swordfights with pirates
+3.
+Add resume.txt into the staging area.
+4.
+Commit the changes to the repository with a commit message.
+
+--------------------------------------------
+
+git log
+
+git add resume.txt
+
+git commit -m "first commit in fencing"
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.006. git merge
+---------------------------------------------------------------------------
+
+1.
+You are currently on the fencing branch. Switch over to the master branch.
+
+2.
+Your sword-fighting experience is so impressive that it belongs on the master version of your resumé.
+
+From the terminal, merge the fencing branch into the master branch.
+
+Notice the output: The merge is a "fast forward" because Git recognizes that fencing contains the most recent commit. 
+Git fast forwards master to be up to date with fencing.
+
+--------------------------------------------
+
+git checkout master
+
+git merge fencing
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.007. merge conflict I
+---------------------------------------------------------------------------
+
+1.
+You are on the master branch. In the code editor, where you have written:
+
+-Engage in swordfights with pirates
+Add the word "professional", so the text reads:
+
+-Engage in swordfights with professional pirates
+Click Run.
+2.
+Add resume.txt to the staging area.
+3.
+Commit the changes to the repository with a commit message.
+4.
+Imagine a few weeks have passed, and you'd like to develop your fencing resumé some more.
+
+Switch back to the fencing branch.
+5.
+From fencing, change the line so it reads:
+
+-Engage in swordfights with professional pirates such as Smee.
+Click Run.
+6.
+Once again, add resume.txt to the staging area.
+7.
+Commit the changes to the repository with a commit message.
+
+--------------------------------------------
+
+git add resume.txt
+
+git commit -m "first resume change"
+
+git checkout fencing
+
+git add resume.txt
+
+git commit -m "second resume change"
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.008. merge conflict II
+---------------------------------------------------------------------------
+
+1.
+Switch to the master branch.
+2.
+From the terminal, enter the command below:
+
+git merge fencing
+This will try to merge fencing into master.
+
+In the output, notice the lines:
+
+CONFLICT (content): Merge conflict in resumé.txt
+Automatic merge failed; fix conflicts and then commit the result.
+3.
+We must fix the merge conflict.
+
+In the code editor, look at resume.txt. Git uses markings to indicate the HEAD (master) version of the file and the fencing version of the file, like this:
+
+<<<<<<< HEAD
+master version of line
+=======
+fencing version of line
+>>>>>>> fencing
+Git asks us which version of the file to keep: the version on master or the version on fencing. You decide you want the fencing version.
+
+From the code editor:
+
+Delete the content of the line as it appears in the master branch
+
+Delete all of Git's special markings including the words HEAD and fencing. If any of Git's markings remain, for example, 
+>>>>>>> and =======, the conflict remains.
+
+Try reloading the page if Git's markings don't show up.
+4.
+Add resume.txt to the staging area.
+5.
+Now, make a commit. For your commit message, type "Resolve merge conflict" to indicate the purpose of the commit.
+
+Here's a hint for the commit command.
+
+--------------------------------------------
+
+git checkout master
+
+git merge fencing
+
+git add resume.txt
+
+git commit -m "Resolve merge conflict"
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.009. delete branch
+---------------------------------------------------------------------------
+
+Delete the fencing branch.
+
+Now, verify that you have indeed deleted fencing by listing all your project's branches on the terminal.
+
+Notice in the output that only one branch, master, is shown.
+
+--------------------------------------------
+
+git branch -d fencing
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+3.010. Generalizations
+---------------------------------------------------------------------------
+
+git branch: Lists all a Git project's branches.
+git branch branch_name: Creates a new branch.
+git checkout branch_name: Used to switch from one branch to another.
+git merge branch_name: Used to join file changes from one branch to another.
+git branch -d branch_name: Deletes the branch specified.
+
+--------------------------------------------
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+4.001.
+---------------------------------------------------------------------------
+
+--------------------------------------------
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+4.002. git clone
+---------------------------------------------------------------------------
+
+The Git remote Sally started is called:
+
+science-quizzes
+Enter the command to clone this remote. Name your clone:
+
+my-quizzes
+Notice the output:
+
+cloning into 'my-quizzes'...
+Git informs us that it's copying everything from science-quizzes into the my-quizzes directory.
+
+my-quizzes is your local copy of the science-quizzes Git project. If you commit changes to the project here, Sally will not know about them.
+
+--------------------------------------------
+
+git clone science-quizzes my-quizzes
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+4.003. git remote -v
+---------------------------------------------------------------------------
+
+1.
+Using the file navigator, examine the contents of the cloned Git project. There are a few quiz files here, which we will be working with during this lesson.
+
+Open a file of your choice in the code editor.
+2.
+Change directories into the my-quizzes directory, enter this command on the terminal:
+
+cd my-quizzes
+To learn more about cd, take a look at our command line course.
+3.
+Enter git remote -v to list the remotes.
+
+Notice the output:
+
+origin    /home/ccuser/workspace/curriculum/science-quizzes (fetch)
+origin    /home/ccuser/workspace/curriculum/science-quizzes (push)
+Git lists the name of the remote, origin, as well as its location.
+Git automatically names this remote origin, because it refers to the remote repository of origin. However, it is possible to safely change its name.
+The remote is listed twice: once for (fetch) and once for (push). We'll learn about these later in the lesson.
+
+--------------------------------------------
+
+git remote -v
+
+cd my-quizzes
+
+git remote -v
+
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+4.004. git fetch
+---------------------------------------------------------------------------
+
+1.
+Enter this command:
+
+cd my-quizzes
+to go into the my-quizzes directory.
+2.
+Fetch any new changes Sally may have made to the remote.
+
+--------------------------------------------
+
+cd my-quizzes
+
+git fetch
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+4.005. git merge
+---------------------------------------------------------------------------
+
+1.
+Enter this command:
+
+cd my-quizzes
+to go into the my-quizzes directory.
+2.
+You are on your local master branch. In your commit history, the commit message of the HEAD commit is:
+
+Add first question to Physics     quiz
+From the terminal, merge with origin/master, where Sally's most recent commits are.
+
+Notice the output:
+
+Updating a2ba090..bc87a1a
+Fast-forward
+ biology.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Git has performed a "fast-forward" merge, bringing your local master branch up to speed with Sally's most recent commit on the remote.
+3.
+Print the commit history.
+
+In the output, notice that the HEAD commit has changed. The commit message now reads:
+
+ Add heading and comment to biology quiz
+ 
+--------------------------------------------
+
+cd my-quizzes
+
+git merge origin/master
+
+git log
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+4.006. Git workflow
+---------------------------------------------------------------------------
+
+1.
+Enter this command:
+
+cd my-quizzes
+to change directories into the my-quizzes directory.
+2.
+Enter the Git command:
+
+git branch <branch_name>
+to create a branch to develop questions for the biology quiz. Name the branch bio-questions.
+
+Note: be careful to spell the name "bio-questions" exactly as it appears.
+3.
+Switch to your new branch with the command:
+
+git checkout <branch_name>
+replacing <branch_name> with the name of the new branch.
+4.
+On your branch, open biology.txt in the code editor.
+
+Add a biology question to the file and some sample answers. For example:
+
+  What is an animal that hunts and eats other animals called?
+  a) herbivore
+  b) prey 
+  c) ecosystem 
+  d) predator
+5.
+Add biology.txt to the staging area.
+6.
+Commit the work to the repository with a commit message.
+
+--------------------------------------------
+
+cd my-quizzes
+
+git branch bio-questions
+
+git checkout bio-questions
+
+git add biology.txt
+
+git commit -m "first bio com"
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+4.007. git push
+---------------------------------------------------------------------------
+
+1.
+Enter this command
+
+cd my-quizzes
+to change directories into the my-quizzes directory.
+2.
+Push your branch up to the remote.
+
+In the output, notice the line:
+
+To /home/ccuser/workspace/curriculum/science-quizzes
+ * [new branch]      bio-questions -> bio-questions
+Git informs us that the branch bio-questions was pushed up to the remote. Sally can now review your new work and can merge it into the remote's master branch.
+
+--------------------------------------------
+
+cd my-quizzes
+
+git push origin bio-questions
+
+>>>
+
+>>>
+
+---------------------------------------------------------------------------
+4.008. Generalizations
+---------------------------------------------------------------------------
+
+git clone: Creates a local copy of a remote.
+git remote -v: Lists a Git project's remotes.
+git fetch: Fetches work from the remote into the local copy.
+git merge origin/master: Merges origin/master into your local branch.
+git push origin <branch_name>: Pushes a local branch to the origin remote.
+
+--------------------------------------------
+
+>>>
