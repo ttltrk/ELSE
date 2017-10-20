@@ -47,6 +47,10 @@ Shell Scripting, Succinctly
 
 #### Shell Scripting, Part I
 
+```shell
+echo "Scripting is fun!"
+```
+
 #### Shell Scripting, Part II
 
 #### Quiz 1: Shell Scripting
