@@ -49,6 +49,10 @@ Shell Scripting, Succinctly
 
 ```shell
 echo "Scripting is fun!"
+
+>>>
+Scripting is fun!
+>>>
 ```
 
 #### Shell Scripting, Part II
