@@ -6,16 +6,16 @@ Odborna sposobilost pre zbrojny preukaz
   * Zakon c. 190/2003 Z.z. o strelnych zbraniach a strelive
     * CL. 1
       * Prva cast - Zakladne ustanovenia
-        * P1 Ucel zakona
-        * P2 Vymedzenie niektorych pojmov
+        * P1 - Ucel zakona
+        * P2 - Vymedzenie niektorych pojmov
       * Druha cast - Kategorie zbrani a streliva
-        * P3
-        * P4
-        * P5
-        * P6
-        * P7
+        * P3 - Rozdelenie zbrani a streliva
+        * P4 - Zbran kategorie A
+        * P5 - Zbran kategorie B
+        * P6 - Zbran kategorie C
+        * P7 - Zbran kategorie D
       * Tretia cast - Nadobudanie vlastnictva zbrane, nadobudanie vlastnictva streliva
-        * P8
+        * P8 
         * P9
         * P10
         * P11
@@ -23,12 +23,12 @@ Odborna sposobilost pre zbrojny preukaz
         * P13
         * P14
       * Stvrta cast - Zbrojny preukaz
-        * P15
-        * P16
-        * P17
-        * P18
-        * P19
-        * P20
+        * P15 - Zbrojny preukaz a skupiny zbrojneho preukazu
+        * P16 - Vydanie zbrojneho preukazu
+        * P17 - V ziadosti o vydanie zbrojneho preukazu ziadatel uvedie
+        * P18 - Vek ziadatela
+        * P19 - Bezuhonnost a spolahlivost 
+        * P20 - Zdarvotna sposobilost
         * P21
         * P22
         * P23
