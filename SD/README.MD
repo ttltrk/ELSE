@@ -6,4 +6,4 @@ Learn How to Shoot
   * [Legis Telum](http://legistelum.sk/category/zbrojny_preukaz/informacie_o_zp/)
   
 ### Own Docu
-  8 []()
+  * [Zbrojak](https://github.com/ttltrk/ELSE/blob/master/SD/Zbrojak.MD)
