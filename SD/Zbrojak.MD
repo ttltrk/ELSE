@@ -4,6 +4,11 @@ Odborna sposobilost pre zbrojny preukaz
 
 ### Cast 1.
   * Zakon c. 190/2003 Z.z. o strelnych zbraniach a strelive
+    * CL. 1
+      * Prva Cast - Zakladne ustanovenia
+        * P1 Ucel zakona
+        * P2 Vymedzenie niektorych pojmov
+      * Druha cast - Kategorie zbrani a streliva
   * Vyhlaska MV SR c. 555/2003 Z.z.
   * Vyhlaska UNMS SR c. 516/2003 Z.z.
   * Vyhlaska MZ SR c 229/2011 Z.z.
