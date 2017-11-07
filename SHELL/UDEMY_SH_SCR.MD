@@ -3,15 +3,15 @@
 ======
 
 ### Start Here - Course Overview and Downloads
-  * Course Overview
-  * Course Downloads
+  * <a href='#1'>Course Overview</a>
+  * <a href='#2'>Course Downloads</a>
 
 ### Shell Scripting, Succinctly
-  * Section Introduction
-  * Shell Scripting, Part I
-  * Shell Scripting, Part II
-  * Quiz 1: Shell Scripting
-  * Practice Exercises
+  * <a href='#3'>Section Introduction</a>
+  * <a href='#4'>Shell Scripting, Part I</a>
+  * <a href='#5'>Shell Scripting, Part II</a>
+  * <a href='#6'>Quiz 1: Shell Scripting</a>
+  * <a href='#7'>Practice Exercises</a>
 
 ### Section 3
 
@@ -36,16 +36,16 @@
 Start Here - Course Overview and Downloads
 ------
 
-#### Course Overview
+#### <h4 id='1'>Course Overview</h4>
 
-#### Course Downloads
+#### <h4 id='2'>Course Downloads</h4>
 
 Shell Scripting, Succinctly
 ------
 
-#### Section Introduction
+#### <h4 id='3'>Section Introduction</h4>
 
-#### Shell Scripting, Part I
+#### <h4 id='4'>Shell Scripting, Part I</h4>
 
 ```shell
 echo "Scripting is fun!"
@@ -55,8 +55,8 @@ Scripting is fun!
 >>>
 ```
 
-#### Shell Scripting, Part II
+#### <h4 id='5'>Shell Scripting, Part II</h4>
 
-#### Quiz 1: Shell Scripting
+#### <h4 id='6'>Quiz 1: Shell Scripting</h4>
 
-#### Practice Exercises
+#### <h4 id='7'>Practice Exercises</h4>
