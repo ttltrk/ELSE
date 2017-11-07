@@ -55,7 +55,93 @@ Scripting is fun!
 >>>
 ```
 
+```shell
+MY_SHELL="bash"
+echo "I like the $MY_SHELL shell."
+
+>>>
+I like the bash shell.
+>>>
+```
+
+```shell
+MY_SHELL="bash"
+echo "I like the ${MY_SHELL} shell."
+
+>>>
+I like the bash shell.
+>>>
+```
+
+```shell
+SERVER_NAME=(hostname)
+echo "You are running this script on ${SERVER_NAME}."
+
+>>>
+You are running this script on hostname.
+>>>
+```
+
 #### <h4 id='5'>Shell Scripting, Part II</h4>
+
+```shell
+if [ condition-is-true ]
+then
+  command 1
+  command 2
+  command N
+fi
+```
+
+```shell
+MY_SHELL="bash"
+
+if [ "MY_SHELL" = "bash" ]
+then
+  echo "You seem to like the bash shell."
+fi
+
+>>>
+You seem to like the bash shell.
+>>>
+```
+
+```shell
+if [ condition-is-true ]
+then
+  command N
+else 
+  command N
+fi
+```
+
+```shell
+
+>>>
+
+>>>
+```
+
+```shell
+
+>>>
+
+>>>
+```
+
+```shell
+
+>>>
+
+>>>
+```
+
+```shell
+
+>>>
+
+>>>
+```
 
 #### <h4 id='6'>Quiz 1: Shell Scripting</h4>
 
