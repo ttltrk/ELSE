@@ -116,32 +116,82 @@ fi
 ```
 
 ```shell
+if [ condition-is-true ]
+then
+  command N
+elif [ condition-is-true ]
+then
+  command N
+else
+  command N
+fi
+```
+
+```shell
+MY_SHELL="csh"
+
+if [ "$MY_SHELL" = "bash" ]
+then
+  echo "You seem to like the bash shell."
+elif [ "$MY_SHELL" = "csh" ]
+then
+  echo "You seem to like the csh shell."
+else
+  echo "You don't seem to like the bash or csh shells."
+fi
 
 >>>
-
+You seem to like the csh shell.
 >>>
 ```
 
 ```shell
+for VARIABLE_NAME in ITEM_1 ITEM_N
+do
+  command 1
+  command 2
+  command N
+done
+```
+
+```shell
+for COLOR in red green blue
+do
+  echo "COLOR: $COLOR"
+done
 
 >>>
-
+COLOR: red
+COLOR: green
+COLOR: blue
 >>>
 ```
 
 ```shell
+COLORS="red green blue"
+
+for COLOR in $COLORS
+do
+  echo "COLOR: $COLOR"
+done
 
 >>>
-
+COLOR: red
+COLOR: green
+COLOR: blue
 >>>
 ```
 
 ```shell
-
->>>
-
->>>
+USER=$1 # The first parameter is the user.
 ```
+
+```shell
+# Positional parameters are
+
+$0, $1, $2, ... $9
+$@
+>>>
 
 #### <h4 id='6'>Quiz 1: Shell Scripting</h4>
 
