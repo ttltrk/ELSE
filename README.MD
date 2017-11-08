@@ -18,3 +18,4 @@ Cron, Git and Shell documents
 
 ### cool Links
   * [Learn Programming - reddit](https://www.reddit.com/r/learnprogramming/wiki/faq)
+  * [FCC story - 01](http://themodernblock.com/interviews/quincy-larson-better-information-better-decisions/)
