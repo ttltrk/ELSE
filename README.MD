@@ -12,3 +12,9 @@ Cron, Git and Shell documents
   * [Shell Scripting: Discover How to Automate Command Line](https://github.com/ttltrk/ELSE/blob/master/SHELL/UDEMY_SH_SCR.MD)
   * [Learn Shell on Learnshell](https://github.com/ttltrk/ELSE/blob/master/SHELL/LEARNSHELL_SH.txt)
 
+### [Raspberry]
+  * []()
+  * []()
+
+### cool Links
+  * [Learn Programming - reddit](https://www.reddit.com/r/learnprogramming/wiki/faq)
