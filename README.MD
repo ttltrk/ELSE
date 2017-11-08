@@ -12,9 +12,9 @@ Cron, Git and Shell documents
   * [Shell Scripting: Discover How to Automate Command Line](https://github.com/ttltrk/ELSE/blob/master/SHELL/UDEMY_SH_SCR.MD)
   * [Learn Shell on Learnshell](https://github.com/ttltrk/ELSE/blob/master/SHELL/LEARNSHELL_SH.txt)
 
-### [Raspberry]
-  * []()
-  * []()
+### [Raspberry](https://github.com/ttltrk/ELSE/tree/master/RPI)
+  * [Login](https://github.com/ttltrk/ELSE/blob/master/RPI/LOGIN.MD)
+  * [Raspberry Pi Workshop 2017 Become a Coder](https://github.com/ttltrk/ELSE/blob/master/RPI/UDEMY_RPI_WS.MD)
 
 ### cool Links
   * [Learn Programming - reddit](https://www.reddit.com/r/learnprogramming/wiki/faq)
