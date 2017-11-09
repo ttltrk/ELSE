@@ -13,7 +13,11 @@
   * <a href='#6'>Quiz 1: Shell Scripting</a>
   * <a href='#7'>Practice Exercises</a>
 
-### Section 3
+### Exit Statuses and Return Codes
+  * <a href='#8'>Exit Statuses and Return Codes</a>
+  * <a href='#9'>Exit Status Demo</a>
+  * <a href='#10'>Quiz 2: Exit Statuses and Return Codes</a>
+  * <a href='#11'>Practice Exercises</a>
 
 ### Section 4
 
@@ -192,7 +196,80 @@ USER=$1 # The first parameter is the user.
 $0, $1, $2, ... $9
 $@
 >>>
+```
 
 #### <h4 id='6'>Quiz 1: Shell Scripting</h4>
 
 #### <h4 id='7'>Practice Exercises</h4>
+
+Exit Statuses and Return Codes
+------
+
+#### <h4 id='8'>EXIT Statuses and Return Codes</h4>
+
+```shell
+HOST="http://google.com"
+
+ping -c 1 $HOST
+
+if [ "$?" -eq "0" ]
+then
+  echo "$HOST reachable."
+else
+  echo "$HOST unreachable."
+fi
+
+>>>
+bash: ping: command not found
+http://google.com unreachable.
+>>>
+```
+
+```shell
+HOST="http://google.com"
+
+ping -c 1 $HOST
+
+if [ "$?" -ne "0" ]
+then
+  echo "$HOST unreachable."
+fi
+
+>>>
+bash: ping: command not found
+http://google.com unreachable.
+>>>
+```
+
+AND
+
+```
+&&
+```
+
+OR
+
+```
+||
+```
+
+```shell
+
+>>>
+
+>>>
+```
+
+```shell
+
+>>>
+
+>>>
+```
+
+#### <h4 id='9'>Exit Status Demo</h4>
+
+#### <h4 id='10'>Quiz 2: Exit Statuses and Return Codes</h4>
+
+#### <h4 id='11'>Practice Exercises</h4>
+
