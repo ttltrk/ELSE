@@ -241,30 +241,17 @@ http://google.com unreachable.
 >>>
 ```
 
-AND
+AND  ```&&```
 
-```
-&&
-```
-
-OR
-
-```
-||
-```
+OR ```||```
 
 ```shell
+cp text.txt /tmp/bak ; cp test.txt /tmp
 
->>>
+#Same as:
 
->>>
-```
-
-```shell
-
->>>
-
->>>
+cp test.txt /tmp/bak
+cp.test.txt /tmp
 ```
 
 #### <h4 id='9'>Exit Status Demo</h4>
