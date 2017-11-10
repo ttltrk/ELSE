@@ -19,7 +19,12 @@
   * <a href='#10'>Quiz 2: Exit Statuses and Return Codes</a>
   * <a href='#11'>Practice Exercises</a>
 
-### Section 4
+### Functions
+  * <a href='#12'>Functions P-1</a>
+  * <a href='#13'>Functions P-2</a>
+  * <a href='#14'>Quiz 3: Functions</a>
+  * <a href='#15'>Practice Exercises</a>
+  * <a href='#16'>Review</a>
 
 ### Section 5
 
@@ -259,4 +264,17 @@ cp.test.txt /tmp
 #### <h4 id='10'>Quiz 2: Exit Statuses and Return Codes</h4>
 
 #### <h4 id='11'>Practice Exercises</h4>
+
+Functions
+------
+
+#### <h4 id='12'>Functions P-1</h4>
+
+#### <h4 id='13'>Functions P-2</h4>
+
+#### <h4 id='14'>Quiz 3: Functions</h4>
+
+#### <h4 id='15'>Practice Exercises</h4>
+
+#### <h4 id='16'>Review</h4>
 
