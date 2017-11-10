@@ -19,3 +19,4 @@ Cron, Git and Shell documents
 ### cool Links
   * [Learn Programming - reddit](https://www.reddit.com/r/learnprogramming/wiki/faq)
   * [FCC story - 01](http://themodernblock.com/interviews/quincy-larson-better-information-better-decisions/)
+  * [Life Long Learning - AOM](http://www.artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/)
