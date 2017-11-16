@@ -55,7 +55,13 @@ make directory ```mkdir <dirname>```
 
 change directory ```cd```
 
-create textfile with nano ```nano <filename>```
+create or edit textfile with nano editor ```nano <filename>```
+
+remove file ```rm <filename>```
+
+remove directory ```rmdir <direcotryname>```
+
+clear the window ```clear```
 
 #### <h4 id='6'>Staying Updated</h4>
 
