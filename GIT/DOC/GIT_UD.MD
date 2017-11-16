@@ -2,7 +2,10 @@
 [GitHub Ultimate: Master Git and GitHub](https://www.udemy.com/github-ultimate/learn/v4/t/lecture/4493018?start=0)
 ======
 
-### Section 1
+### Introduction
+  * <a href='#1'>Course Welcome</a>
+  * <a href='#2'>Audience and Approach</a>
+  * <a href='#3'>Using the Command line</a>
 
 ### Section 2
 
