@@ -71,8 +71,16 @@ super user do ```sudo```
 sudo apt-get update
 ```
 
+SW Package Upgarde
+
 ```
 sudo apt-get upgrade
+```
+
+Distribution Upgrade
+
+```
+sudo apt-get dist-upgrade
 ```
 
 Programming with Python
