@@ -12,6 +12,10 @@ Basic UNIX Commands
 
 ### <h3 id="1">Files</h3>
 
+```ls``` list your files
+```ls -l``` list your files in long format
+```ls -a``` list all files
+
 ### <h3 id="2">Directories</h3>
 
 ### <h3 id="3">Finding Things</h3>
