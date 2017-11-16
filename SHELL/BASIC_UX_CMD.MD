@@ -18,6 +18,20 @@ Basic UNIX Commands
 
 ```ls -a``` list all files
 
+```more <filename>``` shows the first part of a file
+
+```emacs <filename>``` create or edit a file with emacs
+
+```vi <filename>``` create or edit a file with vi
+
+``` mv <filename1> <filename2>``` moves a file (gives it a different name, or moves it into a different directory)
+
+```cp <filename1> <filename2>``` copies a file
+
+```rm <filename>``` removes a file
+
+```diff <filename1> <filename2>``` compares files, and shows where they differ
+
 ### <h3 id="2">Directories</h3>
 
 ### <h3 id="3">Finding Things</h3>
