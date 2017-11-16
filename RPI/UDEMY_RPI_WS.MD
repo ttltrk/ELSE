@@ -37,6 +37,23 @@ First Steps
 
 #### <h4 id='5'>Introduction to the Shell</h4>
 
+```
+pi@raspberrypi
+```
+
+username ```pi```
+workstation ```raspberrypi```
+
+Basic commands
+
+print working directory ```pwd```
+
+list ```ls```
+
+make directory ```mkdir <dirname>```
+
+change directory ```cd```
+
 #### <h4 id='6'>Staying Updated</h4>
 
 Programming with Python
