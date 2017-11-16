@@ -63,7 +63,17 @@ remove directory ```rmdir <direcotryname>```
 
 clear the window ```clear```
 
+super user do ```sudo```
+
 #### <h4 id='6'>Staying Updated</h4>
+
+```
+sudo apt-get update
+```
+
+```
+sudo apt-get upgrade
+```
 
 Programming with Python
 ------
