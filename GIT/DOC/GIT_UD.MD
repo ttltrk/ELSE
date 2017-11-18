@@ -7,7 +7,12 @@
   * <a href='#2'>Audience and Approach</a>
   * <a href='#3'>Using the Command line</a>
 
-### Section 2
+### Core Concepts
+  * <a href='#4'>Core Concept Overview</a>
+  * <a href='#5'>What is Git</a>
+  * <a href='#6'>The Repository</a>
+  * <a href='#7'>Commits and Files</a>
+  * <a href='#8'>What is GitHub</a>
 
 ### Section 3
 
