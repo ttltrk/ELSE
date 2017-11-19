@@ -88,3 +88,37 @@ point(104,250);
 point(105,250);
 line(50, 50, 400, 200);
 ```
+
+Create an ```ellipse```
+
+```
+size(600,400);
+ellipse(100, 150, 50, 50);
+```
+
+Updated with ```rect```
+
+```
+size(600,400);
+ellipse(100, 150, 50, 50);
+rect(100, 150, 50, 50);
+```
+
+Covering the ```ellipse```
+
+```
+size(600,400);
+ellipse(100, 150, 50, 50);
+rectMode(CENTER);
+rect(100, 150, 50, 50);
+```
+
+comment
+
+```
+size(600,400);
+//the next line will create an ellipse
+ellipse(100, 150, 50, 50);
+rectMode(CENTER);
+rect(100, 150, 50, 50);
+```
