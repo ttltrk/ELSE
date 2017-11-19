@@ -5,6 +5,8 @@ Coding for beginners: learn coding by creating art
 [performance.org](https://processing.org/)
 
 ### Introduction
+  * <a href="#1">What this course is about</a>
+  * <a href="#2">Why should you learn creative coding?</a>
 
 ### Setting things Up
 
