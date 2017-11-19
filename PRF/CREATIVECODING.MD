@@ -130,6 +130,4 @@ size(600,400);
 //the next line will create an ellipse
 rect(100, 150, 50, 50);
 ellipse(100, 150, 50, 50);
-//rectMode(CENTER);
-rect(100, 150, 50, 50);
 ```
