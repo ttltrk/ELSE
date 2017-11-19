@@ -113,7 +113,7 @@ rectMode(CENTER);
 rect(100, 150, 50, 50);
 ```
 
-comment
+Use a ```Comment```
 
 ```
 size(600,400);
