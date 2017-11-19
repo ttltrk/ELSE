@@ -19,3 +19,7 @@ Starting to draw basic shapes
 ------
 
 ### <h3 id="7">Prepare your draving board</h3>
+
+Create bigger drawing board
+
+size(500,500);
