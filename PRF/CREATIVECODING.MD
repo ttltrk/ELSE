@@ -15,7 +15,7 @@
   * <a href="#6">Discover the processing user interface</a>
 
 ### Starting to draw basic shapes
-  * <a href="#7">Prepare your draving board</a>
+  * <a href="#7">Prepare your drawing board</a>
   * <a href="#8">Use the different basic shapes</a>
 
 ### Section
@@ -45,7 +45,7 @@ Setting things Up
 Starting to draw basic shapes
 ------
 
-### <h3 id="7">Prepare your draving board</h3>
+### <h3 id="7">Prepare your drawing board</h3>
 
 Create bigger drawing board
 
