@@ -16,6 +16,7 @@
 
 ### Starting to draw basic shapes
   * <a href="#7">Prepare your draving board</a>
+  * <a href="#8">Use the different basic shapes</a>
 
 ### Section
 
@@ -53,3 +54,37 @@ size(500,500);
 ```
 
 in the ```reference``` topic you can find more details about the commands
+
+### <h3 id="8">Use the different basic shapes</h3>
+
+Created one small point
+
+```
+size(600,400);
+point(100,250);
+```
+
+Made a short line
+
+```
+size(600,400);
+point(100,250);
+point(101,250);
+point(102,250);
+point(103,250);
+point(104,250);
+point(105,250);
+```
+
+Made a longer line
+
+```
+size(600,400);
+point(100,250);
+point(101,250);
+point(102,250);
+point(103,250);
+point(104,250);
+point(105,250);
+line(50, 50, 400, 200);
+```
