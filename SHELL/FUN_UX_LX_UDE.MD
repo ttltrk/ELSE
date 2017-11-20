@@ -79,6 +79,6 @@ Moving in ```man``` file
 
 <h3 id="4">Advance man command</h3>
 
-
+```which <command>``` find the path of the command
 
 <h3 id="5">Quiz 1: Section 1</h3>
