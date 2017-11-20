@@ -17,6 +17,7 @@
 ### Starting to draw basic shapes
   * <a href="#7">Prepare your drawing board</a>
   * <a href="#8">Use the different basic shapes</a>
+  * <a href="#9">One additional shape and greyscales</a>
 
 ### Section
 
@@ -131,3 +132,38 @@ size(600,400);
 rect(100, 150, 50, 50);
 ellipse(100, 150, 50, 50);
 ```
+
+### <h3 id="9">One additional shape and greyscales</h3>
+
+Triangle
+
+```
+size(800,600);
+triangle(50,50,  700,200,  300,500);
+```
+
+Another traingle
+
+```
+size(800,600);
+triangle(50,50,  700,200,  300,500);
+triangle(-100,400,  500,200,  600,1000);
+```
+
+stroke()
+
+```
+size(800,600);
+triangle(50,50,  700,200,  300,500);
+stroke(150);
+triangle(-100,400,  500,200,  600,1000);
+```
+
+```
+
+```
+
+```
+
+```
+
