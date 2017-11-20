@@ -77,7 +77,8 @@ Moving in ```man``` file
 
 ```q``` exit
 
-
 <h3 id="4">Advance man command</h3>
+
+
 
 <h3 id="5">Quiz 1: Section 1</h3>
