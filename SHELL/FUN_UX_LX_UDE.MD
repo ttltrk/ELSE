@@ -67,6 +67,17 @@ Where to Start
 
 <h3 id="3">Getting help on Linux</h3>
 
+Moving in ```man``` file
+
+```space``` down
+
+```b``` back or up
+
+```/``` search
+
+```q``` exit
+
+
 <h3 id="4">Advance man command</h3>
 
 <h3 id="5">Quiz 1: Section 1</h3>
