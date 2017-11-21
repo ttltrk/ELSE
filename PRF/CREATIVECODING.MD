@@ -19,7 +19,17 @@
   * <a href="#8">Use the different basic shapes</a>
   * <a href="#9">One additional shape and greyscales</a>
 
-### Section
+### It's Alive! Getting things moving
+  * <a href="#10">Improve the setup and act random</a>
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+  *
 
 ### Section
 
@@ -196,4 +206,15 @@ fill(50);
 triangle(-100,400,  500,200,  600,1000);
 ```
 
+It's Alive! Getting things moving
+------
 
+### <h3 id="10">Improve the setup and act random</h3>
+
+```
+
+```
+
+```
+
+```
