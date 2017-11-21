@@ -79,7 +79,15 @@ Moving in ```man``` file
 
 <h3 id="4">Advance man command</h3>
 
-```which <command>``` find the path of the command
+find the path of the command
+
+```
+which python
+
+ttltrk-mbp:Desktop attilatorok$ which python
+/usr/bin/python
+ttltrk-mbp:Desktop attilatorok$ 
+``` 
 
 ```history``` you can check the history about your used commands
 
@@ -87,21 +95,19 @@ Moving in ```man``` file
 HISTTIMEFORMAT="%d/%m/%y %T "
 history
 
->>>
- 500  ??jekyll serve
-  501  21/11/17 13:55:33 pwd
-  502  21/11/17 13:55:39 which ttltrk
-  503  21/11/17 13:55:45 which java
-  504  21/11/17 13:56:03 which jekyll
-  505  21/11/17 13:56:25 cd /usr/local/bin/jekyll
-  506  21/11/17 13:56:40 cd /usr/local/bin
-  507  21/11/17 13:56:43 ls -l
-  508  21/11/17 13:58:29 clear
-  509  21/11/17 13:58:32 history
-  510  21/11/17 14:02:06 HISTTIMEFORMAT="%d/%m/%y %T "
-  511  21/11/17 14:02:08 history
-ttltrk-mbp:bin attilatorok$ 
->>>
+ttltrk-mbp:Desktop attilatorok$ HISTTIMEFORMAT="%d/%m/%y %T "
+ttltrk-mbp:Desktop attilatorok$ history
+  535  21/11/17 14:12:36 pwd
+  536  21/11/17 14:12:45 more full_or_not
+  537  21/11/17 14:12:50 pwd
+  538  21/11/17 14:12:52 ls -l
+  539  21/11/17 14:13:11 more full_or_not.html
+  540  21/11/17 14:13:28 echo > full_or_not.html
+  541  21/11/17 14:13:39 more full_or_not.html
+  542  21/11/17 14:19:29 clear
+  543  21/11/17 14:19:32 HISTTIMEFORMAT="%d/%m/%y %T "
+  544  21/11/17 14:19:35 history
+ttltrk-mbp:Desktop attilatorok$ 
 ```
 
 ```
