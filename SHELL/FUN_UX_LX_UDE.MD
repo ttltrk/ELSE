@@ -120,4 +120,37 @@ ttltrk-mbp:Desktop attilatorok$ du -h -d=1 *
 ttltrk-mbp:Desktop attilatorok$ 
 ```
 
+```
+echo > full_or_not.html
+
+ttltrk-mbp:Desktop attilatorok$ more full_or_not.html
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1404.47">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+  </style>
+</head>
+<body>
+<p class="p1">full</p>
+</body>
+</html>
+ttltrk-mbp:Desktop attilatorok$ 
+ttltrk-mbp:Desktop attilatorok$ echo > full_or_not.html
+ttltrk-mbp:Desktop attilatorok$ more full_or_not.html
+
+ttltrk-mbp:Desktop attilatorok$ 
+```
+
+[linux.org](https://www.linux.org/)
+
+[kernel.org](https://www.kernel.org/)
+
+[serverfault.com](https://serverfault.com/)
+
 <h3 id="5">Quiz 1: Section 1</h3>
