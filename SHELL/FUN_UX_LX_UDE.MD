@@ -81,4 +81,43 @@ Moving in ```man``` file
 
 ```which <command>``` find the path of the command
 
+```history``` you can check the history about your used commands
+
+```
+HISTTIMEFORMAT="%d/%m/%y %T "
+history
+
+>>>
+ 500  ??jekyll serve
+  501  21/11/17 13:55:33 pwd
+  502  21/11/17 13:55:39 which ttltrk
+  503  21/11/17 13:55:45 which java
+  504  21/11/17 13:56:03 which jekyll
+  505  21/11/17 13:56:25 cd /usr/local/bin/jekyll
+  506  21/11/17 13:56:40 cd /usr/local/bin
+  507  21/11/17 13:56:43 ls -l
+  508  21/11/17 13:58:29 clear
+  509  21/11/17 13:58:32 history
+  510  21/11/17 14:02:06 HISTTIMEFORMAT="%d/%m/%y %T "
+  511  21/11/17 14:02:08 history
+ttltrk-mbp:bin attilatorok$ 
+>>>
+```
+
+```
+du -h -d=1 *
+
+ttltrk-mbp:Desktop attilatorok$ du -h -d=1 *
+ 74M	Brackets.Release.1.11.dmg
+236M	Processing.app
+9.7M	TheSpaGuiToProCreIntArtWitCod
+120M	WEB
+3.5M	course-e-book-web-v2.1 copy.pdf
+3.5M	course-e-book-web-v2.1.pdf
+3.4G	desk
+109M	processing-3.3.6-macosx.zip
+232K	ttltrk
+ttltrk-mbp:Desktop attilatorok$ 
+```
+
 <h3 id="5">Quiz 1: Section 1</h3>
