@@ -88,6 +88,10 @@ Programming with Python
 
 #### <h4 id='7'>Overview</h4>
 
+```
+
+```
+
 #### <h4 id='8'>Introduction to Python</h4>
 
 #### <h4 id='9'>Connecting to the Outside World with GPIO</h4>
