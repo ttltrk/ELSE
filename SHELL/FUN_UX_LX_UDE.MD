@@ -182,6 +182,20 @@ tar -xvf <file_name>
 a program to be run on a wide number of different computers. It matches the libraries
 on the user's computer, with those required by the program before compiling it from its source code.
 
-```
+Package types
+
+```RPM``` Red Hat Package
+
+Install
 
 ```
+rpmi -i <package_name.rpm>
+```
+
+Update
+
+```
+rpm - U <package_name.rpm>
+```
+
+```DEB``` Debian PKG used by Ubuntu
