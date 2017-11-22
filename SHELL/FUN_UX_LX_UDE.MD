@@ -85,7 +85,8 @@ Moving in ```man``` file
 
 <h3 id="4">Advance man command</h3>
 
-find the path of the command
+
+```which``` shows the full path of (shell) commands
 
 ```
 which python
