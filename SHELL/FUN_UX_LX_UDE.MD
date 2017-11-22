@@ -117,6 +117,8 @@ ttltrk-mbp:Desktop attilatorok$ history
 ttltrk-mbp:Desktop attilatorok$ 
 ```
 
+```du``` estimate file space usage
+
 ```
 du -h -d=1 *
 
