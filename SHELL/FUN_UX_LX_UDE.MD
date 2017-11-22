@@ -11,7 +11,13 @@
   * <a href="#4">Advance man command</a>
   * <a href="#5">Quiz 1: Section 1</a>
 
-### Section 3
+### Package Management
+  * <a href="#6">Introduction to package management</a>
+  * <a href="#7"></a>
+  * <a href="#8"></a>
+  * <a href="#9"></a>
+  * <a href="#10"></a>
+  * <a href="#11"></a>
 
 ### Section 4
 
@@ -159,4 +165,23 @@ ttltrk-mbp:Desktop attilatorok$
 
 [serverfault.com](https://serverfault.com/)
 
-<h3 id="5">Quiz 1: Section 1</h3>
+### <h3 id="5">Quiz 1: Section 1</h3>
+
+Package Management
+------
+
+### <h3 id="6">Introduction to package management</h3>
+
+```tar``` tape archiver (Create, extract, or list files from a tar file)
+
+```
+tar -xvf <file_name>
+```
+
+```./configure``` A configure script is an executable script designed to aid in developing
+a program to be run on a wide number of different computers. It matches the libraries
+on the user's computer, with those required by the program before compiling it from its source code.
+
+```
+
+```
