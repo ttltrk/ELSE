@@ -207,6 +207,6 @@ rpm - U <package_name.rpm>
 
 Updating Packages
 
-```shell
+```
 apt-get update
 ```
