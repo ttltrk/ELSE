@@ -13,7 +13,7 @@
 
 ### Package Management
   * <a href="#6">Introduction to package management</a>
-  * <a href="#7"></a>
+  * <a href="#7">Installing from RPM</a>
   * <a href="#8"></a>
   * <a href="#9"></a>
   * <a href="#10"></a>
@@ -202,3 +202,5 @@ rpm - U <package_name.rpm>
 ```
 
 ```DEB``` Debian PKG used by Ubuntu
+
+### <h3 id='7'>Installing from RPM</h3>
