@@ -204,3 +204,9 @@ rpm - U <package_name.rpm>
 ```DEB``` Debian PKG used by Ubuntu
 
 ### <h3 id='7'>Installing from RPM</h3>
+
+Updating Packages
+
+```shell
+apt-get update
+```
