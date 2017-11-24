@@ -17,9 +17,9 @@
 ### Section 3 - Quick Installation
   * <a href='#9'>9 - Quick Install Overview</a>
   * <a href='#10'>10 - Quick Install on WIN</a>
-  *
-  *
-  *
+  * <a href='#11'>11 - Quick Install on WIN notes</a>
+  * <a href='#12'>12 - Quick Install on MAC</a>
+  * <a href='#13'>13 - Quick Install on MAC notes</a>
 
 ### Section 4
 
@@ -98,7 +98,52 @@ minimal config
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 ```
+
+Create or Update ```~/.bash_profile```
+
+Create alias
+
 ```
+notepad++ ~/.bash_profile
+```
+
+Add new line to .bash_profile
+
+```
+alias npp='notepad++ -multiInst -nosession'
+```
+
+Default Text Editor in Git
+
+```
+git config --global core.editor
+  "notepad++ -multiInst -nosession"
+```
+
+Test Git Integration
+
+```
+git config --global -e
+```
+
+### <h3 id='11'>11 - Quick Install on WIN notes</h3>
+
+[udemy](https://www.udemy.com/github-ultimate/learn/v4/t/lecture/4731496?start=0)
+
+### <h3 id='12'>12 - Quick Install on MAC</h3>
+
+[udemy](https://www.udemy.com/github-ultimate/learn/v4/t/lecture/4996796?start=0)
+
+```
+
+```
+
+```
+
+```
+
+### <h3 id='13'>13 - Quick Install on MAC notes</h3>
+
 
 
 
