@@ -88,6 +88,18 @@ Section 3 - Quick Installation
 
 [git-scm.com](https://git-scm.com/)
 
+minimal config
+
+  * defaults ok
+  * git bash + cmd
+  * checkout as-is / Commit Unix-style
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+```
+```
+
 
 
 
