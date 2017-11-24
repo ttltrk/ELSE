@@ -2,19 +2,24 @@
 [GitHub Ultimate: Master Git and GitHub](https://www.udemy.com/github-ultimate/learn/v4/t/lecture/4493018?start=0)
 ======
 
-### Introduction
-  * <a href='#1'>Course Welcome</a>
-  * <a href='#2'>Audience and Approach</a>
-  * <a href='#3'>Using the Command line</a>
+### Section 1 - Introduction
+  * <a href='#1'>1 - Course Welcome</a>
+  * <a href='#2'>2 - Audience and Approach</a>
+  * <a href='#3'>3 - Using the Command line</a>
 
-### Core Concepts
-  * <a href='#4'>Core Concept Overview</a>
-  * <a href='#5'>What is Git</a>
-  * <a href='#6'>The Repository</a>
-  * <a href='#7'>Commits and Files</a>
-  * <a href='#8'>What is GitHub</a>
+### Section 2 - Core Concepts
+  * <a href='#4'>4 - Core Concept Overview</a>
+  * <a href='#5'>5 - What is Git</a>
+  * <a href='#6'>6 - The Repository</a>
+  * <a href='#7'>7 - Commits and Files</a>
+  * <a href='#8'>8 - What is GitHub</a>
 
-### Section 3
+### Section 3 - Quick Installation
+  * <a href='#9'>9 - Quick Install Overview</a>
+  * <a href='#10'>10 - Quick Install on WIN</a>
+  *
+  *
+  *
 
 ### Section 4
 
@@ -49,4 +54,41 @@
 ### Section 19
 
 ### Section 20
+
+Section 1 - Introduction
+------
+
+### <h3 id='1'>1 - Course Welcome</a>
+
+### <h3 id='2'>2 - Audience and Approach</a>
+
+### <h3 id='3'>3 - Using the Command line</a>
+
+Section 2 - Core Concepts
+------
+
+### <h3 id='4'>4 - Core Concept Overview</a>
+
+### <h3 id='5'>5 - What is Git</a>
+
+### <h3 id='6'>6 - The Repository</a>
+
+### <h3 id='7'>7 - Commits and Files</a>
+
+### <h3 id='8'>8 - What is GitHub</a>
+
+Section 3 - Quick Installation
+------
+
+### <h3 id='9'>9 - Quick Install Overview</a>
+
+### <h3 id='10'>10 - Quick Install on WIN</a>
+
+[udemy](https://www.udemy.com/github-ultimate/learn/v4/t/lecture/4996794?start=0)
+
+[git-scm.com](https://git-scm.com/)
+
+
+
+
 
