@@ -14,7 +14,7 @@
 ### Package Management
   * <a href="#6">Introduction to package management</a>
   * <a href="#7">Installing from RPM</a>
-  * <a href="#8"></a>
+  * <a href="#8">Making a local apt-get repo</a>
   * <a href="#9"></a>
   * <a href="#10"></a>
   * <a href="#11"></a>
@@ -210,3 +210,33 @@ Updating Packages
 ```
 apt-get update
 ```
+
+### <h3 id="8">Making a local apt-get repo</h3>
+
+[udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077806?start=15)
+
+Check the details
+
+```
+sudo apt-get install apt-mirror
+```
+
+Create a Symbolic link ```sudo ln -s <path> <name>```
+
+```
+cd /var/www/html
+pwd
+/var/www/html
+sudo ln -s /var/spool/apt-mirror ubuntu
+```
+
+```
+
+```
+
+```
+
+```
+
+
+
