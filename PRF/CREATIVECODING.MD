@@ -209,7 +209,7 @@ triangle(-100,400,  500,200,  600,1000);
 It's Alive! Getting things moving
 ------
 
-### <h3 id="10">Improve the setup and act random</h3>
+### <h3 id="13">Improve the setup and act random</h3>
 
 Using random()
 
