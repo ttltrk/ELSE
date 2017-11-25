@@ -221,3 +221,106 @@ void setup() {
 }
 ```
 
+ <h3 id-"13">Create moving laser beams</h3>
+ 
+ using draw()
+ 
+ ```
+ void setup() {
+  size(500,500); 
+}
+
+void draw() {
+  background(random(256));
+  ellipse(width/2, height/2, 100,100);
+}
+```
+
+frameRate() will change the blinking to 2 sec
+
+```
+void setup() {
+  size(500,500); 
+  frameRate(2);
+}
+
+void draw() {
+  background(random(256));
+  ellipse(width/2, height/2, 100,100);
+}
+```
+
+making a line
+
+```
+void setup() {
+  size(500,500); 
+  frameRate(2);
+  background(0);
+}
+
+void draw() {
+  stroke(255,0,0);
+  line(0,0,  width, height);
+}
+```
+
+changing the line size, with random (numbers) command
+
+```
+void setup() {
+  size(500,500); 
+  frameRate(2);
+  background(0);
+}
+
+void draw() {
+  stroke(random(255),0,0);
+  line(0,0,  width, height);
+}
+```
+
+use the random cmd for the line (angle) too
+
+```
+void setup() {
+  size(500,500); 
+  //frameRate(2);
+  background(0);
+}
+
+void draw() {
+  stroke(random(255),0,0);
+  line(0,0,  random(width), random(height));
+}
+```
+
+central
+
+```
+void setup() {
+  size(500,500); 
+  //frameRate(2);
+  background(0);
+}
+
+void draw() {
+  stroke(random(255),0,0);
+  line(width/2,height/2,  random(width), random(height));
+}
+```
+
+with green lines
+
+```
+void setup() {
+  size(500,500); 
+  //frameRate(2);
+  background(0);
+}
+
+void draw() {
+  stroke(0, random(255),0);
+  line(width/2,height/2,  random(width), random(height));
+}
+```
