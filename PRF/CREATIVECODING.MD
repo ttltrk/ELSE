@@ -21,13 +21,13 @@
 
 ### It's Alive! Getting things moving
   * <a href="#10">Improve the setup and act random</a>
-  *
-  *
-  *
-  *
-  *
-  *
-  *
+  * <a href="#11">Exercise: random size</a>
+  * <a href="#12">Exercise: random size solution</a>
+  * <a href="#13">Create moving laser beams</a>
+  * <a href="#14"></a>
+  * <a href="#15"></a>
+  * <a href="#16"></a>
+  * <a href="#17"></a>
   *
   *
 
