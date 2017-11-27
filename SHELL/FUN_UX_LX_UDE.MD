@@ -71,7 +71,11 @@ Where to Start
 
 ### <h3 id="2">2 - Linux Unix Administration Fundamentals</h3>
 
+[[Linux Unix Administration Fundamentals.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077794?start=0)]
+
 ### <h3 id="3">3 - Getting help on Linux</h3>
+
+[[Getting help on Linux.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077796?start=0)]
 
 Moving in ```man``` file
 
@@ -84,6 +88,8 @@ Moving in ```man``` file
 ```q``` exit
 
 ### <h3 id="4">4 - Advance man command</h3>
+
+[[Advance man command.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077800?start=0)]
 
 ```which``` shows the full path of (shell) commands
 
@@ -161,16 +167,18 @@ ttltrk-mbp:Desktop attilatorok$ more full_or_not.html
 ttltrk-mbp:Desktop attilatorok$ 
 ```
 
-[linux.org](https://www.linux.org/)
+[[linux.org](https://www.linux.org/)]
 
-[kernel.org](https://www.kernel.org/)
+[[kernel.org](https://www.kernel.org/)]
 
-[serverfault.com](https://serverfault.com/)
+[[serverfault.com](https://serverfault.com/)]
 
 Package Management
 ------
 
 ### <h3 id="5">5 - Introduction to package management</h3>
+
+[[Introduction to package management.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077802?start=0)]
 
 ```tar``` tape archiver (Create, extract, or list files from a tar file)
 
@@ -202,6 +210,8 @@ rpm - U <package_name.rpm>
 
 ### <h3 id='6'>6 - Installing from RPM</h3>
 
+[[Installing from RPM.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077804?start=0)]
+
 Updating Packages
 
 ```
@@ -210,7 +220,7 @@ apt-get update
 
 ### <h3 id="7">7 - Making a local apt-get repo</h3>
 
-[udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077806?start=15)
+[[Making a local apt-get repo.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077806?start=0)]
 
 Check the details
 
@@ -229,7 +239,7 @@ sudo ln -s /var/spool/apt-mirror ubuntu
 
 ### <h3 id="8">8 - Making a local yum repo</h3>
 
-[udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077808?start=15)
+[Making a local yum repo.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077808?start=15)
 
 mount
 
@@ -264,6 +274,8 @@ yum -y install createrepo
 ```
 
 ### <h3 id="9">9 - Tips and tricks</h3>
+
+[[Tips and tricks.udemy]()]
 
 ```
 ```
