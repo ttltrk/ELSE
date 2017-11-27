@@ -234,12 +234,47 @@ sudo ln -s /var/spool/apt-mirror ubuntu
 
 [udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077808?start=15)
 
+mount
+
+```
+mount /dev/sr0 /mnt/
+```
+
+configure the details
+
+check if we install the correct repo
+
+```
+yum repolist
+```
+
+packages will install from DVD
+
+```
+yum --disablerepo=public_* install httpd
 ```
 
 ```
-
+yum -y yum-util
 ```
 
+```
+reposync -r <repo_name> -p /path/
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
 ```
 
 
