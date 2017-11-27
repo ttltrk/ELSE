@@ -239,7 +239,7 @@ sudo ln -s /var/spool/apt-mirror ubuntu
 
 ### <h3 id="8">8 - Making a local yum repo</h3>
 
-[Making a local yum repo.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077808?start=15)
+[[Making a local yum repo.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077808?start=15)]
 
 mount
 
