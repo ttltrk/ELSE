@@ -2,23 +2,21 @@
 [Fundamentals of Unix and Linux System Administration](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/content)
 ======
 
-### Introduction
-  * <a href="#1">Introduction</a>
+### Section 1 - Introduction
+  * <a href="#1">1 - Introduction</a>
 
-### Where to Start
-  * <a href="#2">Linux Unix Administration Fundamentals</a>
-  * <a href="#3">Getting help on Linux</a>
-  * <a href="#4">Advance man command</a>
-  * <a href="#5">Quiz 1: Section 1</a>
-
-### Package Management
-  * <a href="#6">Introduction to package management</a>
-  * <a href="#7">Installing from RPM</a>
-  * <a href="#8">Making a local apt-get repo</a>
-  * <a href="#9">Making a local yum repo</a>
-  * <a href="#10"></a>
-  * <a href="#11"></a>
-
+### Section 2 - Where to Start
+  * <a href="#2">2 - Linux Unix Administration Fundamentals</a>
+  * <a href="#3">3 - Getting help on Linux</a>
+  * <a href="#4">4 - Advance man command</a>
+  
+### Section 3 - Package Management
+  * <a href="#5">5 - Introduction to package management</a>
+  * <a href="#6">6 - Installing from RPM</a>
+  * <a href="#7">7 - Making a local apt-get repo</a>
+  * <a href="#8">8 - Making a local yum repo</a>
+  * <a href="#9">9 - Tips and tricks</a>
+  
 ### Section 4
 
 ### Section 5
@@ -64,14 +62,16 @@
 Introduction
 ------
 
-<h3 id="1">Introduction</h3>
+### <h3 id="1">1 - Introduction</h3>
+
+[[Introduction.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4041912?start=0)]
 
 Where to Start
 ------
 
-<h3 id="2">Linux Unix Administration Fundamentals</h3>
+### <h3 id="2">2 - Linux Unix Administration Fundamentals</h3>
 
-<h3 id="3">Getting help on Linux</h3>
+### <h3 id="3">3 - Getting help on Linux</h3>
 
 Moving in ```man``` file
 
@@ -83,8 +83,7 @@ Moving in ```man``` file
 
 ```q``` exit
 
-<h3 id="4">Advance man command</h3>
-
+### <h3 id="4">4 - Advance man command</h3>
 
 ```which``` shows the full path of (shell) commands
 
@@ -168,12 +167,10 @@ ttltrk-mbp:Desktop attilatorok$
 
 [serverfault.com](https://serverfault.com/)
 
-### <h3 id="5">Quiz 1: Section 1</h3>
-
 Package Management
 ------
 
-### <h3 id="6">Introduction to package management</h3>
+### <h3 id="5">5 - Introduction to package management</h3>
 
 ```tar``` tape archiver (Create, extract, or list files from a tar file)
 
@@ -203,7 +200,7 @@ rpm - U <package_name.rpm>
 
 ```DEB``` Debian PKG used by Ubuntu
 
-### <h3 id='7'>Installing from RPM</h3>
+### <h3 id='6'>6 - Installing from RPM</h3>
 
 Updating Packages
 
@@ -211,7 +208,7 @@ Updating Packages
 apt-get update
 ```
 
-### <h3 id="8">Making a local apt-get repo</h3>
+### <h3 id="7">7 - Making a local apt-get repo</h3>
 
 [udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077806?start=15)
 
@@ -230,7 +227,7 @@ pwd
 sudo ln -s /var/spool/apt-mirror ubuntu
 ```
 
-### <h3 id="9">Making a local yum repo</h3>
+### <h3 id="8">8 - Making a local yum repo</h3>
 
 [udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077808?start=15)
 
@@ -265,6 +262,8 @@ reposync -r <repo_name> -p /path/
 ```
 yum -y install createrepo
 ```
+
+### <h3 id="9">9 - Tips and tricks</h3>
 
 ```
 ```
