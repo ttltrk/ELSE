@@ -263,6 +263,22 @@ reposync -r <repo_name> -p /path/
 ```
 
 ```
+yum -y install createrepo
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
 ```
 
 ```
