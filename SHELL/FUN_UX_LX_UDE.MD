@@ -15,7 +15,7 @@
   * <a href="#6">Introduction to package management</a>
   * <a href="#7">Installing from RPM</a>
   * <a href="#8">Making a local apt-get repo</a>
-  * <a href="#9"></a>
+  * <a href="#9">Making a local yum repo</a>
   * <a href="#10"></a>
   * <a href="#11"></a>
 
@@ -229,6 +229,10 @@ pwd
 /var/www/html
 sudo ln -s /var/spool/apt-mirror ubuntu
 ```
+
+### <h3 id="9">Making a local yum repo</h3>
+
+[udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077808?start=15)
 
 ```
 
