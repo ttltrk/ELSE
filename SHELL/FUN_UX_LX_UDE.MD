@@ -283,13 +283,22 @@ Package install
 yum -y install <package_name>
 ```
 
-```
-```
+Package search
 
 ```
+yum search <package_name>
 ```
 
+Find the Part of the Package 
+
 ```
+yum whatprovides <part_of_the_pkg_name>
+```
+
+Info about packages
+
+```
+yum info <package_name>
 ```
 
 ```
