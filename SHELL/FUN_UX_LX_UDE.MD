@@ -275,9 +275,12 @@ yum -y install createrepo
 
 ### <h3 id="9">9 - Tips and tricks</h3>
 
-[[Tips and tricks.udemy]()]
+[[Tips and tricks.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077810?start=15)]
+
+Package install
 
 ```
+yum -y install <package_name>
 ```
 
 ```
