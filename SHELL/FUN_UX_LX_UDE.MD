@@ -315,8 +315,43 @@ yum info <package_name>
 
 ### <h3 id='10'>10 - Introduction to Shell Scripting</h3>
 
+[[Introduction to Shell Scripting.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4115944?start=15)]
+
+Emacs shortcuts
+
+```
+CTRL-E: jump to the end of the current line
+CTRL-A: move to the line beginning
+CTRL-P: bring the last used command
+CTRL-R: search in command history
+```
+
+Vi shortcuts
+
+```
+$: go to the end of the current line
+0: jump to the start of the current line
+k: brings the last command typed
+/: searches the history for commands
+```
+
+3 channels are available to a given process
+
+```
+STDIN - input
+STDOUT - output
+STDERR - error message
+```
+
 ```
 ```
+
+```
+```
+
+### <h3 id='11'>11 - </h3>
+
+[[]()]
 
 ```
 ```
@@ -330,5 +365,138 @@ yum info <package_name>
 ```
 ```
 
+```
+```
 
+### <h3 id='12'>12 - </h3>
 
+[[]()]
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+### <h3 id='13'>13 - </h3>
+
+[[]()]
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+### <h3 id='14'>14 - </h3>
+
+[[]()]
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+### <h3 id='15'>15 - </h3>
+
+[[]()]
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+### <h3 id='16'>16 - </h3>
+
+[[]()]
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+### <h3 id='17'>17 - </h3>
+
+[[]()]
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+### <h3 id='18'>18 - </h3>
+
+[[]()]
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
