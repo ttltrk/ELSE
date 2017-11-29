@@ -31,44 +31,133 @@
   * <a href="#20">20 - Python Scripting PT B</a>
 
 ### Section 5 - Booting and Shutting Down
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 6 - User Access Control
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 7 - Controlling Processes
-
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  
 ### Section 8 - The File System
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 9 - Adding New Users
-
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  
 ### Section 10 - Storage
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 11 - Periodic Processes
-
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  
 ### Section 12 - Backups
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 13 - Syslog and Log files
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 14 - TCP/IP Networking
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 15 - Netfilter and IP Tables
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 16 - DNS: The Domain Name System
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 ### Section 17 - The Network File System
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-### Section 18
+### Section 18 - SHaring Files with Windows
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-### Section 19
+### Section 19 - Email Services
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-### Section 20
+### Section 20 - Network management and debugging
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-### Section 21
+### Section 21 - Security
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-### Section 22
+### Section 22 - SSH tips and tricks
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-### Section 23
+### Section 23 - Web Hosting
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-### Section 24
+### Section 24 - Performance Analysis
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
 Section 1 - Introduction
 ------
