@@ -19,15 +19,15 @@
   
 ### Section 4 - Shell Scripting Guide
   * <a href="#10">10 - Introduction to Shell Scripting</a>
-  * <a href="#11">11 - </a>
-  * <a href="#12">12 - </a>
-  * <a href="#13">13 - </a>
-  * <a href="#14">14 - </a>
-  * <a href="#15">15 - </a>
-  * <a href="#16">16 - </a>
-  * <a href="#17">17 - </a>
-  * <a href="#18">18 - </a>
-  * <a href="#19">19 - </a>
+  * <a href="#11">11 - Using Variables</a>
+  * <a href="#12">12 - The sort command</a>
+  * <a href="#13">13 - Basic of BASH Script</a>
+  * <a href="#14">14 - Shell Functions</a>
+  * <a href="#15">15 - Looping</a>
+  * <a href="#16">16 - Perl</a>
+  * <a href="#17">17 - Perl Arrays</a>
+  * <a href="#18">18 - Perl Script Arguments</a>
+  * <a href="#19">19 - Python Scripting PT1</a>
   * <a href="#20">20 - </a>
   * <a href="#21">21 - </a>
 
