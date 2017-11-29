@@ -27,35 +27,34 @@
   * <a href="#16">16 - Perl</a>
   * <a href="#17">17 - Perl Arrays</a>
   * <a href="#18">18 - Perl Script Arguments</a>
-  * <a href="#19">19 - Python Scripting PT1</a>
-  * <a href="#20">20 - </a>
-  * <a href="#21">21 - </a>
+  * <a href="#19">19 - Python Scripting PT A</a>
+  * <a href="#20">20 - Python Scripting PT B</a>
 
-### Section 5
+### Section 5 - Booting and Shutting Down
 
-### Section 6
+### Section 6 - User Access Control
 
-### Section 7
+### Section 7 - Controlling Processes
 
-### Section 8
+### Section 8 - The File System
 
-### Section 9
+### Section 9 - Adding New Users
 
-### Section 10
+### Section 10 - Storage
 
-### Section 11
+### Section 11 - Periodic Processes
 
-### Section 12
+### Section 12 - Backups
 
-### Section 13
+### Section 13 - Syslog and Log files
 
-### Section 14
+### Section 14 - TCP/IP Networking
 
-### Section 15
+### Section 15 - Netfilter and IP Tables
 
-### Section 16
+### Section 16 - DNS: The Domain Name System
 
-### Section 17
+### Section 17 - The Network File System
 
 ### Section 18
 
