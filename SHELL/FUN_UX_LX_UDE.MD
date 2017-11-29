@@ -31,19 +31,18 @@
   * <a href="#20">20 - Python Scripting PT B</a>
 
 ### Section 5 - Booting and Shutting Down
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
+  * <a href="#21">21 - Starting Up and Shutting Down Machines</a>
+  * <a href="#22">22 - Startup Daemons</a>
+  * <a href="#23">23 - Booting a second OS</a>
+  * <a href="#24">24 - System Run levels</a>
+  * <a href="#25">25 - Lab Exercise: Creating a Custom Daemon</a>
 
 ### Section 6 - User Access Control
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
+  * <a href="#26">26 - User Access Control Fundamentals</a>
+  * <a href="#27">27 - The Power of Root</a>
+  * <a href="#28">28 - Delegating Root Powers with sudo Part A</a>
+  * <a href="#29">29 - Delegating Root Powers with sudo Part B</a>
+  * <a href="#30">30 - System Accounts</a>
 
 ### Section 7 - Controlling Processes
   * <a href="#"></a>
