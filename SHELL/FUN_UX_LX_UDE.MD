@@ -343,10 +343,71 @@ STDOUT - output
 STDERR - error message
 ```
 
-```
-```
+list out all processes
 
 ```
+ps -ef | grep <proc_name>
+```
+
+list out to the directory where the proc is running
+
+```
+ls -l /proc/<pid>/fd
+```
+
+create/update a file
+
+```
+echo "this is some text" > temp.txt
+cat temp.txt
+
+>>>
+this is some text
+>>>
+
+echo "this is some other text" > temp.txt
+cat temp.txt
+
+>>>
+this is some other text
+>>>
+```
+
+Append a text
+
+```
+echo "this is appended text" >> temp.txt
+cat temp.txt
+
+>>>
+this is some other text
+this is appended text
+>>>
+```
+
+redirecting some logs
+
+```
+useradd user1
+su - user1
+find / -name core > output.txt 2 > error.txt
+cat output.txt
+
+>>>
+list of files....
+>>>
+
+cat error.txt
+
+>>>
+list of errors...
+>>>
+```
+
+using filters for find something
+
+```
+ls -l | grep <file_name>
 ```
 
 ### <h3 id='11'>11 - </h3>
