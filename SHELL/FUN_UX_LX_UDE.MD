@@ -71,14 +71,14 @@
 
 ### Section 24
 
-Introduction
+Section 1 - Introduction
 ------
 
 ### <h3 id="1">1 - Introduction</h3>
 
 [[Introduction.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4041912?start=0)]
 
-Where to Start
+Section 2 - Where to Start
 ------
 
 ### <h3 id="2">2 - Linux Unix Administration Fundamentals</h3>
@@ -185,7 +185,7 @@ ttltrk-mbp:Desktop attilatorok$
 
 [[serverfault.com](https://serverfault.com/)]
 
-Package Management
+Section 3 - Package Management
 ------
 
 ### <h3 id="5">5 - Introduction to package management</h3>
@@ -312,6 +312,9 @@ Info about packages
 ```
 yum info <package_name>
 ```
+
+Section 4 - Shell Scripting Guide
+------
 
 ### <h3 id='10'>10 - Introduction to Shell Scripting</h3>
 
