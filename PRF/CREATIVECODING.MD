@@ -24,7 +24,7 @@
   * <a href="#11">Exercise: random size</a>
   * <a href="#12">Exercise: random size solution</a>
   * <a href="#13">Create moving laser beams</a>
-  * <a href="#14"></a>
+  * <a href="#14">More fun with lines</a>
   * <a href="#15"></a>
   * <a href="#16"></a>
   * <a href="#17"></a>
@@ -322,5 +322,36 @@ void setup() {
 void draw() {
   stroke(0, random(255),0);
   line(width/2,height/2,  random(width), random(height));
+}
+```
+
+### <h3 id='14'>More fun with lines</h3>
+
+creaitng black lines
+
+```
+void setup() {
+  size(600,600); 
+  background(255);
+  stroke(0);
+}
+
+void draw() {
+  line(0,random(height),  width,random(height));
+}
+```
+
+```
+void setup() {
+  size(600,600); 
+  background(255);
+  frameRate(1);
+  stroke(0);
+}
+
+void draw() {
+  background(255);
+  float yPosition = random(height);
+  line(0,yPosition,  width,yPosition);
 }
 ```
