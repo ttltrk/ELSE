@@ -13,3 +13,13 @@ chess.com
 | 2 |   |   |   |   |   |   |   |  | 3 |
 | 1 |   |   |   |   |   |   |   |  | 1 |
 | X | a | b | c | d | e | f | g | h | X |
+
+```chess
+b7
+~d7 dsaw
+f7 -> g7: red
+d5: K
+e5: q
+d4: p
+e4: P
+```
