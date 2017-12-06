@@ -500,23 +500,84 @@ using filters for find something
 ls -l | grep <file_name>
 ```
 
-### <h3 id='11'>11 - </h3>
+### <h3 id='11'>11 - Using Variables</h3>
 
-[[]()]
-
-```
-```
+[[Using Variables.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4115946?start=15)]
 
 ```
-```
+myvar=ttltrk
+echo $myvar
 
-```
-```
-
-```
+>>>
+ttltrk
+>>>
 ```
 
 ```
+nevar="some text"
+echo $nevar
+
+>>>
+some text
+>>>
+```
+
+```
+nevar=some text
+echo $nevar
+
+>>>
+bash: text: command not found
+some text
+>>>
+```
+
+```
+myvar=ttltrk
+nevar="some text from $myvar"
+echo $nevar
+
+>>>
+some text from ttltrk
+>>>
+```
+
+```
+myvar=ttltrk
+nevar='some text from $myvar'
+echo $nevar
+
+>>>
+some text from $myvar
+>>>
+```
+
+```
+echo $HOME
+
+>>>
+/home/jovyan
+>>>
+```
+
+```
+echo ${HOME}/mydir
+
+>>>
+/home/jovyan/mydir
+>>>
+```
+
+```cut```
+
+```
+cut -d, -f 1,3 < sample.csv
+```
+
+```sort```
+
+```
+sort -t, -k1,1 < sample.csv
 ```
 
 ### <h3 id='12'>12 - </h3>
