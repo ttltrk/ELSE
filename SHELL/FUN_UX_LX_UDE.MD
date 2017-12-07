@@ -580,23 +580,82 @@ cut -d, -f 1,3 < sample.csv
 sort -t, -k1,1 < sample.csv
 ```
 
-### <h3 id='12'>12 - </h3>
+### <h3 id='12'>12 - The sort command</h3>
 
-[[]()]
+[[The sort command.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4115948?start=15)]
 
-```
-```
-
-```
-```
+Give back the unique elements/rows from the file
 
 ```
+sort -t, -k1,1 sample.csv | uniq -u
 ```
 
-```
-```
+Give back the duplicates from the file
 
 ```
+sort -t, -k1,1 sample.csv | uniq -u
+```
+
+```wc``` word count
+
+```
+wc <file_name>
+```
+
+count the lines
+
+```
+wc -l <file>
+```
+
+count the characters
+
+```
+wc -c <file>
+```
+
+count the words
+
+```
+wc -w <file>
+```
+
+count the active <file_name>, give back the lines
+
+```
+ps -ef | grep <file_name> | grep -v grep | wc -l
+```
+
+```tee``` command is used to view the standard output of command while it's being written to a file
+
+```head``` print the first 10 lines of a file
+
+```tail``` print the last 10 lines of a file
+
+print out the lines at the moment from the log
+
+```
+tail -f <file_name>
+```
+
+```grep``` searches for text in it's standard input and outputs it.
+
+general search
+
+```
+ps -ef | grep <file_name>
+```
+
+search without output of grep
+
+```
+ps -ef | grep <file_name> | grep -v grep
+```
+
+occurences
+
+```
+ps -ef | grep -c <file_name>
 ```
 
 ### <h3 id='13'>13 - </h3>
