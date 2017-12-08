@@ -2,7 +2,7 @@
 [Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
 ======
 
-[performance.org](https://processing.org/)
+[processing.org](https://processing.org/)
 
 ### Introduction
   * <a href="#1">What this course is about</a>
@@ -25,14 +25,10 @@
   * <a href="#12">Exercise: random size solution</a>
   * <a href="#13">Create moving laser beams</a>
   * <a href="#14">More fun with lines</a>
-  * <a href="#15"></a>
-  * <a href="#16"></a>
-  * <a href="#17"></a>
-  *
-  *
 
 ### Section 5 - Interactive
   * <a href="#20">Write your own little drawing program</a>
+  * <a href="#21">Enhance your little drawing program by adding mouse events!</a>
 
 ### Section
 
@@ -375,7 +371,9 @@ void draw() {
 }
 ```
 
-```
+### <h3 id="21">Enhance your little drawing program by adding mouse events!</h3>
+
+[[]()]
 
 ```
 
