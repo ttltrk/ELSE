@@ -375,8 +375,29 @@ void draw() {
 
 [[]()]
 
-```
+You can better draw with mouse click
 
+```
+boolean painting = false;
+
+void setup() {
+  size(800, 800);
+  background(255);
+}
+
+void draw() {
+  
+  if(painting == true) {
+    ellipse(mouseX, mouseY, 40, 40);  
+  }
+}
+
+void mouseClicked() {
+  
+  painting =! painting;
+  println(painting);
+  
+}
 ```
 
 ```
