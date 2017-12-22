@@ -41,36 +41,36 @@
 
 ### Section 4.
 
-029. MULT IDO 1
-030. FONEVI IGENEV 1
-031. MULT IDO 2
-032. ELVONT FOGALMAK 1
-033. MELLEKNEVEK ALAKJAI
-034. BEFEJEZETT JELEN
-035. FONEVI IGENEV 2
-036. VONATKOZO NEVMASOK
-037. BEFEJEZETT MULT
-038. ELVONT FOGALMAK 2
-039. VISSZAHATO NEVMASOK
-040. TERMESZET
+* <a href='#29'>29 - MULT IDO 1</a>
+* <a href='#30'>30 - FONEVI IGENEV 1</a>
+* <a href='#31'>31 - MULT IDO 2</a>
+* <a href='#32'>32 - ELVONT FOGALMAK 1</a>
+* <a href='#33'>33 - MELLEKNEVEK ALAKJAI</a>
+* <a href='#34'>34 - BEFEJEZETT JELEN</a>
+* <a href='#35'>35 - FONEVI IGENEV 2</a>
+* <a href='#36'>36 - VONATKOZO NEVMASOK</a>
+* <a href='#37'>37 - BEFEJEZETT MULT</a>
+* <a href='#38'>38 - ELVONT FOGALMAK 2</a>
+* <a href='#39'>39 - VISSZAHATO NEVMASOK</a>
+* <a href='#40'>40 - TERMESZET</a>
 
 ### Section 5.
 
-041. IGENEVEK
-042. SPORT
-043. MUVESZET 
-044. KOMMUNIKACIO
-045. EGESZSEG
-046. JOVO IDO
-047. POLITIKA
-048. SEGED IGES JOVO
-049. TUDOMANY
-050. BEFEJEZETT JOVO
-051. UZLET
-052. MOD SEGED IGEK
-1.053. - (02) - ESEMENYEK
-054. FELTETELES MULT
-1.055. - (02) - TULAJDONSAGOK
+* <a href='#41'>41 - IGENEVEK</a>
+* <a href='#42'>42 - SPORT</a>
+* <a href='#43'>43 - MUVESZET</a>
+* <a href='#44'>44 - KOMMUNIKACIO</a>
+* <a href='#45'>45 - EGESZSEG</a>
+* <a href='#46'>46 - JOVO IDO</a>
+* <a href='#47'>47 - POLITIKA</a>
+* <a href='#48'>48 - SEGED IGES JOVO</a>
+* <a href='#49'>49 - TUDOMANY</a>
+* <a href='#50'>50 - BEFEJEZETT JOVO</a>
+* <a href='#51'>51 - UZLET</a>
+* <a href='#52'>52 - MOD SEGED IGEK</a>
+* <a href='#53'>53 - ESEMENYEK</a>
+* <a href='#54'>54 - FELTETELES MULT</a>
+* <a href='#55'>55 - TULAJDONSAGOK</a>
 
 
 Section 1
