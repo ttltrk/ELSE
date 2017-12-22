@@ -2,44 +2,44 @@
 [Duolingo English](https://www.duolingo.com/)
 ======
 
-Section 1.
+### Section 1.
 
-001. - ALAPOK 1 
-002 - ALAPOK 2
-003 - KIFEJEZESEK
-004 - ETEL - ITAL
-005 - ALLATOK
-006 - TOBBES SZAM
-007 - BIRTOKOS
-008 - NEVMASOK TARGYESETE
+* <a href='#1'>1 - ALAPOK 1</a>
+* <a href='#2'>2 - ALAPOK 2</a>
+* <a href='#3'>3 - KIFEJEZESEK</a>
+* <a href='#4'>4 - ETEL - ITAL</a>
+* <a href='#5'>5 - ALLATOK</a>
+* <a href='#6'>6 - TOBBES SZAM</a>
+* <a href='#7'>7 - BIRTOKOS</a>
+* <a href='#8'>8 - NEVMASOK TARGYESETE</a>
 
-Section 2.
+### Section 2.
 
-1.009 - (02) -  RUHAZAT 
-1.010 - (07) -  IGEK: JELEN 1
-1.011 - (02) -  SZINEK
-1.012 - (02) -  KERDESEK
-1.013 - (01) -  KOTOSZOK
-1.014 - (04) -  ELOLJAROK
-1.015 - (08) -  DATUM + IDO 
-1.016 - (03) -  CSALAD
+* <a href='#9'>9 - RUHAZAT</a>
+* <a href='#10'>10 - IGEK: JELEN 1</a>
+* <a href='#11'>11 - SZINEK</a>
+* <a href='#12'>12 - KERDESEK</a>
+* <a href='#13'>13 - KOTOSZOK</a>
+* <a href='#14'>14 - ELOLJAROK</a>
+* <a href='#15'>15 - DATUM + IDO</a>
+* <a href='#16'>16 - CSALAD</a>
 
-Section 3.
+### Section 3.
 
-1.017 - (04) - FOGLALKOZASOK
-1.018 - (INP) - MELLEKNEV 1
-1.019 - (xx) - IGEK: JELEN 2
-1.020 - (xx) - HATAROZOK
-1.021 - (xx) - HELYEK
-1.022 - (xx) - TARGYAK
-1.023 - (03) - EMBEREK
-1.024 - (xx) - UTAZAS
-1.025 - (xx) - TOVABBI NEVMASOK
-1.026 - (xx) - SZAMOK
-1.027 - (xx) - IGEK: JELEN 3
-1.028 - (xx) - OKTATAS
+* <a href='#17'>17 - FOGLALKOZASOK</a>
+* <a href='#18'>18 - MELLEKNEV 1</a>
+* <a href='#19'>19 - IGEK: JELEN 2</a>
+* <a href='#20'>20 - HATAROZOK</a>
+* <a href='#21'>21 - HELYEK</a>
+* <a href='#22'>22 - TARGYAK</a>
+* <a href='#23'>23 - EMBEREK</a>
+* <a href='#24'>24 - UTAZAS</a>
+* <a href='#25'>25 - TOVABBI NEVMASOK</a>
+* <a href='#26'>26 - SZAMOK</a>
+* <a href='#27'>27 - IGEK: JELEN 3</a>
+* <a href='#28'>28 - OKTATAS</a>
 
-Section 4.
+### Section 4.
 
 029. MULT IDO 1
 030. FONEVI IGENEV 1
@@ -54,7 +54,7 @@ Section 4.
 039. VISSZAHATO NEVMASOK
 040. TERMESZET
 
-Section 5.
+### Section 5.
 
 041. IGENEVEK
 042. SPORT
@@ -73,9 +73,11 @@ Section 5.
 1.055. - (02) - TULAJDONSAGOK
 
 
-1.001 - (003) - ALAPOK 1
+Section 1
+------
 
------------------------------------------
+### <h3 id='1'>1 - ALAPOK 1</h3>
+
 
 1. LECKE
 
