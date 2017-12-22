@@ -1,31 +1,19 @@
 
-Duolingo English
+[Duolingo English](https://www.duolingo.com/)
 ======
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Section 1.
 
-duolingo.com
+001. - ALAPOK 1 
+002 - ALAPOK 2
+003 - KIFEJEZESEK
+004 - ETEL - ITAL
+005 - ALLATOK
+006 - TOBBES SZAM
+007 - BIRTOKOS
+008 - NEVMASOK TARGYESETE
 
-ANGOL - ISMERETANYAGOK
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-----------------------------------------------------------------------
-
-MONDATOK
-
------------------------------------------
-
-1.001 - (03) - ALAPOK 1 
-1.002 - (03) - ALAPOK 2
-1.003 - (03) - KIFEJEZESEK
-1.004 - (04) - ETEL - ITAL
-1.005 - (02) - ALLATOK
-1.006 - (02) - TOBBES SZAM
-1.007 - (02) - BIRTOKOS
-1.008 - (01) - NEVMASOK TARGYESETE
-
------------------
+Section 2.
 
 1.009 - (02) -  RUHAZAT 
 1.010 - (07) -  IGEK: JELEN 1
@@ -36,7 +24,7 @@ MONDATOK
 1.015 - (08) -  DATUM + IDO 
 1.016 - (03) -  CSALAD
 
------------------
+Section 3.
 
 1.017 - (04) - FOGLALKOZASOK
 1.018 - (INP) - MELLEKNEV 1
@@ -51,7 +39,7 @@ MONDATOK
 1.027 - (xx) - IGEK: JELEN 3
 1.028 - (xx) - OKTATAS
 
------------------
+Section 4.
 
 029. MULT IDO 1
 030. FONEVI IGENEV 1
@@ -66,7 +54,7 @@ MONDATOK
 039. VISSZAHATO NEVMASOK
 040. TERMESZET
 
------------------
+Section 5.
 
 041. IGENEVEK
 042. SPORT
@@ -84,11 +72,6 @@ MONDATOK
 054. FELTETELES MULT
 1.055. - (02) - TULAJDONSAGOK
 
-----------------------------------------------------------------------
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-----------------------------------------------------------------------
 
 1.001 - (003) - ALAPOK 1
 
