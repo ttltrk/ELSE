@@ -3,6 +3,7 @@
 ======
 
 [chess format](https://onp4.com/@p4/~markdown)
+[pgn](https://www.npmjs.com/package/remarkable-pgn)
 
 Openings
 ------
