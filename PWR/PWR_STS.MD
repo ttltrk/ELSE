@@ -1,8 +1,8 @@
 
-Power
+Power Stats
 ======
 
-[<<<](https://github.com/ttltrk/0con/blob/master/0con/README.MD)
+[<<<](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD)
 
 2018
 
