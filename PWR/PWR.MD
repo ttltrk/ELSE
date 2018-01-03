@@ -2,9 +2,9 @@
 WO
 ======
 
-[power stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)
-
 [<<<](https://github.com/ttltrk/0con/blob/master/0con/README.MD)
+
+[power stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)
 
 ### 2018
 
