@@ -2,6 +2,8 @@
 WO
 ======
 
+[stats](https://github.com/ttltrk/ELSE/edit/master/PWR/PWR_STS.MD)
+
 [<<<](https://github.com/ttltrk/0con/blob/master/0con/README.MD)
 
 ### 2018
