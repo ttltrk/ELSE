@@ -9,6 +9,6 @@ WO
 ### 2018
 
   * JAN
-    * 02 : Easy train. Outside, 20:30. Some curls, pulling on 45, neck. Pull-ups.
+    * 02-TUE : Easy train. Outside, 20:30. Some curls, pulling on 45, neck. Pull-ups.
 
 
