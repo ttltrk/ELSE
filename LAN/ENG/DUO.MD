@@ -2,6 +2,8 @@
 [Duolingo English](https://www.duolingo.com/)
 ======
 
+[<<<](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD)
+
 ### Section 1.
 
 * <a href='#1'>1 - ALAPOK 1</a>
