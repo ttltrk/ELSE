@@ -9,4 +9,4 @@ Languages
 ### 2018
 
   * JAN
-    * 03-WED : Finishing again a Duolingo chapter [Dates and Time](https://www.duolingo.com/skill/en/Dates-and-Time). Reading daily,   learning some new words.
+    * 03 : (Wed) - Finishing again a Duolingo chapter [Dates and Time](https://www.duolingo.com/skill/en/Dates-and-Time). Reading daily,   learning some new words.
