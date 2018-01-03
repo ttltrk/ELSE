@@ -10,5 +10,5 @@ WO
 
   * JAN
     * 02 : (TUE) - Easy train. Outside, 20:30. Some curls, pulling on 45, neck. Pull-ups.
-    * 01 : (MON) - Push day. Outside, 20:30. Changed my 3rep max to 97.5, and the military to 55x8. Pretty correct wo.
+    * 01 : (MON) - Push day. Outside, 20:30. Changed my 3rep max to 97.5, and the military to 55 8rep. Pretty correct wo.
 
