@@ -9,4 +9,5 @@ Languages
 ### 2018
 
   * JAN
-    * 03 : Finishing again a Duolingo chapter [Dates and Time](https://www.duolingo.com/skill/en/Dates-and-Time).
+    * 03 : Finishing again a Duolingo chapter [Dates and Time](https://www.duolingo.com/skill/en/Dates-and-Time). Reading daily, learning
+    some new words.
