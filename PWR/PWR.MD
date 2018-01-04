@@ -10,6 +10,7 @@ WO
 
   * JAN
   
+    * 04 : (Thu) - Rest day. 1.5h walk with my Son :)
     * 03 : (Wed) - Leg day. Outside, 20:30. 2rep on 92.5 (easy).
     * 02 : (Tue) - Easy pull day. Outside, 20:30. Some curls, pulling on 45, neck. Pull-ups.
     * 01 : (Mon) - Push day. Outside, 20:30. Changed my 3rep max to 97.5, and the military to 55 8rep. Pretty correct wo.
