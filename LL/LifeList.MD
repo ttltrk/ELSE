@@ -14,6 +14,8 @@ Visit
 - [ ] NYC
 - [x] soccer match RM with my Father (in Madrid)
 - [ ] [Csíksomlyói búcsú](https://hu.wikipedia.org/wiki/Cs%C3%ADksomly%C3%B3i_b%C3%BAcs%C3%BA)
+- [ ] Nord Pole
+- [ ] South Pole
 
 Explore and Climb
 ------
