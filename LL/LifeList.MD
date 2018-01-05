@@ -12,7 +12,7 @@ Life List
 2013 - 
 2014 - 
 [2015](https://github.com/ttltrk/ELSE/blob/master/LL/2015/LL_2015.MD) - 
-2016 - 
+[2016](https://github.com/ttltrk/ELSE/blob/master/LL/2016/LL_2016.MD) - 
 [2017](https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD) - 
 2018
 
@@ -101,7 +101,7 @@ Accomplish
 - [ ] Kektura
 - [x] Bike to work and back (~80k)
 - [x] Run to home from work (~40k)
-- [x] Swim accross the Balaton
+- [x] [Swim accross the Balaton]((https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD))
 - [x] Swim in winter (12 min in December)
 - [ ] [Squat 1x 140 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) - (102.5 kg)
 - [ ] [Bench 1x 140 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) - (110 kg)
@@ -110,7 +110,7 @@ Accomplish
 - [ ] Learn jiu jitsu
 - [ ] Learn Boxing
 - [x] Make a parachute jump
-- [x] Cliff Jump
+- [x] [Cliff Jump](https://github.com/ttltrk/ELSE/blob/master/LL/2016/LL_2016.MD)
 - [x] Invest in to the ETFs
 - [ ] Win the lottery
 - [ ] Live one week as a homeless
@@ -138,7 +138,7 @@ Accomplish
 - [ ] Djing in a club
 - [ ] Donate blood 100x (14x)
 - [x] [Build a house]((https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD))
-- [x] Marry and have children - (Virag, [Sugi](https://github.com/ttltrk/ELSE/blob/master/LL/2015/LL_2015.MD), [Mate](https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD))
+- [x] Marry and have children - ([Virag]((https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD), [Sugi](https://github.com/ttltrk/ELSE/blob/master/LL/2015/LL_2015.MD), [Mate](https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD))
 
 
 
