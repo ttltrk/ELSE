@@ -23,7 +23,6 @@ Visit, Travel, Explore and Climb
 - [ ] San Francisco
 - [ ] NYC
 - [ ] Play in Las Vegas
-- [x] soccer match RM with my Father (in Madrid)
 - [ ] [Csíksomlyói búcsú](https://hu.wikipedia.org/wiki/Cs%C3%ADksomly%C3%B3i_b%C3%BAcs%C3%BA)
 - [ ] Nord Pole
 - [ ] South Pole
@@ -109,6 +108,8 @@ Accomplish
 - [ ] Read the works of Petofi Sandor
 - [ ] Read the works of Moricz Zsigmond
 - [ ] Read the works of Mikszath Kalman
+- [x] soccer match RM with my Father (in Madrid)
+- [x] wu concert (Balatonsound)
 - [ ] Compose music
 - [ ] Play on the piano
 - [ ] Djing in a club
