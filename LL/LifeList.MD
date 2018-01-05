@@ -89,7 +89,8 @@ Accomplish
 - [ ] Bench 140 kg <<< INP
 - [ ] Deadlift 220 kg <<< INP
 - [ ] Military Press 100 kg <<< INP
-- [ ] Learn jujitsu
+- [ ] Learn jiu jitsu
+- [ ] Learn Boxing
 - [ ] Land on and take off from an aircraft carrier
 - [x] Make a parachute jump
 - [x] Cliff Jump
