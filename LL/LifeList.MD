@@ -56,6 +56,9 @@ Meet with
 Study and Know
 ------
 
+- [x] coding 1 month in a row
+- [ ] coding 3 month in a row
+- [ ] coding 1 year in a row
 - [ ] become a prof. programmer <<< INP
 - [ ] get zbrojak <<< INP
 - [ ] certified shooter 
@@ -72,6 +75,7 @@ Study and Know
 Accomplish
 ------
 
+- [ ] Running 5k every day per month
 - [x] Half Marathon 
 - [x] Marathon (3x)
 - [x] Ultramarathon (120k)
