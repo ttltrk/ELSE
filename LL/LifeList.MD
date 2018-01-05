@@ -28,6 +28,11 @@ Accomplish
 - [ ] Ultrabalaton
 - [ ] Spartathlon
 - [ ] UTMB
+- [ ] Squat 140 kg
+- [ ] Bench 140 kg
+- [ ] Deadlift 220 kg
+- [ ] Military Press 100 kg
+- [ ] Learn jujitsu
 
 
 
