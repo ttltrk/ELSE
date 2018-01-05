@@ -55,7 +55,9 @@ Accomplish
 - [ ] Deadlift 220 kg
 - [ ] Military Press 100 kg
 - [ ] Learn jujitsu
-
+- [ ] Land on and take off from an aircraft carrier
+- [x] Jump from an aircraft
+- [x] Cliff Jump 
 
 
 
