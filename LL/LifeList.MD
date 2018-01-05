@@ -4,6 +4,8 @@ Life List
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
+2011 - 2012 - 2013 - 2014 - 2015 - 2016 - 2017 - 2018
+
 Visit, Travel, Explore and Climb
 ------
 
