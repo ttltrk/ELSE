@@ -9,7 +9,7 @@ Life List
 2010 - 
 [2011](https://github.com/ttltrk/ELSE/blob/master/LL/2011/LL_2011.MD) - 
 [2012](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD) - 
-2013 - 
+[2013](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD) - 
 2014 - 
 [2015](https://github.com/ttltrk/ELSE/blob/master/LL/2015/LL_2015.MD) - 
 [2016](https://github.com/ttltrk/ELSE/blob/master/LL/2016/LL_2016.MD) - 
@@ -93,8 +93,8 @@ Accomplish
 - [ ] Running min 5k every day per year
 - [x] Half Marathon 
 - [x] Marathon (3x)
-- [x] Ultramarathon (120k)
-- [x] Trail Ultra (100k +4k)
+- [x] Ultramarathon (120k) ([1UB](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD), 2UB)
+- [x] [Trail Ultra (100k +4k)](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD)
 - [ ] [Ultrabalaton](http://ultrabalaton.hu/?lang=en)
 - [ ] Spartathlon
 - [ ] UTMB
@@ -132,7 +132,7 @@ Accomplish
 - [ ] Read the works of Moricz Zsigmond
 - [ ] Read the works of Mikszath Kalman
 - [x] [soccer match RM with my Father (in Madrid)](https://github.com/ttltrk/ELSE/blob/master/LL/2015/LL_2015.MD)
-- [x] wu concert (Balatonsound)
+- [x] [wu concert (Balatonsound)](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD)
 - [ ] Compose music
 - [ ] Play on the piano
 - [ ] Djing in a club
