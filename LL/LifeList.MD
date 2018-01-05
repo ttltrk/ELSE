@@ -137,7 +137,7 @@ Accomplish
 - [ ] Play on the piano
 - [ ] Djing in a club
 - [ ] Donate blood 100x (14x)
-- [x] [Build a house]((https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD))
+- [x] [Build a house](https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD)
 - [x] Marry and have children - ([Virag](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD), [Sugi](https://github.com/ttltrk/ELSE/blob/master/LL/2015/LL_2015.MD), [Mate](https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD))
 
 
