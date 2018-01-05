@@ -72,19 +72,17 @@ Accomplish
 - [ ] Read the Bible from cover to cover
 - [ ] Read the works of Shakespeare
 - [ ] Read the works of Plato, 
-- [ ] Read the works of Aristotle, Dickens, Thoreau, Rousseau, Conrad, Hemingway, Twain, Burroughs, Talmage,
 - [ ] Read the works of Tolstoi
-- [ ] Read the works of Longfellow
-- [ ] Read the works of Keats
-- [ ] Read the works of Poe
-- [ ] Read the works of Bacon
-- [ ] Read the works of Whittier
-- [ ] Read the works of Emerson
+- [ ] Read the works of Socrates
 - [ ] Read the works of Jozsef Attila
 - [ ] Read the works of Petofi Sandor
 - [ ] Read the works of Moricz Zsigmond
+- [ ] Read the works of Mikszath Kalman
 - [ ] Compose music
 - [ ] Play on the piano
+- [x] Marry and have children 
+
+
 
 
 
