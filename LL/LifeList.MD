@@ -4,18 +4,22 @@ Life List
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-Visit
+Visit, Travel, Places to see
 ------
 
+- [ ] Step foot on all 7 continents [1]
 - [x] Buckingham palace (London)
 - [x] Eiffel tower (Paris)
 - [x] Piazza di Spagna (Rome)
 - [x] Colosseo (Rome)
+- [x] Fontana di Trevi (Rome)
 - [x] Vatican City
 - [ ] Venice
 - [x] Amsterdam
+- [ ] The Great Wall of China
 - [ ] San Francisco
 - [ ] NYC
+- [ ] Play in Las Vegas
 - [x] soccer match RM with my Father (in Madrid)
 - [ ] [Csíksomlyói búcsú](https://hu.wikipedia.org/wiki/Cs%C3%ADksomly%C3%B3i_b%C3%BAcs%C3%BA)
 - [ ] Nord Pole
@@ -81,7 +85,7 @@ Accomplish
 - [ ] Land on and take off from an aircraft carrier
 - [x] Make a parachute jump
 - [x] Cliff Jump
-- [ ] Fly in a blimp, balloon and glider
+- [ ] Win the lottery
 - [ ] Write a book
 - [ ] Read the Bible from cover to cover
 - [ ] Read the works of Shakespeare
