@@ -75,7 +75,7 @@ Accomplish
 - [ ] Read the works of Plato, 
 - [ ] Read the works of Tolstoi
 - [ ] Read the works of Socrates
-- [ ] Read the works of Jozsef Attila
+- [ ] [Read the works of Jozsef Attila](http://mek.niif.hu/00700/00708/html/)
 - [ ] Read the works of Petofi Sandor
 - [ ] Read the works of Moricz Zsigmond
 - [ ] Read the works of Mikszath Kalman
