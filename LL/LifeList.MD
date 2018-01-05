@@ -43,10 +43,11 @@ Travel (drive) with
 
 - [ ] Lambo
 - [ ] G wagon
+- [ ] Supersport bike
 - [ ] Fly in a blimp
 - [ ] Fly in a balloon  
 - [ ] Fly in a glider
-- [ ] bike to Portugal (to Atlantic Ocean)
+- [ ] bike to Portugal (to Atlantic Ocean, with bicycle)
 
 Meet with
 ------
@@ -101,7 +102,10 @@ Accomplish
 - [x] Invest in to the ETFs
 - [ ] Win the lottery
 - [ ] Live one week as a homeless
+- [ ] Rubik cube 2x2
 - [x] Rubik cube 3x3
+- [ ] Rubik cube 4x4
+- [ ] Rubik cube 5x5
 - [ ] Rank 1001 on chess.com (700)
 - [ ] Write a book
 - [ ] Read 4 books per month
