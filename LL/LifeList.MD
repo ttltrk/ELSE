@@ -4,18 +4,21 @@ Life List
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-Visit, Travel, Places to see
+Visit, Travel, Explore and Climb
 ------
 
-- [ ] Step foot on all 7 continents [1]
+- [ ] Step foot on all 7 continents (1)
 - [x] Buckingham palace (London)
 - [x] Eiffel tower (Paris)
+- [x] Louvre
 - [x] Piazza di Spagna (Rome)
 - [x] Colosseo (Rome)
 - [x] Fontana di Trevi (Rome)
 - [x] Vatican City
 - [ ] Venice
 - [x] Amsterdam
+- [ ] Santorini
+- [ ] Dubrovnik
 - [ ] The Great Wall of China
 - [ ] San Francisco
 - [ ] NYC
@@ -24,15 +27,17 @@ Visit, Travel, Places to see
 - [ ] [Csíksomlyói búcsú](https://hu.wikipedia.org/wiki/Cs%C3%ADksomly%C3%B3i_b%C3%BAcs%C3%BA)
 - [ ] Nord Pole
 - [ ] South Pole
-
-Explore and Climb
-------
-
+- [ ] Grand Canyon
+- [ ] Victoria Falls (Zimbabwe)
+- [ ] Machu Picchu (Peru)
+- [ ] Yellowstone National Park (USA)
+- [ ] Torres del Paine, Patagonia (Chile)
+- [ ] Pyramids of Giza
 - [ ] Gerlach
 - [ ] Mount Everest
 - [ ] Mount Blanc
 - [ ] Matterhorn
-- [ ] River Danube (end to end)
+- [ ] [River Danube (end to end)](http://www.danube-cycle-path.com/)
 
 Travel (drive) with
 ------
@@ -62,6 +67,8 @@ Study and Know
 - [ ] Arabic
 - [ ] Chinese
 - [ ] Dancing
+- [ ] get a Univ degree
+- [ ] get a Phd.
 
 Accomplish
 ------
@@ -87,6 +94,9 @@ Accomplish
 - [x] Cliff Jump
 - [ ] Win the lottery
 - [ ] Live one week as a homeless
+- [x] Rubik cube 3x3
+- [ ] Rank 1001 on chess.com (720)
+- [x] Invest in ETFs
 - [ ] Write a book
 - [ ] Read the Bible from cover to cover
 - [ ] Read the works of Shakespeare
