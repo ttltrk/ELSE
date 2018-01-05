@@ -9,15 +9,36 @@ Visit
 
 - [x] Piazza di Spagna (Rome)
 - [x] Colosseo (Rome)
+- [ ] Amsterdam
+- [ ] San Francisco
+- [ ] NYC
 
-Explore
+Explore and Climb
 ------
+
+- [ ] Gerlach
+- [ ] Mount Everest
+- [ ] Mount Blanc
+- [ ] Matterhorn
+- [ ] River Danube (end to end)
+
+Travel (drive) with
+------
+
+- [ ] Lambo
+- [ ] G wagon
+- [ ] bike to Portugal (to Atlantic Ocean)
 
 Meet with
 ------
 
+- [ ] 
+
 Study and Know
 ------
+
+- [ ] become a prof. programmer
+- [ ] 
 
 Accomplish
 ------
