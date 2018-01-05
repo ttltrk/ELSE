@@ -105,6 +105,7 @@ Accomplish
 - [x] [Trail Ultra (100k +4k)](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD)
 - [ ] [Ultrabalaton](http://ultrabalaton.hu/?lang=en)
 - [ ] Spartathlon
+- [ ] Stefanik Trail
 - [ ] UTMB
 - [ ] Kektura
 - [x] Bike to work and back (~80k)
