@@ -13,6 +13,7 @@ Visit
 - [ ] San Francisco
 - [ ] NYC
 - [x] soccer match RM with my Father (in Madrid)
+- [ ] [Csíksomlyói búcsú](https://hu.wikipedia.org/wiki/Cs%C3%ADksomly%C3%B3i_b%C3%BAcs%C3%BA)
 
 Explore and Climb
 ------
