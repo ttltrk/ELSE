@@ -23,8 +23,8 @@ Visit, Travel, Explore and Climb
 - [ ] Swim in all oceans (1/5)
 - [ ] Swim in all seas ()
 - [x] Buckingham palace (London)
-- [x] Eiffel tower (Paris)
-- [x] Louvre
+- [x] [Eiffel tower (Paris)](https://github.com/ttltrk/ELSE/blob/master/LL/2008/LL_2008.MD)
+- [x] [Louvre (Paris)](https://github.com/ttltrk/ELSE/blob/master/LL/2008/LL_2008.MD)
 - [x] Piazza di Spagna (Rome)
 - [x] Colosseo (Rome)
 - [x] Fontana di Trevi (Rome)
