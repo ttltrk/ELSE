@@ -54,16 +54,17 @@ Study and Know
 Accomplish
 ------
 
-- [x] Half Marathon
-- [x] Marathon
-- [x] Ultramarathon
-- [x] Trail Ultra
-- [ ] Ultrabalaton
+- [x] Half Marathon 
+- [x] Marathon (3x)
+- [x] Ultramarathon (120k)
+- [x] Trail Ultra (100k +4k)
+- [ ] [Ultrabalaton](http://ultrabalaton.hu/?lang=en)
 - [ ] Spartathlon
 - [ ] UTMB
 - [ ] Kektura
 - [x] Bike to work and back (~80k)
 - [x] Run to home from work (~40k)
+- [x] Swim accross the Balaton
 - [ ] Squat 140 kg <<< INP
 - [ ] Bench 140 kg <<< INP
 - [ ] Deadlift 220 kg <<< INP
