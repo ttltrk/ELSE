@@ -55,11 +55,20 @@ Travel (drive) with
 
 - [ ] Lambo
 - [ ] G wagon
-- [ ] Supersport bike
+- [ ] Supersport motorbike
 - [ ] Fly in a blimp
 - [ ] Fly in a balloon  
 - [ ] Fly in a glider
 - [ ] bike to Portugal (to Atlantic Ocean, with bicycle)
+
+Licenses
+------
+
+- [x] Car
+- [ ] Motorbike
+- [ ] Aircraft
+- [ ] Ship
+- [ ] Gun
 
 Meet with
 ------
@@ -73,7 +82,6 @@ Study and Know
 - [ ] coding 3 month in a row
 - [ ] coding 1 year in a row
 - [ ] become a prof. programmer <<< INP
-- [ ] get zbrojak <<< INP
 - [ ] certified shooter 
 - [x] English 
 - [ ] German
