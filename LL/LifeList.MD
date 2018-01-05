@@ -75,7 +75,9 @@ Study and Know
 Accomplish
 ------
 
-- [ ] Running 5k every day per month
+- [ ] Running min 5k every day per month
+- [ ] Running min 5k every day per month
+- [ ] Running min 5k every day per year
 - [x] Half Marathon 
 - [x] Marathon (3x)
 - [x] Ultramarathon (120k)
@@ -86,23 +88,31 @@ Accomplish
 - [ ] Kektura
 - [x] Bike to work and back (~80k)
 - [x] Run to home from work (~40k)
+
 - [x] Swim accross the Balaton
 - [x] Swim in winter (12 min in December)
-- [ ] Squat 140 kg <<< INP
-- [ ] Bench 140 kg <<< INP
-- [ ] Deadlift 220 kg <<< INP
-- [ ] Military Press 100 kg <<< INP
+
+- [ ] Squat 1x 140 kg (102.5 kg)
+- [ ] Bench 1x 140 kg (110 kg)
+- [ ] Deadlift 1x 220 kg (160 kg)
+- [ ] Military Press 1x 100 kg (82.5 kg)
+
 - [ ] Learn jiu jitsu
 - [ ] Learn Boxing
-- [ ] Land on and take off from an aircraft carrier
+
 - [x] Make a parachute jump
 - [x] Cliff Jump
+
+- [x] Invest in to the ETFs
 - [ ] Win the lottery
 - [ ] Live one week as a homeless
+
 - [x] Rubik cube 3x3
 - [ ] Rank 1001 on chess.com (720)
-- [x] Invest in ETFs
+
 - [ ] Write a book
+- [ ] Read 4 books per month
+- [ ] Read 52 books per year
 - [ ] Read the Bible from cover to cover
 - [ ] Read the works of Shakespeare
 - [ ] Read the works of Plato, 
@@ -112,11 +122,13 @@ Accomplish
 - [ ] Read the works of Petofi Sandor
 - [ ] Read the works of Moricz Zsigmond
 - [ ] Read the works of Mikszath Kalman
+
 - [x] soccer match RM with my Father (in Madrid)
 - [x] wu concert (Balatonsound)
 - [ ] Compose music
 - [ ] Play on the piano
 - [ ] Djing in a club
+
 - [ ] Donate blood 100x (14x)
 - [x] Build a house
 - [x] Marry and have children 
