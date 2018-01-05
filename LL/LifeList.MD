@@ -9,7 +9,7 @@ Visit
 
 - [x] Piazza di Spagna (Rome)
 - [x] Colosseo (Rome)
-- [ ] Amsterdam
+- [x] Amsterdam
 - [ ] San Francisco
 - [ ] NYC
 
@@ -43,10 +43,10 @@ Study and Know
 Accomplish
 ------
 
-- [X] Half Marathon
-- [X] Marathon
-- [X] Ultramarathon
-- [X] Trail Ultra
+- [x] Half Marathon
+- [x] Marathon
+- [x] Ultramarathon
+- [x] Trail Ultra
 - [ ] Ultrabalaton
 - [ ] Spartathlon
 - [ ] UTMB
