@@ -90,10 +90,10 @@ Accomplish
 - [x] Run to home from work (~40k)
 - [x] Swim accross the Balaton
 - [x] Swim in winter (12 min in December)
-- [ ] Squat 1x 140 kg (102.5 kg)
-- [ ] Bench 1x 140 kg (110 kg)
-- [ ] Deadlift 1x 220 kg (160 kg)
-- [ ] Military Press 1x 100 kg (82.5 kg)
+- [ ] [Squat 1x 140 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)(102.5 kg)
+- [ ] [Bench 1x 140 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)(110 kg)
+- [ ] [Deadlift 1x 220 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)(160 kg)
+- [ ] [Military Press 1x 100 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)(82.5 kg)
 - [ ] Learn jiu jitsu
 - [ ] Learn Boxing
 - [x] Make a parachute jump
