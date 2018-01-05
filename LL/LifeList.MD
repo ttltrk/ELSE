@@ -7,6 +7,7 @@ Life List
 Visit
 ------
 
+- [x] Piazza di Spagna (Rome)
 - [x] Colosseo (Rome)
 
 Explore
