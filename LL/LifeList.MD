@@ -8,7 +8,7 @@ Life List
 2009 - 
 2010 - 
 [2011](https://github.com/ttltrk/ELSE/blob/master/LL/2011/LL_2011.MD) - 
-2012 - 
+[2012](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD) - 
 2013 - 
 2014 - 
 2015 - 
@@ -22,13 +22,13 @@ Visit, Travel, Explore and Climb
 - [ ] Step foot on all 7 continents (1/7)
 - [ ] Swim in all oceans (1/5)
 - [ ] Swim in all seas ()
-- [x] [Buckingham palace (London)](https://github.com/ttltrk/ELSE/blob/master/LL/2011/LL_2011.MD)
+- [x] [Buckingham palace (London)](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
 - [x] [Eiffel tower (Paris)](https://github.com/ttltrk/ELSE/blob/master/LL/2008/LL_2008.MD)
 - [x] [Louvre (Paris)](https://github.com/ttltrk/ELSE/blob/master/LL/2008/LL_2008.MD)
-- [x] [Piazza di Spagna (Rome)](https://github.com/ttltrk/ELSE/blob/master/LL/2011/LL_2011.MD)
-- [x] [Colosseo (Rome)](https://github.com/ttltrk/ELSE/blob/master/LL/2011/LL_2011.MD)
-- [x] [Fontana di Trevi (Rome)](https://github.com/ttltrk/ELSE/blob/master/LL/2011/LL_2011.MD)
-- [x] [Vatican City](https://github.com/ttltrk/ELSE/blob/master/LL/2011/LL_2011.MD)
+- [x] [Piazza di Spagna (Rome)](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
+- [x] [Colosseo (Rome)](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
+- [x] [Fontana di Trevi (Rome)](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
+- [x] [Vatican City](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
 - [ ] Venice
 - [x] Amsterdam
 - [ ] Santorini
