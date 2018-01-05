@@ -81,6 +81,7 @@ Accomplish
 - [ ] Read the works of Mikszath Kalman
 - [ ] Compose music
 - [ ] Play on the piano
+- [ ] Donate blood 100x (14x)
 - [x] Marry and have children 
 
 
