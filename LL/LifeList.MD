@@ -28,7 +28,9 @@ Travel (drive) with
 
 - [ ] Lambo
 - [ ] G wagon
-- [ ] Fly in a blimp, balloon and glider
+- [ ] Fly in a blimp
+- [ ] Fly in a balloon  
+- [ ] Fly in a glider
 - [ ] bike to Portugal (to Atlantic Ocean)
 
 Meet with
@@ -39,8 +41,8 @@ Meet with
 Study and Know
 ------
 
-- [ ] become a prof. programmer
-- [ ] get zbrojak :)
+- [ ] become a prof. programmer <<< INP
+- [ ] get zbrojak <<< INP
 - [ ] certified shooter 
 - [x] English 
 - [ ] German
@@ -60,10 +62,10 @@ Accomplish
 - [ ] Spartathlon
 - [ ] UTMB
 - [ ] Kektura
-- [ ] Squat 140 kg
-- [ ] Bench 140 kg
-- [ ] Deadlift 220 kg
-- [ ] Military Press 100 kg
+- [ ] Squat 140 kg <<< INP
+- [ ] Bench 140 kg <<< INP
+- [ ] Deadlift 220 kg <<< INP
+- [ ] Military Press 100 kg <<< INP
 - [ ] Learn jujitsu
 - [ ] Land on and take off from an aircraft carrier
 - [x] Make a parachute jump
@@ -75,7 +77,7 @@ Accomplish
 - [ ] Read the works of Plato, 
 - [ ] Read the works of Tolstoi
 - [ ] Read the works of Socrates
-- [ ] [Read the works of Jozsef Attila](http://mek.niif.hu/00700/00708/html/)
+- [ ] [Read the works of Jozsef Attila](http://mek.niif.hu/00700/00708/html/) <<< INP
 - [ ] Read the works of Petofi Sandor
 - [ ] Read the works of Moricz Zsigmond
 - [ ] Read the works of Mikszath Kalman
