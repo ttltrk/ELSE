@@ -86,6 +86,7 @@ Accomplish
 - [x] Make a parachute jump
 - [x] Cliff Jump
 - [ ] Win the lottery
+- [ ] Live one week as a homeless
 - [ ] Write a book
 - [ ] Read the Bible from cover to cover
 - [ ] Read the works of Shakespeare
