@@ -4,7 +4,22 @@ Life List
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
+Visit
+------
+
+- [x] Colosseo (Rome)
+
+Explore
+------
+
+Meet with
+------
+
+Study and Know
+------
+
+Accomplish
+------
+
+
 
