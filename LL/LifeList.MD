@@ -101,6 +101,7 @@ Accomplish
 - [ ] Play on the piano
 - [ ] Djing in a club
 - [ ] Donate blood 100x (14x)
+- [x] Build a house
 - [x] Marry and have children 
 
 
