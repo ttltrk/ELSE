@@ -76,7 +76,7 @@ Accomplish
 ------
 
 - [ ] Running min 5k every day per month
-- [ ] Running min 5k every day per month
+- [ ] Running min 5k every day per 3 months
 - [ ] Running min 5k every day per year
 - [x] Half Marathon 
 - [x] Marathon (3x)
