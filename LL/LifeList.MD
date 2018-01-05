@@ -84,6 +84,7 @@ Accomplish
 - [x] Bike to work and back (~80k)
 - [x] Run to home from work (~40k)
 - [x] Swim accross the Balaton
+- [x] Swim in winter (12 min in December)
 - [ ] Squat 140 kg <<< INP
 - [ ] Bench 140 kg <<< INP
 - [ ] Deadlift 220 kg <<< INP
