@@ -21,5 +21,14 @@ Study and Know
 Accomplish
 ------
 
+- [X] Half Marathon
+- [X] Marathon
+- [X] Ultramarathon
+- [X] Trail Ultra
+- [ ] Ultrabalaton
+- [ ] Spartathlon
+- [ ] UTMB
+
+
 
 
