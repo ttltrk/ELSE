@@ -12,7 +12,7 @@ Visit
 - [x] Amsterdam
 - [ ] San Francisco
 - [ ] NYC
-- [x] soccer match RM (in Madrid) with my Father
+- [x] soccer match RM with my Father (in Madrid)
 
 Explore and Climb
 ------
@@ -40,6 +40,7 @@ Study and Know
 ------
 
 - [ ] become a prof. programmer
+- [ ] get zbrojak :)
 - [ ] certified shooter 
 - [x] English 
 - [ ] German
