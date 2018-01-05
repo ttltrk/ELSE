@@ -100,7 +100,7 @@ Accomplish
 - [ ] Running min 5k every day per 3 months
 - [ ] Running min 5k every day per year
 - [x] Half Marathon 
-- [x] Marathon (3x)
+- [x] Marathon (3x) - ([1st](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD))
 - [x] Ultramarathon (120k) ([1UB](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD), [2UB](https://github.com/ttltrk/ELSE/blob/master/LL/2014/LL_2014.MD))
 - [x] [Trail Ultra (100k +4k)](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD)
 - [ ] [Ultrabalaton](http://ultrabalaton.hu/?lang=en)
