@@ -110,14 +110,14 @@ Accomplish
 - [x] Bike to work and back (~80k)
 - [x] Run to home from work (~40k)
 - [x] [Swim accross the Balaton]((https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD))
-- [x] Swim in winter (12 min in December)
+- [x] [Swim in winter (12 min in December)](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
 - [ ] [Squat 1x 140 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) - (102.5 kg)
 - [ ] [Bench 1x 140 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) - (110 kg)
 - [ ] [Deadlift 1x 220 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) - (160 kg)
 - [ ] [Military Press 1x 100 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) - (82.5 kg)
 - [ ] Learn jiu jitsu
 - [ ] Learn Boxing
-- [x] Make a parachute jump
+- [x] [Make a parachute jump](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD)
 - [x] [Cliff Jump](https://github.com/ttltrk/ELSE/blob/master/LL/2016/LL_2016.MD)
 - [x] Invest in to the ETFs
 - [ ] Win the lottery
