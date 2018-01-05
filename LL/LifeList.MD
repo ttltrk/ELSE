@@ -7,8 +7,12 @@ Life List
 Visit
 ------
 
+- [x] Buckingham palace (London)
+- [x] Eiffel tower (Paris)
 - [x] Piazza di Spagna (Rome)
 - [x] Colosseo (Rome)
+- [x] Vatican City
+- [ ] Venice
 - [x] Amsterdam
 - [ ] San Francisco
 - [ ] NYC
@@ -53,6 +57,7 @@ Study and Know
 - [ ] Spanish
 - [ ] Arabic
 - [ ] Chinese
+- [ ] Dancing
 
 Accomplish
 ------
@@ -89,6 +94,7 @@ Accomplish
 - [ ] Read the works of Mikszath Kalman
 - [ ] Compose music
 - [ ] Play on the piano
+- [ ] Djing in a club
 - [ ] Donate blood 100x (14x)
 - [x] Marry and have children 
 
