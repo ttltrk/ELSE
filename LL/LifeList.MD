@@ -7,7 +7,9 @@ Life List
 Visit, Travel, Explore and Climb
 ------
 
-- [ ] Step foot on all 7 continents (1)
+- [ ] Step foot on all 7 continents (1/7)
+- [ ] Swim in all oceans (1/5)
+- [ ] Swim in all seas ()
 - [x] Buckingham palace (London)
 - [x] Eiffel tower (Paris)
 - [x] Louvre
@@ -24,8 +26,6 @@ Visit, Travel, Explore and Climb
 - [ ] NYC
 - [ ] Play in Las Vegas
 - [ ] [Csíksomlyói búcsú](https://hu.wikipedia.org/wiki/Cs%C3%ADksomly%C3%B3i_b%C3%BAcs%C3%BA)
-- [ ] Nord Pole
-- [ ] South Pole
 - [ ] Grand Canyon
 - [ ] Victoria Falls (Zimbabwe)
 - [ ] Machu Picchu (Peru)
