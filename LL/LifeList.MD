@@ -13,8 +13,8 @@ Life List
 2014 - 
 2015 - 
 2016 - 
-2017 - 
-2018 - 
+[2017](https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD) - 
+2018
 
 Visit, Travel, Explore and Climb
 ------
@@ -30,7 +30,7 @@ Visit, Travel, Explore and Climb
 - [x] [Fontana di Trevi (Rome)](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
 - [x] [Vatican City](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
 - [ ] Venice
-- [x] Amsterdam
+- [x] [Amsterdam](https://github.com/ttltrk/ELSE/blob/master/LL/2017/LL_2017.MD)
 - [ ] Santorini
 - [ ] Dubrovnik
 - [ ] The Great Wall of China
