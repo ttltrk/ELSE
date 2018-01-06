@@ -10,6 +10,7 @@ WO
 
   * JAN
   
+    * 05 : (Fri) - Push day. Outside, 20:30. easy 3x 70kg Military.
     * 04 : (Thu) - Rest day. 1.5h walk with my Son :)
     * 03 : (Wed) - Leg day. Outside, 20:30. 2rep on 92.5 (easy).
     * 02 : (Tue) - Easy pull day. Outside, 20:30. Some curls, pulling on 45, neck. Pull-ups.
