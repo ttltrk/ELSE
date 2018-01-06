@@ -10,6 +10,7 @@ WO
 
   * JAN
   
+    * 06 : (Sat) - 10x72.5kg Squat and 1x155kg DL.
     * 05 : (Fri) - Push day. Outside, 20:30. easy 3x 70kg Military.
     * 04 : (Thu) - Rest day. 1.5h walk with my Son :)
     * 03 : (Wed) - Leg day. Outside, 20:30. 2rep on 92.5 (easy).
