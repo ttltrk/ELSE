@@ -60,6 +60,8 @@ Travel (drive) with
 - [ ] Fly in a balloon  
 - [ ] Fly in a glider
 - [ ] Fly in a helicopter
+- [ ] Submarine
+- [ ] Cruise ship
 - [ ] Trans-Siberian express
 - [ ] bike to Portugal (to Atlantic Ocean, with bicycle)
 
