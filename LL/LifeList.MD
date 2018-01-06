@@ -112,7 +112,7 @@ Accomplish
 - [ ] Kektura
 - [x] Bike to work and back (~80k)
 - [x] Run to home from work (~40k)
-- [x] [Swim accross the Balaton]((https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD))
+- [x] [Swim accross the Balaton]((https://github.com/ttltrk/ELSE/blob/master/LL/2011/LL_2011.MD))
 - [x] [Swim in winter (12 min in December)](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
 - [ ] [Squat 1x 140 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) - (102.5 kg)
 - [ ] [Bench 1x 140 kg](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) - (110 kg)
