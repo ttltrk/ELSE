@@ -144,7 +144,7 @@ Accomplish
 - [ ] Read the works of Mikszath Kalman
 - [x] [soccer match RM with my Father (in Madrid)](https://github.com/ttltrk/ELSE/blob/master/LL/2015/LL_2015.MD)
 - [x] [wu concert (Balatonsound)](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD)
-- [ ] [Bullfighting - Andalusia](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
+- [x] [Bullfighting - Andalusia](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
 - [ ] Compose music
 - [ ] Play on the piano
 - [ ] Djing in a club
