@@ -4,7 +4,7 @@ Life List
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-(x/116)
+(30/116)
 
 [2008](https://github.com/ttltrk/ELSE/blob/master/LL/2008/LL_2008.MD) - 
 2009 - 
