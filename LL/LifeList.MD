@@ -35,7 +35,7 @@ Visit, Travel, Explore and Climb
 - [ ] Dubrovnik
 - [ ] The Great Wall of China
 - [ ] San Francisco
-- [ ] NYC
+- [ ] NYC (Rucker park)
 - [ ] Play in Las Vegas
 - [ ] [Csíksomlyói búcsú](https://hu.wikipedia.org/wiki/Cs%C3%ADksomly%C3%B3i_b%C3%BAcs%C3%BA)
 - [ ] Grand Canyon
@@ -144,6 +144,7 @@ Accomplish
 - [ ] Read the works of Petofi Sandor
 - [ ] Read the works of Moricz Zsigmond
 - [ ] Read the works of Mikszath Kalman
+- [ ] Read the works of Wass Albert
 - [x] [soccer match RM with my Father (in Madrid)](https://github.com/ttltrk/ELSE/blob/master/LL/2015/LL_2015.MD)
 - [x] [wu concert (Balatonsound)](https://github.com/ttltrk/ELSE/blob/master/LL/2013/LL_2013.MD)
 - [x] [Bullfighting - Andalusia](https://github.com/ttltrk/ELSE/blob/master/LL/2012/LL_2012.MD)
