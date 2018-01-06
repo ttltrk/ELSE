@@ -59,6 +59,8 @@ Travel (drive) with
 - [ ] Fly in a blimp
 - [ ] Fly in a balloon  
 - [ ] Fly in a glider
+- [ ] Fly in a helicopter
+- [ ] Trans-Siberian express
 - [ ] bike to Portugal (to Atlantic Ocean, with bicycle)
 
 Licenses
