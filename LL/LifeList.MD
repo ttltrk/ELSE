@@ -54,12 +54,14 @@ Travel (drive) with
 ------
 
 - [ ] Lambo
+- [ ] Ferrari F40
 - [ ] G wagon
+- [ ] F1 car
 - [ ] Supersport motorbike
-- [ ] Fly in a blimp
-- [ ] Fly in a balloon  
-- [ ] Fly in a glider
-- [ ] Fly in a helicopter
+- [ ] blimp
+- [ ] balloon  
+- [ ] glider
+- [ ] helicopter
 - [ ] Submarine
 - [ ] Cruise ship
 - [ ] Trans-Siberian express
