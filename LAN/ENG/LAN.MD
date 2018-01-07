@@ -10,7 +10,7 @@ Languages
 
   * JAN
     
-    * 07 : (Sun) - 3-4 lesson from he [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1).
+    * 07 : (Sun) - 3-4-5 lessons from he [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1).
     * 06 : (Sat) - 1st 2 lessons from the [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1).
     * 05 : (Fri) - 2 lessons from the [Occupations](https://www.duolingo.com/skill/en/Occupations) - 2nd part. Finished the lession. 63% - 5DIR
     * 04 : (Thu) - 2 lessons from the [Occupations](https://www.duolingo.com/skill/en/Occupations) - 1st part
