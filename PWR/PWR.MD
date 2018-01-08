@@ -6,10 +6,6 @@ WO
 
 [power stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)
 
-goal for 2018: BE, SQ, DL 3 digits
-
-actual status: BE: 97.5, SQ: 92.5, DL: 155
-
 ### 2018
 
   * JAN
