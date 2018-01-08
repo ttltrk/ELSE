@@ -10,6 +10,7 @@ WO
 
   * JAN
   
+    * 08 : (Mon) - Push day. 2x100kg BE, 10x55kg MI. easy. 
     * 07 : (Sun) - Rest day.
     * 06 : (Sat) - 10x72.5kg Squat and 1x155kg DL.
     * 05 : (Fri) - Push day. Outside, 20:30. easy 3x 70kg Military.
