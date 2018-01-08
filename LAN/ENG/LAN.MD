@@ -6,6 +6,8 @@ Languages
 
 [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO.MD)
 
+goal for 2018: Duolingo ENG 100%
+
 ### 2018
 
   * JAN
