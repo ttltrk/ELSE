@@ -10,6 +10,7 @@ Languages
 
   * JAN
     
+    * 09 : (Tue) - finished the [Igék: jelen 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2). 64% - 9 DIR.
     * 08 : (Mon) - from 1 to 5 [Igék: jelen 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2). 64% - 8 DIR.
     * 07 : (Sun) - from 3 to 9 lessons from he [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1). Finished the lession. 63% - 7 DIR.
     * 06 : (Sat) - 1st 2 lessons from the [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1). 63% - 6 DIR.
