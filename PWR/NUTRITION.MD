@@ -4,8 +4,7 @@ Nutrition/Supplements
 
 [<<<](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD)
 
-[Makro](https://github.com/ttltrk/ELSE/blob/master/PWR/MAKRO.MD)
-
+[makro](https://github.com/ttltrk/ELSE/blob/master/PWR/MAKRO.MD) | 
 [kcal target](http://orvosilexikon.hu/kalkulatorok/napi-kaloriaszukseglet-kalkulator)
 
 2018-JAN-10
