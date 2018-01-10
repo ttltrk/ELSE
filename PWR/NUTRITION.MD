@@ -11,7 +11,7 @@ Nutrition/Supplements
 * BW Morning: 105.9
 * BW Evening:
 * Nut/Sup:
-  * SUM Makro:
+  * SUM Makro: PR: CH: FA: 
   * SUM Kcal: 
   * 06:00 - 50g whey
 
