@@ -6,12 +6,13 @@ WO
 
 [power stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)
 
-[nutrition]()
+[nutrition](https://github.com/ttltrk/ELSE/blob/master/PWR/NUTRITION.MD)
 
 ### 2018
 
   * JAN
   
+    * 09 : (Tue) - Pull day. 5x100-3x120-1x140 DL. Curls + Pull ups.
     * 08 : (Mon) - Push day. 2x100kg BE, 10x55kg MI. easy. 
     * 07 : (Sun) - Rest day.
     * 06 : (Sat) - 10x72.5kg Squat and 1x155kg DL.
