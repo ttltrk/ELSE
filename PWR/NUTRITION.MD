@@ -13,12 +13,12 @@ Nutrition/Supplements
 * Nut/Sup:
   * SUM Makro: PR: CH: FA: 
   * SUM Kcal: 
-  * 06:00 - 50g whey
-  * 1.5l water
-  * 07:45 - coffee
-  * 09:30 - coffee
-  * 0.2dl water
-  * 0.2dl water
-  * 11:00 - lunch(tuna+3eggs+cheese+salad+karalabe+orange)
-  * 0.2dl water
+    * 06:00 - 50g whey
+    * 1.5l water
+    * 07:45 - coffee
+    * 09:30 - coffee
+    * 0.2dl water
+    * 0.2dl water
+    * 11:00 - lunch(tuna+3eggs+cheese+salad+karalabe+orange)
+    * 0.2dl water
 
