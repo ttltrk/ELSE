@@ -4,6 +4,16 @@ Makro
 
 [<<<](https://github.com/ttltrk/ELSE/blob/master/PWR/NUTRITION.MD)
 
+Lunch example
+------
+
+kcal: ~420 PR: ~65g CH: 23g FA: ~23.5g
+
+* Tuna (170g)
+* Eggs (3)
+* Cheese (~20g)
+* Salad (?)
+
 Whey 100 prof
 ------
 
