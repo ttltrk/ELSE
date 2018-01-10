@@ -1,5 +1,6 @@
 
-* Date: 2018-JAN-10
+2018-JAN-10
+------
 * BW Morning: 105.9
 * BW Evening:
 * Nut/Sup:
