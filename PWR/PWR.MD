@@ -4,12 +4,13 @@ WO
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-[power stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) | 
+[power stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)
 
 ### 2018
 
   * JAN
   
+    * 10 : (Wed) - Rest day.
     * 09 : (Tue) - Pull day. 5x100-3x120-1x140 DL. Curls + Pull ups.
     * 08 : (Mon) - Push day. 2x100kg BE, 10x55kg MI. easy. 
     * 07 : (Sun) - Rest day.
