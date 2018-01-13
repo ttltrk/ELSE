@@ -10,10 +10,10 @@ Languages
 
   * JAN
     
-    * 13 : (Sat) - 7-8 from [Adverb](https://www.duolingo.com/skill/en/Adverbs). Finished Adverb. 64% - 13 DIR.
-    * 12 : (Fri) - 5-6 from [Adverb](https://www.duolingo.com/skill/en/Adverbs) 64% - 12 DIR.
-    * 11 : (Thu) - 3-4 from [Adverb](https://www.duolingo.com/skill/en/Adverbs) 64% - 11 DIR.
-    * 10 : (Wed) - 1-2 from [Adverb](https://www.duolingo.com/skill/en/Adverbs) 64% - 10 DIR.
+    * 13 : (Sat) - 7-8 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs). Finished Adverbs. 64% - 13 DIR.
+    * 12 : (Fri) - 5-6 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs) 64% - 12 DIR.
+    * 11 : (Thu) - 3-4 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs) 64% - 11 DIR.
+    * 10 : (Wed) - 1-2 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs) 64% - 10 DIR.
     * 09 : (Tue) - finished the [Igék: jelen 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2). 64% - 9 DIR.
     * 08 : (Mon) - from 1 to 5 [Igék: jelen 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2). 64% - 8 DIR.
     * 07 : (Sun) - from 3 to 9 lessons from he [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1). Finished the lession. 63% - 7 DIR.
