@@ -10,6 +10,8 @@ Languages
 
   * JAN
     
+    * 15 : (Mon) - 1-2 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 15 DIR.
+    * 14 : (Sun) - 1-2 from [Family](https://www.duolingo.com/skill/en/Family) 64% - 14 DIR.
     * 13 : (Sat) - 7-8 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs). Finished Adverbs. 64% - 13 DIR.
     * 12 : (Fri) - 5-6 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs) 64% - 12 DIR.
     * 11 : (Thu) - 3-4 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs) 64% - 11 DIR.
