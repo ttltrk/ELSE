@@ -4,7 +4,7 @@ CRD
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-[div stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)
+[div stats](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/DIVS.MD)
 
 ### 2018
 
