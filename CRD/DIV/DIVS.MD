@@ -1,7 +1,7 @@
 Div Stats
 ======
 
-[<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
+[<<<](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/CRD.MD)
 
 2018 - JAN
 
