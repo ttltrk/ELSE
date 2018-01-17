@@ -10,8 +10,12 @@ WO
 
   * JAN
   
+    * 16 : (Tue) - Push day. 2x100kg BE, 6x60kg MI.
+    * 15 : (Mon) - Leg day. 2x97.5kg SQ.
+    * 14 : (Sun) - Rest day.
+    * 13 : (Sat) - Pull day. 5x135kg DL.
     * 12 : (Fri) - Push day. 2x72.5kg military press, 10x82.5kg bench.
-    * 11 : (Thu) - Squat day. 2x95kg. 
+    * 11 : (Thu) - Leg day. 2x95kg. 
     * 10 : (Wed) - Rest day.
     * 09 : (Tue) - Pull day. 5x100-3x120-1x140 DL. Curls + Pull ups.
     * 08 : (Mon) - Push day. 2x100kg BE, 10x55kg MI. easy. 
