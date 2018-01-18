@@ -12,7 +12,7 @@ Duolingo ENG - 64% - 18 DIR.
 
   * JAN
     
-    * 17 : (Thu) - 7-9 from [Places](https://www.duolingo.com/skill/en/Places). Finished the Places.
+    * 18 : (Thu) - 7-9 from [Places](https://www.duolingo.com/skill/en/Places). Finished the Places.
     * 17 : (Wed) - 5-6 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 17 DIR.
     * 16 : (Tue) - 3-4 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 16 DIR.
     * 15 : (Mon) - 1-2 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 15 DIR.
