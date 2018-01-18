@@ -1,4 +1,4 @@
-Div Stats
+DIV Stats
 ======
 
 [<<<](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/CRD.MD)
