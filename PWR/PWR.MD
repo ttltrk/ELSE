@@ -10,7 +10,7 @@ WO
 
   * JAN
   
-    * 19 : (Fri) - Leg day. 1x100kg + 8x75kg SQ.
+    * 19 : (Fri) - Leg day. 1x100kg + 7x75kg SQ.
     * 18 : (Thu) - Rest day.
     * 17 : (Wed) - Pull day. 2x140kg DL, curls. 
     * 16 : (Tue) - Push day. 2x100kg BE, 6x60kg MI.
