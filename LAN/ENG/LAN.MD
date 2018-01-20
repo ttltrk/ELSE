@@ -8,10 +8,12 @@ Languages
 
 ### 2018
 
-Duolingo ENG - 64% - 18 DIR.
+Duolingo ENG - 64% - 1 DIR.
 
   * JAN
     
+    * 20 : (Sat) - 1-2 from [Objects](https://www.duolingo.com/skill/en/Objects).
+    * 19 : (Fri) - Rest day.
     * 18 : (Thu) - 7-9 from [Places](https://www.duolingo.com/skill/en/Places). Finished the Places.
     * 17 : (Wed) - 5-6 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 17 DIR.
     * 16 : (Tue) - 3-4 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 16 DIR.
