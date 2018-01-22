@@ -10,6 +10,8 @@ WO
 
   * JAN
   
+    * 22 : (Mon) - Rest day.
+    * 21 : (Sun) - Pull day. Curls, Pull ups, rows on 45.
     * 20 : (Sat) - Push day. 6x90kg BE, 7x60kg MI.
     * 19 : (Fri) - Leg day. 1x100kg + 7x75kg SQ.
     * 18 : (Thu) - Rest day.
