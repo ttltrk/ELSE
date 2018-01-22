@@ -8,10 +8,15 @@ Languages
 
 ### 2018
 
-Duolingo ENG - 64% - 1 DIR.
-
   * JAN
+  
+  - WD: 20
+  - RD: 2
+  - DIR : 1
+  - Duolingo ENG - 63%
     
+    * 22 : (Mon) - 3-4 from [Objects](https://www.duolingo.com/skill/en/Objects).
+    * 21 : (Sun) - Rest day.
     * 20 : (Sat) - 1-2 from [Objects](https://www.duolingo.com/skill/en/Objects).
     * 19 : (Fri) - Rest day.
     * 18 : (Thu) - 7-9 from [Places](https://www.duolingo.com/skill/en/Places). Finished the Places.
