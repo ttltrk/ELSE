@@ -10,11 +10,12 @@ Languages
 
   * JAN
   
-  - WD: 20
+  - WD: 21
   - RD: 2
-  - DIR : 1
+  - DIR : 2
   - Duolingo ENG - 63%
     
+    * 23 : (Tue) - 5-6 from [Objects](https://www.duolingo.com/skill/en/Objects).
     * 22 : (Mon) - 3-4 from [Objects](https://www.duolingo.com/skill/en/Objects).
     * 21 : (Sun) - Rest day.
     * 20 : (Sat) - 1-2 from [Objects](https://www.duolingo.com/skill/en/Objects).
