@@ -10,6 +10,7 @@ WO
 
   * JAN
   
+    * 23 : (Tue) - Leg day. 1x102.5kg, 3x90kg, 6x80kg SQ.
     * 22 : (Mon) - Rest day.
     * 21 : (Sun) - Pull day. Curls, Pull ups, rows on 45.
     * 20 : (Sat) - Push day. 6x90kg BE, 7x60kg MI.
