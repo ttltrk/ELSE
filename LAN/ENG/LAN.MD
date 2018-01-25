@@ -9,7 +9,8 @@ Languages
 ### 2018
 
   * JAN
-  
+    
+    * 25 : (Thu) - 9-10 from [Objects](https://www.duolingo.com/skill/en/Objects). 63% - 4 DIR.
     * 24 : (Wed) - 7-8 from [Objects](https://www.duolingo.com/skill/en/Objects). 63% - 3 DIR.
     * 23 : (Tue) - 5-6 from [Objects](https://www.duolingo.com/skill/en/Objects).
     * 22 : (Mon) - 3-4 from [Objects](https://www.duolingo.com/skill/en/Objects).
