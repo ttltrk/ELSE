@@ -27,9 +27,22 @@ WO
       + SQ: 1x102.5kg, 3x90kg, 6x80kg 
       
     * 22 : (Mon) - Rest day.
-    * 21 : (Sun) - Pull day. Curls, Pull ups, rows on 45.
-    * 20 : (Sat) - Push day. 6x90kg BE, 7x60kg MI.
-    * 19 : (Fri) - Leg day. 1x100kg + 7x75kg SQ.
+    
+    * 21 : (Sun) - Pull day. 
+    
+      + Curls
+      + Pull ups
+      + rows on 45
+      
+    * 20 : (Sat) - Push day. 
+    
+      + BE: 6x90kg
+      + MI: 7x60kg
+      
+    * 19 : (Fri) - Leg day. 
+    
+      + SQ: 1x100kg, 7x75kg
+      
     * 18 : (Thu) - Rest day.
     * 17 : (Wed) - Pull day. 2x140kg DL, curls. 
     * 16 : (Tue) - Push day. 2x100kg BE, 6x60kg MI.
