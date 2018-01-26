@@ -10,8 +10,18 @@ Languages
 
   * JAN
     
-    * 26 : (Fri) - 1-3 from [People](https://www.duolingo.com/skill/en/People). Finished the People section. 63% - 5 DIR.
-    * 25 : (Thu) - 9-10 from [Objects](https://www.duolingo.com/skill/en/Objects). Finished the Objects section. 63% - 4 DIR.
+    * 26 : (Fri) 
+    
+      + [People](https://www.duolingo.com/skill/en/People) : 1-3. 
+      + Finished the People section. 
+      + 63% - 5 DIR.
+      
+    * 25 : (Thu) 
+    
+      + [Objects](https://www.duolingo.com/skill/en/Objects) : 9-10
+      + Finished the Objects section. 
+      + 63% - 4 DIR.
+      
     * 24 : (Wed) - 7-8 from [Objects](https://www.duolingo.com/skill/en/Objects). 63% - 3 DIR.
     * 23 : (Tue) - 5-6 from [Objects](https://www.duolingo.com/skill/en/Objects).
     * 22 : (Mon) - 3-4 from [Objects](https://www.duolingo.com/skill/en/Objects).
