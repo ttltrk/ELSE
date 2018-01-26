@@ -10,9 +10,22 @@ WO
 
   * JAN
   
-    * 25 : (Fri) - Pull day. Curls, rows45, pull ups, neck. 
-    * 24 : (Wed) - Push day. 2x100kg BE, 10x55kg MI.
-    * 23 : (Tue) - Leg day. 1x102.5kg, 3x90kg, 6x80kg SQ.
+    * 25 : (Fri) - Pull day. 
+      
+      + Curls 
+      + rows45 
+      + pull ups
+      + neck
+      
+    * 24 : (Wed) - Push day. 
+      
+      + BE: 2x100kg 
+      + MI: 10x55kg
+
+    * 23 : (Tue) - Leg day. 
+    
+      + SQ: 1x102.5kg, 3x90kg, 6x80kg 
+      
     * 22 : (Mon) - Rest day.
     * 21 : (Sun) - Pull day. Curls, Pull ups, rows on 45.
     * 20 : (Sat) - Push day. 6x90kg BE, 7x60kg MI.
