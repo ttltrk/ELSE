@@ -9,6 +9,11 @@ Languages
 ### 2018
 
   * JAN
+  
+    * 27 : (Sat)
+    
+      + [Trave](https://www.duolingo.com/skill/en/Travel) : 1-2
+      + 63% - 6 DIR.
     
     * 26 : (Fri) 
     
