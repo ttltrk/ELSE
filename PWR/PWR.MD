@@ -10,7 +10,9 @@ WO
 
   * JAN
   
-    * 25 : (Fri) - Pull day. 
+    * 26 : (Fri) - Rest day.
+  
+    * 25 : (Thu) - Pull day. 
       
       + Curls 
       + rows45 
