@@ -10,6 +10,11 @@ Languages
 
   * JAN
   
+    * 28 : (Sun)
+    
+      + [Trave](https://www.duolingo.com/skill/en/Travel) : 3-4
+      + 63% - 7 DIR.
+  
     * 27 : (Sat)
     
       + [Trave](https://www.duolingo.com/skill/en/Travel) : 1-2
