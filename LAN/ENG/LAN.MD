@@ -10,6 +10,12 @@ Languages
 
   * JAN
   
+    * 29 : (Mon)
+    
+      + [Travel](https://www.duolingo.com/skill/en/Travel) : 5-7
+      + Finished the Travel section. 
+      + 63% - 8 DIR.
+  
     * 28 : (Sun)
     
       + [Travel](https://www.duolingo.com/skill/en/Travel) : 3-4
