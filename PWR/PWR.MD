@@ -10,6 +10,15 @@ WO
 
   * JAN
   
+    * 28 : (Sun) - Push day.
+    
+      + BE: 2x100kg, 10x82.5kg
+      + tric
+  
+    * 27 : (Sat) - Leg day.
+    
+      + SQ: 2x100kg
+  
     * 26 : (Fri) - Rest day.
   
     * 25 : (Thu) - Pull day. 
