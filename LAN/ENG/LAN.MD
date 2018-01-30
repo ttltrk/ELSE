@@ -8,7 +8,7 @@ Languages
 
 ### 2018
   
-    * 30 : (Tue)
+   * 30 : (Tue)
     
       + [Travel](https://www.duolingo.com/skill/en/Determiners) : 1-2
       + 63% - 9 DIR.
