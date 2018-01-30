@@ -10,6 +10,12 @@ WO
 
   * JAN
   
+    * 29 : (Mon) - Pull day.
+    
+      + DL: 4x140kg
+      + curls
+      + pull ups
+  
     * 28 : (Sun) - Push day.
     
       + BE: 2x100kg, 10x82.5kg
