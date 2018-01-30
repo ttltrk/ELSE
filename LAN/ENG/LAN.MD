@@ -10,6 +10,13 @@ Languages
 
   * JAN
   
+  https://www.duolingo.com/skill/en/Determiners
+  
+    * 30 : (Tue)
+    
+      + [Travel](  https://www.duolingo.com/skill/en/Determiners) : 1-2
+      + 63% - 9 DIR.
+  
     * 29 : (Mon)
     
       + [Travel](https://www.duolingo.com/skill/en/Travel) : 5-7
