@@ -7,14 +7,10 @@ Languages
 [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO.MD)
 
 ### 2018
-
-  * JAN
-  
-  https://www.duolingo.com/skill/en/Determiners
   
     * 30 : (Tue)
     
-      + [Travel](  https://www.duolingo.com/skill/en/Determiners) : 1-2
+      + [Travel](https://www.duolingo.com/skill/en/Determiners) : 1-2
       + 63% - 9 DIR.
   
     * 29 : (Mon)
