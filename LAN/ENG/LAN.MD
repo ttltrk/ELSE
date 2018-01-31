@@ -8,7 +8,7 @@ Languages
 
 ### 2018
 
-    * 31 : (Wed)
+   * 31 : (Wed)
     
       + [Determiners](https://www.duolingo.com/skill/en/Determiners) : 3-4
       + Finished the Determiners section. 
