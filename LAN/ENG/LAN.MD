@@ -12,7 +12,7 @@ Languages
     
       + [Determiners](https://www.duolingo.com/skill/en/Determiners) : 3-4
       + Finished the Determiners section. 
-      + 63% - 10 DIR.
+      + 64% - 10 DIR.
   
    * 30 : (Tue)
     
