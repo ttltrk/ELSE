@@ -10,6 +10,15 @@ WO
 
   * JAN
   
+    * 30 : (Tue) - Push day.
+    
+      + SQ: 4x90kg
+  
+    * 30 : (Tue) - Push day.
+    
+      + MI: 8x60kg
+      + tric
+  
     * 29 : (Mon) - Pull day.
     
       + DL: 4x140kg
