@@ -10,7 +10,7 @@ WO
 
   * JAN
   
-    * 30 : (Tue) - Push day.
+    * 31 : (Wed) - Push day.
     
       + SQ: 4x90kg
   
