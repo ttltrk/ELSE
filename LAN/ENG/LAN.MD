@@ -7,10 +7,16 @@ Languages
 [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO.MD)
 
 ### 2018
+
+    * 31 : (Wed)
+    
+      + [Determiners](https://www.duolingo.com/skill/en/Determiners) : 3-4
+      + Finished the Determiners section. 
+      + 63% - 10 DIR.
   
    * 30 : (Tue)
     
-      + [Travel](https://www.duolingo.com/skill/en/Determiners) : 1-2
+      + [Determiners](https://www.duolingo.com/skill/en/Determiners) : 1-2
       + 63% - 9 DIR.
   
     * 29 : (Mon)
