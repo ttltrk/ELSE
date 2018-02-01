@@ -12,7 +12,7 @@ FEB
 
   * 01 : (Thu)
     
-      + [Numbers](https://www.duolingo.com/skill/en/Determiners) : 1-2
+      + [Numbers](https://www.duolingo.com/skill/en/Numbers) : 1-2
       + 64% - 11 DIR.
 
 JAN
