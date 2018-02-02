@@ -8,9 +8,17 @@ WO
 
 ### 2018
 
+  * FEB
+  
+    * 01 : (Thu) - Push day.
+    
+      + BE: 7x90kg
+      + tric
+      + neck
+
   * JAN
   
-    * 31 : (Wed) - Push day.
+    * 31 : (Wed) - Leg day.
     
       + SQ: 4x90kg
   
