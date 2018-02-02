@@ -66,7 +66,7 @@ Languages
     
     * 26 : (Fri) 
     
-      + [People](https://www.duolingo.com/skill/en/People) : 1-3. 
+      + [People](https://www.duolingo.com/skill/en/People) : 1-3 
       + Finished the People section. 
       + 63% - 5 DIR.
       
@@ -76,21 +76,77 @@ Languages
       + Finished the Objects section. 
       + 63% - 4 DIR.
       
-    * 24 : (Wed) - 7-8 from [Objects](https://www.duolingo.com/skill/en/Objects). 63% - 3 DIR.
-    * 23 : (Tue) - 5-6 from [Objects](https://www.duolingo.com/skill/en/Objects).
-    * 22 : (Mon) - 3-4 from [Objects](https://www.duolingo.com/skill/en/Objects).
-    * 21 : (Sun) - Rest day.
-    * 20 : (Sat) - 1-2 from [Objects](https://www.duolingo.com/skill/en/Objects).
-    * 19 : (Fri) - Rest day.
-    * 18 : (Thu) - 7-9 from [Places](https://www.duolingo.com/skill/en/Places). Finished the Places section.
-    * 17 : (Wed) - 5-6 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 17 DIR.
-    * 16 : (Tue) - 3-4 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 16 DIR.
-    * 15 : (Mon) - 1-2 from [Places](https://www.duolingo.com/skill/en/Places) 64% - 15 DIR.
-    * 14 : (Sun) - 1-2 from [Family](https://www.duolingo.com/skill/en/Family) 64% - 14 DIR.
-    * 13 : (Sat) - 7-8 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs). Finished Adverbs section. 64% - 13 DIR.
-    * 12 : (Fri) - 5-6 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs) 64% - 12 DIR.
-    * 11 : (Thu) - 3-4 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs) 64% - 11 DIR.
-    * 10 : (Wed) - 1-2 from [Adverbs](https://www.duolingo.com/skill/en/Adverbs) 64% - 10 DIR.
+    * 24 : (Wed) 
+    
+      + [Objects](https://www.duolingo.com/skill/en/Objects) : 7-8
+      + 63% - 3 DIR.
+      
+    * 23 : (Tue) 
+    
+      + [Objects](https://www.duolingo.com/skill/en/Objects) : 5-6
+      
+    * 22 : (Mon) 
+    
+      + [Objects](https://www.duolingo.com/skill/en/Objects) : 3-4
+      
+    * 21 : (Sun)
+    
+      + Rest day
+      
+    * 20 : (Sat)
+    
+      + [Objects](https://www.duolingo.com/skill/en/Objects) : 1-2
+      
+    * 19 : (Fri)
+    
+      + Rest day
+      
+    * 18 : (Thu)
+    
+      + [Places](https://www.duolingo.com/skill/en/Places) : 7-9
+      + Finished the Places section.
+      
+    * 17 : (Wed)
+    
+      + [Places](https://www.duolingo.com/skill/en/Places) : 5-6
+      + 64% - 17 DIR.
+      
+    * 16 : (Tue)
+      
+      + [Places](https://www.duolingo.com/skill/en/Places) : 3-4
+      + 64% - 16 DIR.
+      
+    * 15 : (Mon)
+    
+      + [Places](https://www.duolingo.com/skill/en/Places) : 1-2
+      + 64% - 15 DIR.
+      
+    * 14 : (Sun)
+    
+      + [Family](https://www.duolingo.com/skill/en/Family) : 1-2
+      + 64% - 14 DIR.
+      
+    * 13 : (Sat)
+    
+      + [Adverbs](https://www.duolingo.com/skill/en/Adverbs) : 7-8
+      + Finished Adverbs section. 
+      + 64% - 13 DIR.
+      
+    * 12 : (Fri)
+    
+      + [Adverbs](https://www.duolingo.com/skill/en/Adverbs) : 5-6
+      + 64% - 12 DIR.
+      
+    * 11 : (Thu)
+    
+      + [Adverbs](https://www.duolingo.com/skill/en/Adverbs) : 3-4
+      + 64% - 11 DIR.
+      
+    * 10 : (Wed)
+    
+      + [Adverbs](https://www.duolingo.com/skill/en/Adverbs) : 1-2
+      + 64% - 10 DIR.
+      
     * 09 : (Tue) - finished the [Igék: jelen 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2). 64% - 9 DIR.
     * 08 : (Mon) - from 1 to 5 [Igék: jelen 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2). 64% - 8 DIR.
     * 07 : (Sun) - from 3 to 9 lessons from he [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1). Finished the lession. 63% - 7 DIR.
