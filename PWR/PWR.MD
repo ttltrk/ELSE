@@ -8,7 +8,7 @@ WO
 
 ### 2018
 
-  * FEB
+ * FEB
   
     * 01 : (Thu) - Push day.
     
