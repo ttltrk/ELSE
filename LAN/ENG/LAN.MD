@@ -8,14 +8,19 @@ Languages
 
 ### 2018
 
-FEB
+* FEB
+
+  * 02 : (Fri)
+    
+      + [Numbers](https://www.duolingo.com/skill/en/Numbers) : 3-4
+      + 64% - 12 DIR.
 
   * 01 : (Thu)
     
       + [Numbers](https://www.duolingo.com/skill/en/Numbers) : 1-2
       + 64% - 11 DIR.
 
-JAN
+* JAN
 
    * 31 : (Wed)
     
