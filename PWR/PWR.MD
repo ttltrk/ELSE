@@ -20,6 +20,7 @@ WO
     * 03 : (Sat) - Pull day.
     
       + MI: 10x60kg
+      + DIR: 8
  
     * 02 : (Fri) - Pull day.
     
