@@ -10,11 +10,18 @@ Languages
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x|  |  |  |  |  |  |  |  |  |  |  |  | 
+|  | x| x| x| x|  |  |  |  |  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * FEB
+
+  * 04 : (Sun)
+    
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 1
+      + [Conjunctions](https://www.duolingo.com/skill/en/Conjunctions) : 1
+      + Finished the Conjunctions section. 
+      + 64% - 14 DIR.
   
   * 03 : (Sat)
     
