@@ -60,9 +60,9 @@ Languages
 
 |ST|NU|
 |--|--|
-|WD|5 |
-|RD|0 |
-|LDIR|15|
+|WD|29 |
+|RD|2 |
+|LDIR|18|
 
 * JAN
 
@@ -134,6 +134,7 @@ Languages
     
       + [Places](https://www.duolingo.com/skill/en/Places) : 7-9
       + Finished the Places section.
+      + 64% - 18 DIR.
       
     * 17 : (Wed)
     
@@ -178,7 +179,7 @@ Languages
       
     * 09 : (Tue)
     
-      + [Verbs Present 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2)
+      + [Verbs Present 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2) : 6-7
       + Finished the Verbs Present 2 section.
       + 64% - 9 DIR.
     
