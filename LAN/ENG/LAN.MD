@@ -14,6 +14,12 @@ Languages
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
+|ST|NU|
+|--|--|
+|WD|5 |
+|RD|0 |
+|LDIR|15|
+
 * FEB
 
   * 05 : (Mon)
@@ -51,6 +57,12 @@ Languages
 |  | x| x| x|x |x |x |x |x |x |x |x |x |x |x |x | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |x |x |x |RD|x |RD|x |x |x |x |x |x |x |x |x |x |
+
+|ST|NU|
+|--|--|
+|WD|5 |
+|RD|0 |
+|LDIR|15|
 
 * JAN
 
@@ -164,10 +176,38 @@ Languages
       + [Adverbs](https://www.duolingo.com/skill/en/Adverbs) : 1-2
       + 64% - 10 DIR.
       
-    * 09 : (Tue) - finished the [Igék: jelen 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2). 64% - 9 DIR.
-    * 08 : (Mon) - from 1 to 5 [Igék: jelen 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2). 64% - 8 DIR.
-    * 07 : (Sun) - from 3 to 9 lessons from he [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1). Finished the lession. 63% - 7 DIR.
-    * 06 : (Sat) - 1st 2 lessons from the [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1). 63% - 6 DIR.
-    * 05 : (Fri) - 2 lessons from the [Occupations](https://www.duolingo.com/skill/en/Occupations) - 2nd part. Finished the lession. 63% - 5 DIR.
-    * 04 : (Thu) - 2 lessons from the [Occupations](https://www.duolingo.com/skill/en/Occupations) - 1st part
-    * 03 : (Wed) - Finishing again a Duolingo chapter [Dates and Time](https://www.duolingo.com/skill/en/Dates-and-Time). Reading daily,   learning some new words.
+    * 09 : (Tue)
+    
+      + [Verbs Present 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2)
+      + Finished the Verbs Present 2 section.
+      + 64% - 9 DIR.
+    
+    * 08 : (Mon)
+    
+      + [Verbs Present 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2) : 1-5
+      + 64% - 8 DIR.
+    
+    * 07 : (Sun)
+    
+      + [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1) : 3-9 
+      + Finished the Adjectives-1 section. 
+      + 63% - 7 DIR.
+    
+    * 06 : (Sat)
+    
+      + [Adjectives-1](https://www.duolingo.com/skill/en/Adjectives-1) : 1-2
+      + 63% - 6 DIR.
+    
+    * 05 : (Fri)
+    
+      + [Occupations](https://www.duolingo.com/skill/en/Occupations) : 3-4
+      + Finished the Occupations section. 
+      + 63% - 5 DIR.
+    
+    * 04 : (Thu)
+    
+      + [Occupations](https://www.duolingo.com/skill/en/Occupations) : 1-2
+    
+    * 03 : (Wed)  
+    
+      + [Dates and Time](https://www.duolingo.com/skill/en/Dates-and-Time). Reading daily,   learning some new words.
