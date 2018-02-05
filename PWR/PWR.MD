@@ -14,6 +14,12 @@ WO
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
+|ST|NU|
+|--|--|
+|WD|4 |
+|RD|1 |
+|LDIR|3|
+
 
  * FEB
  
@@ -46,6 +52,12 @@ WO
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |x |x |x |RD|x |RD|x |x |x |x |x |x |x |x |x |x |
 
+|ST|NU|
+|--|--|
+|WD|4 |
+|RD|1 |
+|LDIR|3|
+
 * JAN
   
     * 31 : (Wed) - Leg day.
@@ -73,6 +85,8 @@ WO
       + SQ: 2x100kg
   
     * 26 : (Fri) - Rest day.
+    
+      + Rest day.
   
     * 25 : (Thu) - Pull day. 
       
@@ -92,6 +106,8 @@ WO
       
     * 22 : (Mon) - Rest day.
     
+      + Rest day/
+    
     * 21 : (Sun) - Pull day. 
     
       + Curls
@@ -108,17 +124,50 @@ WO
       + SQ: 1x100kg, 7x75kg
       
     * 18 : (Thu) - Rest day.
-    * 17 : (Wed) - Pull day. 2x140kg DL, curls. 
-    * 16 : (Tue) - Push day. 2x100kg BE, 6x60kg MI.
-    * 15 : (Mon) - Leg day. 2x97.5kg SQ.
+    
+      + Rest day.
+      
+    * 17 : (Wed) - Pull day. 
+    
+      + DL: 2x140kg
+      + curls
+      
+    * 16 : (Tue) - Push day. 
+    
+      + BE: 2x100kg 
+      + MI: 6x60kg
+      
+    * 15 : (Mon) - Leg day. 
+    
+      + SQ: 2x97.5kg
+      
     * 14 : (Sun) - Rest day.
-    * 13 : (Sat) - Pull day. 5x135kg DL.
-    * 12 : (Fri) - Push day. 2x72.5kg military press, 10x82.5kg bench.
-    * 11 : (Thu) - Leg day. 2x95kg. 
+    
+      + Rest day.
+      
+    * 13 : (Sat) - Pull day. 
+    
+      + DL: 5x135kg    
+    
+    * 12 : (Fri) - Push day. 
+    
+      + MI: 2x72.5kg
+      + BE: 10x82.5kg
+      
+    * 11 : (Thu) - Leg day. 
+    
+      + SQ: 2x95kg
+      
     * 10 : (Wed) - Rest day.
+    
+      + Rest day.
+      
     * 09 : (Tue) - Pull day. 5x100-3x120-1x140 DL. Curls + Pull ups.
     * 08 : (Mon) - Push day. 2x100kg BE, 10x55kg MI. easy. 
     * 07 : (Sun) - Rest day.
+    
+      + Rest day.
+      
     * 06 : (Sat) - 10x72.5kg Squat and 1x155kg DL.
     * 05 : (Fri) - Push day. Outside, 20:30. easy 3x 70kg Military.
     * 04 : (Thu) - Rest day. 1.5h walk with my Son :)
