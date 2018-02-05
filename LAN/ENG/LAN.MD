@@ -19,7 +19,6 @@ Languages
   * 05 : (Mon)
     
       + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 2-3
-      + Finished the Conjunctions section. 
       + 64% - 15 DIR.
 
   * 04 : (Sun)
