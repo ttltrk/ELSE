@@ -18,7 +18,7 @@ WO
 |--|--|
 |WD|4 |
 |RD|1 |
-|LDIR|3|
+|LDIR|8|
 
 
  * FEB
@@ -48,15 +48,15 @@ WO
 
 |J | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x|x |x |x |x |x |x |x |x |x |x |x |x | 
+|  | x| x|RD|x |x |x |RD|x |x |RD|x |x |x |RD|x | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-|x |x |x |RD|x |RD|x |x |x |x |x |x |x |x |x |x |
+|x |x |RD|x |x |x |RD|x |x |x |RD|x |x |x |x |x |
 
 |ST|NU|
 |--|--|
-|WD|4 |
-|RD|1 |
-|LDIR|3|
+|WD|24|
+|RD|7 |
+|LDIR|5|
 
 * JAN
   
@@ -106,7 +106,7 @@ WO
       
     * 22 : (Mon) - Rest day.
     
-      + Rest day/
+      + Rest day.
     
     * 21 : (Sun) - Pull day. 
     
@@ -162,16 +162,39 @@ WO
     
       + Rest day.
       
-    * 09 : (Tue) - Pull day. 5x100-3x120-1x140 DL. Curls + Pull ups.
-    * 08 : (Mon) - Push day. 2x100kg BE, 10x55kg MI. easy. 
+    * 09 : (Tue) - Pull day. 
+    
+      + DL: 5x100-3x120-1x140 DL
+      + Curls 
+      + Pull ups
+      
+    * 08 : (Mon) - Push day. 
+    
+      + BE: 2x100kg 
+      + MI: 10x55kg 
+      
     * 07 : (Sun) - Rest day.
     
       + Rest day.
       
-    * 06 : (Sat) - 10x72.5kg Squat and 1x155kg DL.
-    * 05 : (Fri) - Push day. Outside, 20:30. easy 3x 70kg Military.
-    * 04 : (Thu) - Rest day. 1.5h walk with my Son :)
-    * 03 : (Wed) - Leg day. Outside, 20:30. 2rep on 92.5 (easy).
+    * 06 : (Sat) - 
+    
+      + SQ: 10x72.5kg
+      + DL: 1x155kg
+      
+    * 05 : (Fri) - Push day. 
+    
+      + MI: 3x70kg
+      
+    * 04 : (Thu) - Rest day. 
+    
+      + Rest day.
+      
+    * 03 : (Wed) - Leg day. 
+    
+      + SQ: 92.5 
+    
     * 02 : (Tue) - Easy pull day. Outside, 20:30. Some curls, pulling on 45, neck. Pull-ups.
+    
     * 01 : (Mon) - Push day. Outside, 20:30. Changed my 3rep max to 97.5, and the military to 55 8rep. Pretty correct wo.
 
