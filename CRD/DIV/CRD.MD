@@ -6,6 +6,13 @@ CRD
 
 [div stats](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/DIVS.MD)
 
+| [getrichslowly.org](http://www.getrichslowly.org/) |
+[moneycrashers.com](https://www.moneycrashers.com/) |
+[budgetsaresexy.com](http://www.budgetsaresexy.com/) |
+[iwillteachyoutoberich.com](https://www.iwillteachyoutoberich.com/) |
+[wisebread.com](http://www.wisebread.com/) |
+[thesimpledollar.com](https://www.thesimpledollar.com/) |
+
 ### 2018
 
   * JAN
