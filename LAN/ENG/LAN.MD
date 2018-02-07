@@ -24,7 +24,8 @@ Languages
 
   * 07 : (Wed)
     
-      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 6-7
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 6-10
+      + Finished the Verbs Present 3 section. 
       + 64% - 17 DIR.
 
   * 06 : (Tue)
