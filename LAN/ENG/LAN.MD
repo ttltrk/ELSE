@@ -10,17 +10,24 @@ Languages
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x|  |  |  |  |  |  | 
+|  | x| x| x| x| x| x| x| x| x| x|  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|9 |
+|WD|10|
 |RD|0 |
-|LDIR|19|
+|LDIR|20|
 
 * FEB
+
+  * 10 : (Sat)
+    
+      + [Travel](https://www.duolingo.com/skill/en/Travel) : 1 (AGAIN)
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 1 (AGAIN)
+      + Finished the Travel section (AGAIN). 
+      + 64% - 20 DIR.
 
   * 09 : (Fri)
     
