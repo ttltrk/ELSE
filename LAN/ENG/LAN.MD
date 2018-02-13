@@ -10,17 +10,25 @@ Languages
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x| x|RD| x|  |  |  | 
+|  | x| x| x| x| x| x| x| x| x| x|RD| x| x|  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|11|
+|WD|12|
 |RD|1 |
 |LDIR|10|
 
 * FEB
+
+  * 13 : (Tue)
+    
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 4 (AGAIN)
+      + [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 1
+      + Finished the Verbs Present 3 section (AGAIN). 
+      + 64%
+      + DIR: 2
 
   * 12 : (Mon)
     
