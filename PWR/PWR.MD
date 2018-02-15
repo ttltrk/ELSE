@@ -56,7 +56,7 @@ WO
     
       + Rest day
  
-    * 08 : (Thu) - Pull day.
+    * 08 : (Thu) - Push day.
     
       + MI: 6x62.5kg
       + neck
