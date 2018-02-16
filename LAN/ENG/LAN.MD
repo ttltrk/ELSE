@@ -12,21 +12,29 @@ Languages
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| x|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|14|
+|WD|15|
 |RD|1 |
 |LDIR|10|
 
 * FEB
 
-  * 14 : (Thu)
+  * 16 : (Fri)
     
-     + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 4-5 (AGAIN)
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 6 (AGAIN)
+      + [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 2
+      + Finished the Verbs Present 3 section (AGAIN). 
       + 64%
       + DIR: 5
+
+  * 15 : (Thu)
+    
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 4-5 (AGAIN)
+      + 64%
+      + DIR: 4
 
   * 14 : (Wed)
     
