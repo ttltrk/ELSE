@@ -12,7 +12,7 @@ Languages
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| x|RD| x|  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
@@ -21,6 +21,13 @@ Languages
 |LDIR|10|
 
 * FEB
+
+  * 18 : (Sun)
+    
+      + [Places](https://www.duolingo.com/skill/en/Places) : 1-2 (AGAIN)
+      + Finished the Places section (AGAIN). 
+      + 64%
+      + DIR: 1
 
   * 17 : (Sat)
     
