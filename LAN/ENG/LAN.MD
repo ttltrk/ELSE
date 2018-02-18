@@ -17,7 +17,7 @@ Languages
 |ST|NU|
 |--|--|
 |WD|15|
-|RD|1 |
+|RD|2 |
 |LDIR|10|
 
 * FEB
