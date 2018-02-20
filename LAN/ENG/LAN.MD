@@ -12,15 +12,24 @@ Languages
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x|  |  |  |  |  |  |  |  |  |  |  |  |
+| x|RD| x| x| x|  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|17|
+|WD|18|
 |RD|2 |
 |LDIR|10|
 
 * FEB
+
+  * 20 : (Tue)
+    
+      + [People](https://www.duolingo.com/skill/en/People) : 1 (AGAIN)
+      + [Travel](https://www.duolingo.com/skill/en/Travel) : 3 (AGAIN)
+      + Finished the People section (AGAIN). 
+      + Finished the Travel section (AGAIN). 
+      + 64%
+      + DIR: 3
 
   * 19 : (Mon)
     
