@@ -12,15 +12,28 @@ Languages
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x| x| x| x|  |  |  |  |  |  |  |  |  |
+| x|RD| x| x| x| x| x| x| x|  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|20|
+|WD|22|
 |RD|2 |
 |LDIR|10|
 
 * FEB
+
+  * 24 : (Sat)
+    
+      + [Objects](https://www.duolingo.com/skill/en/Objects) : 3-4 (AGAIN)
+      + Finished the Objects section (AGAIN). 
+      + 65%
+      + DIR: 7
+
+  * 23 : (Fri)
+    
+      + [Objects](https://www.duolingo.com/skill/en/Objects) : 1-2 (AGAIN)
+      + 65%
+      + DIR: 6
 
   * 22 : (Thu)
     
