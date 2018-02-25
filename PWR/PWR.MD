@@ -12,7 +12,7 @@ WO
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x|RD| x| x| x| x|RD| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x|RD| x| x|  |  |  |  |  |  |  |  |  |  |
+| x| x| x|RD| x| x| x| x| x| x|  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
@@ -22,6 +22,24 @@ WO
 
 
  * FEB
+ 
+    * 24 : (Sat) - Leg day.
+    
+      + SQ: 3x90kg 
+      + curls
+      + pull ups
+ 
+    * 23 : (Fri) - Leg day.
+    
+      + MI: 8x62.5kg
+      + tric
+      + neck
+ 
+    * 22 : (Thu) - Leg day.
+    
+      + DL: 2x150kg
+      + pull ups
+      + curls
  
     * 21 : (Wed) - Leg day.
     
