@@ -12,15 +12,29 @@ Languages
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x| x| x| x| x| x|  |  |  |  |  |  |  |
+| x|RD| x| x| x| x| x| x| x|RD|  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
 |WD|22|
-|RD|2 |
+|RD|3 |
 |LDIR|10|
 
 * FEB
+ 
+   * 26 : (Mon)
+    
+      + [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 8
+      + [Travel](https://www.duolingo.com/skill/en/Travel) : 4 (AGAIN)
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 8 (AGAIN)
+      + Finished the Travel section (AGAIN). 
+      + Finished the Verbs Present 3 section (AGAIN). 
+      + 65%
+      + DIR: 1
+      
+  * 25 : (Sun)
+    
+      + Rest day
 
   * 24 : (Sat)
     
