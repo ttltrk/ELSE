@@ -12,15 +12,22 @@ Languages
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x| x| x| x| x| x|RD| x|  |  |  |  |  |
+| x|RD| x| x| x| x| x| x| x|RD| x| x|  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|22|
+|WD|24|
 |RD|3 |
 |LDIR|10|
 
 * FEB
+
+   * 27 : (Tue)
+    
+      + [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 9-10
+      + Finished the Verbs Past section. 
+      + 65%
+      + DIR: 2
  
    * 26 : (Mon)
     
