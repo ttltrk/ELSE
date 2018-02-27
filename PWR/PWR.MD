@@ -23,6 +23,12 @@ WO
 
  * FEB
  
+    * 25 : (Mon) - Push day
+    
+      + BE: 5x90kg
+      + tric
+      + neck
+ 
     * 25 : (Sun) - Rest day
     
       + Rest day
@@ -33,7 +39,7 @@ WO
       + curls
       + pull ups
  
-    * 23 : (Fri) - Leg day.
+    * 23 : (Fri) - Push day.
     
       + MI: 8x62.5kg
       + tric
