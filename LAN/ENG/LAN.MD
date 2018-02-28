@@ -12,7 +12,7 @@ Languages
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x| x| x| x| x| x|RD| x| x|  |  |  |  |
+| x|RD| x| x| x| x| x| x| x|RD| x| x| x|  |  |  |
 
 |ST|NU|
 |--|--|
@@ -21,6 +21,18 @@ Languages
 |LDIR|10|
 
 * FEB
+
+   * 28 : (Wed)
+    
+      + [Places](https://www.duolingo.com/skill/en/Places) : 3 (AGAIN)
+      + [Travel](https://www.duolingo.com/skill/en/Travel) : 5 (AGAIN)
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 9 (AGAIN)
+      + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 1
+      + Finished the Places section AGAIN. 
+      + Finished the Travel section AGAIN. 
+      + Finished the Verbs Present 3 section AGAIN. 
+      + 65%
+      + DIR: 3
 
    * 27 : (Tue)
     
