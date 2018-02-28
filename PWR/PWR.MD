@@ -12,7 +12,7 @@ WO
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x|RD| x| x| x| x|RD| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x|RD| x| x| x| x| x|RD| x|  |  |  |  |  |
+| x| x| x|RD| x| x| x| x| x|RD| x| x|  |  |  |  |
 
 |ST|NU|
 |--|--|
@@ -23,7 +23,13 @@ WO
 
  * FEB
  
-    * 25 : (Mon) - Push day
+    * 27 : (Tue) - Pull day
+    
+      + DL: 1x150kg
+      + curls
+      + pull ups
+ 
+    * 26 : (Mon) - Push day
     
       + BE: 5x90kg
       + tric
