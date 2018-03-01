@@ -12,16 +12,18 @@ WO
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x|RD| x| x| x| x|RD| x|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x|RD| x| x| x| x| x|RD| x| x|  |  |  |  |
+| x| x| x|RD| x| x| x| x| x|RD| x| x| x|  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|21|
+|WD|23|
 |RD|5 |
-|LDIR|4|
-
 
  * FEB
+ 
+   * 28 : (Wed) - Push day
+    
+      + Push press: 3x70kg
  
     * 27 : (Tue) - Pull day
     
