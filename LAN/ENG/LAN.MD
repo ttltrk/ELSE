@@ -6,6 +6,27 @@ Languages
 
 [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO.MD)
 
+### 2018 - MRC
+
+|F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|  | x|  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|ST|NU|
+|--|--|
+|WD| 1|
+|RD| 0|
+
+* MRC
+
+  * 01 : (Thu)
+  
+    + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 2-3
+    + 66%
+    + DIR: 4
+
 ### 2018 - FEB
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
@@ -16,9 +37,8 @@ Languages
 
 |ST|NU|
 |--|--|
-|WD|24|
+|WD|25|
 |RD|3 |
-|LDIR|10|
 
 * FEB
 
