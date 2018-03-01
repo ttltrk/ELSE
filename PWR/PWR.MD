@@ -6,6 +6,29 @@ WO
 
 [power stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)
 
+---
+
+### 2018 - MRC
+
+|F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|ST|NU|
+|--|--|
+|WD|  |
+|RD|  |
+
+* MRC
+
+  * 01 : (Thu) - Leg day
+  
+    + SQ: 
+
+---
+
 ### 2018 - FEB
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
@@ -171,6 +194,8 @@ WO
       + BE: 7x90kg
       + tric
       + neck
+      
+---
 
 ### 2018 - JAN
 
@@ -325,4 +350,6 @@ WO
     * 02 : (Tue) - Easy pull day. Outside, 20:30. Some curls, pulling on 45, neck. Pull-ups.
     
     * 01 : (Mon) - Push day. Outside, 20:30. Changed my 3rep max to 97.5, and the military to 55 8rep. Pretty correct wo.
+    
+    ---
 
