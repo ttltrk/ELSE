@@ -6,6 +6,8 @@ Languages
 
 [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO.MD)
 
+---
+
 ### 2018 - MRC
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
@@ -26,6 +28,8 @@ Languages
     + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 2-3
     + 66%
     + DIR: 4
+
+---
 
 ### 2018 - FEB
 
@@ -221,6 +225,8 @@ Languages
     
       + [Numbers](https://www.duolingo.com/skill/en/Numbers) : 1-2
       + 64% - 11 DIR.
+      
+---
       
 ### 2018 - JAN
 
