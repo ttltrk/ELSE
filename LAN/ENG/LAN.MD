@@ -23,13 +23,13 @@ Languages
 
 * MRC
 
-  * 01 : (Sat)
+  * 03 : (Sat)
   
     + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 6-7
     + 66%
     + DIR: 6
 
-  * 01 : (Fri)
+  * 02 : (Fri)
   
     + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 4-5
     + 66%
