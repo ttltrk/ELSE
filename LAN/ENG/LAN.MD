@@ -12,16 +12,28 @@ Languages
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x|  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+|  | x| x| x|  |  |  |  |  |  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 1|
+|WD| 3|
 |RD| 0|
 
 * MRC
+
+  * 01 : (Sat)
+  
+    + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 6-7
+    + 66%
+    + DIR: 6
+
+  * 01 : (Fri)
+  
+    + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 4-5
+    + 66%
+    + DIR: 5
 
   * 01 : (Thu)
   
