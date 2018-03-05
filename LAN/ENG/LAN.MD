@@ -23,8 +23,6 @@ Languages
 
 * MRC
 
-https://www.duolingo.com/skill/en/Verbs%3A-Present-3
-
   * 05 : (Mon)
   
     + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 10 (AGAIN)
