@@ -4,11 +4,15 @@ Languages
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-[Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO.MD)
+| [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO.MD) |
 
 ---
 
-### 2018 - MRC
+2018 - <a href='#2018_01'>JAN</a> | <a href='#2018_02'>FEB</a> | <a href='#2018_03'>MRC</a>
+
+---
+
+### <h4 id='2018_03'>2018 - MRC</h4>
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
@@ -71,7 +75,7 @@ Languages
 
 ---
 
-### 2018 - FEB
+### <h4 id='2018_02'>2018 - FEB</h4>
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
@@ -268,7 +272,7 @@ Languages
       
 ---
       
-### 2018 - JAN
+### <h4 id='2018_03'>2018 - JAN</h4>
 
 |J | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
