@@ -90,6 +90,8 @@ Languages
 |WD|25|
 |RD|3 |
 
+<a href='#NAV'>NAV</a>
+
 * FEB
 
    * 28 : (Wed)
@@ -284,9 +286,11 @@ Languages
 
 |ST|NU|
 |--|--|
-|WD|29 |
+|WD|29|
 |RD|2 |
 |LDIR|18|
+
+<a href='#NAV'>NAV</a>
 
 * JAN
 
