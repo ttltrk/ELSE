@@ -12,16 +12,26 @@ Languages
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x|  |  |  |  |  |  |  |  |  |  | 
+|  | x| x| x| x| x| x|  |  |  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 5|
+|WD| 6|
 |RD| 0|
 
 * MRC
+
+  * 06 : (Tue)
+  
+    + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 1-2 (AGAIN)
+    + [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 2 (AGAIN)
+    + [Verbs Past2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 1
+    + Finished the Verbs Present 3 section AGAIN. 
+    + Finished the Verbs Past section AGAIN.
+    + 66%
+    + DIR: 9
 
   * 05 : (Mon)
   
@@ -30,6 +40,7 @@ Languages
     + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 8-9
     + Finished the Verbs Present 3 section AGAIN. 
     + Finished the Verbs Past section AGAIN.
+    + Finished the Verbs Infinitive section.
     + 66%
     + DIR: 8
 
