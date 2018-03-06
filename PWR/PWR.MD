@@ -23,7 +23,7 @@ WO
 
 * MRC
 
-  * 05 : (Mon) - Push day
+  * 05 : (Mon) - Pull day
   
     + DL: 3x150kg
     + pull ups
