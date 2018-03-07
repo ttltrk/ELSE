@@ -31,13 +31,24 @@ Languages
 
   * 07 : (Wed)
   
-    + [Travel](https://www.duolingo.com/skill/en/Travel) : 6 (AGAIN)
-    + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 1 (AGAIN)
-    + [Verbs Past2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 2
-    + Finished the Verbs Travel section AGAIN. 
-    + Finished the Verbs Infinitive section AGAIN. 
-    + 66%
-    + DIR: 10
+    - ENG 
+  
+      + [Travel](https://www.duolingo.com/skill/en/Travel) : 6 (AGAIN)
+      + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 1 (AGAIN)
+      + [Verbs Past2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 2
+      + Finished the Verbs Travel section AGAIN. 
+      + Finished the Verbs Infinitive section AGAIN. 
+      + 66%
+      + LEV: 14
+      + DIR: 10
+    
+    - GER
+    
+      + [Basics](https://www.duolingo.com/skill/de/Basics-1) : 1-3
+      + Finished the Verbs Basics section.
+      + 15%
+      + LEV: 1
+      + DIR: 10    
 
   * 06 : (Tue)
   
