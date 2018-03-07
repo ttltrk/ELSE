@@ -2,7 +2,9 @@
 [Duolingo English](https://www.duolingo.com/)
 ======
 
-[<<<](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD)
+[<<<](https://github.com/ttltrk/ELSE/blob/master/LAN/DUOLINGO.MD)
+
+---
 
 ### Section 1.
 
@@ -74,6 +76,7 @@
 * <a href='#54'>54 - FELTETELES MULT</a>
 * <a href='#55'>55 - TULAJDONSAGOK</a>
 
+---
 
 Section 1
 ------
