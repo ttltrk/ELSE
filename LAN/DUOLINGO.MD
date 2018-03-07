@@ -7,6 +7,6 @@ Duolingo
 ---
 
 * [ENG](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO_ENG.MD)
-* [GER]()
+* [GER](https://github.com/ttltrk/ELSE/blob/master/LAN/GER/DUO_GER.MD)
 
 ---
