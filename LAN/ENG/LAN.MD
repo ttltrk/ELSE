@@ -39,7 +39,7 @@ Languages
       + Finished the Verbs Travel section AGAIN. 
       + Finished the Verbs Infinitive section AGAIN. 
     
-    - GER (15%, LEV: 1, DIR: 10)
+    - GER (15%, LEV: 1, DIR: 1)
     
       + [Basics](https://www.duolingo.com/skill/de/Basics-1) : 1-3
       + Finished the Verbs Basics section.
