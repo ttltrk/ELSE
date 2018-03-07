@@ -4,7 +4,7 @@ Languages
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-| [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/DUO.MD) |
+| [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/DUOLINGO.MD) |
 
 ---
 
