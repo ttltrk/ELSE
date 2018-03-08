@@ -1,5 +1,5 @@
 
-Basic Git Manual
+Basic Git Manual (BGM)
 ======
 
 [<<<](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD)
