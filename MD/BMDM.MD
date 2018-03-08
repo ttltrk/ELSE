@@ -1,5 +1,5 @@
 
-Basic Markdown Manual
+Basic Markdown Manual (BMM)
 ======
 
 [<<<](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD)
