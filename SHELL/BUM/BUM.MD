@@ -4,7 +4,6 @@
 ---
 
 [<<<](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD)
-[src](https://www.tutorialspoint.com/unix/unix-useful-commands.htm)
 
 ---
 
@@ -36,3 +35,6 @@ Useful Resources
 
 ---
 
+[src](https://www.tutorialspoint.com/unix/unix-useful-commands.htm)
+
+---
