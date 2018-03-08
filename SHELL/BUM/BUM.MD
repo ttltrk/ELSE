@@ -1,5 +1,5 @@
 
-### Basic Unix Manual
+### Unix 
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-Beginners
+Basics
 
 * <a href="#">Home</a>
 * <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/01/BASICS.MD">Getting Started</a>
