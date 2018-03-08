@@ -35,8 +35,8 @@ bold or italic, adding images, and creating lists are just a few of the things w
 ###### This is an <h6> tag
 ```
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# This is an ```<h1>``` tag
+## This is an ```<h2>``` tag
+###### This is an ```<h6>``` tag
 
 ---
