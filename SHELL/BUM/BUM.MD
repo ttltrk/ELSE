@@ -6,19 +6,34 @@ Basic Unix Manual (BUM)
 
 ---
 
-* <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/01/BASICS.MD">01 - Basics</a>
-* <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/02/FILEM.MD">02 - File Management</a>
-* <a href="#">03 -</a>
-* <a href="#">04 -</a>
-* <a href="#">05 -</a>
-* <a href="#">06 -</a>
-* <a href="#">07 -</a>
-* <a href="#">08 -</a>
-* <a href="#">09 -</a>
-* <a href="#">10 -</a>
+Beginners
+
+* <a href="#">Home</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/01/BASICS.MD">Getting Started</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/02/FILEM.MD">File Management</a>
+* <a href="#">Directories</a>
+* <a href="#">File Permission</a>
+* <a href="#">Environment</a>
+* <a href="#">Basic Utilities</a>
+* <a href="#">Pipes & Filters</a>
+* <a href="#">Processes</a>
+* <a href="#">Communication</a>
+* <a href="#">The vi Editor</a>
 
 ---
 
-[tutorialspoint](https://www.tutorialspoint.com/unix/unix-useful-commands.htm)
+Shell Programming
+
+---
+
+Advanced
+
+---
+
+Useful Resources
+
+---
+
+[src](https://www.tutorialspoint.com/unix/unix-useful-commands.htm)
 
 ---
