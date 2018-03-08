@@ -6,4 +6,11 @@ UX File Management
 
 ---
 
+LISTING FILES
+
+```
+ls
+ls -l
+```
+
 ---
