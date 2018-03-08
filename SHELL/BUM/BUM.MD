@@ -9,7 +9,7 @@ Basic Unix Manual (BUM)
 ---
 
 * <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/01/BASICS.MD">01 - Basics</a>
-* <a href="#">02 -</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/02/FILEM.MD">02 - File Management</a>
 * <a href="#">03 -</a>
 * <a href="#">04 -</a>
 * <a href="#">05 -</a>
