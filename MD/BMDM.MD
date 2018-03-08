@@ -1,10 +1,9 @@
 
-Basic Markdown Manual (BMM)
-======
+### Markdown
+
+---
 
 [<<<](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD)
-
-[src_1](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ---
 
@@ -13,7 +12,9 @@ bold or italic, adding images, and creating lists are just a few of the things w
 
 ---
 
-* <a href="#01">Headers</a>
+Basics
+
+* <a href="">Headers</a>
 * <a href="">Emphasis</a>
 * <a href="">Blockquotes</a>
 * <a href="">Lists</a>
@@ -29,16 +30,6 @@ bold or italic, adding images, and creating lists are just a few of the things w
 
 ---
 
-### <h3 id="01">Headers</h3>
-
-```
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-```
-
-# This is an ```<h1>``` tag
-## This is an ```<h2>``` tag
-###### This is an ```<h6>``` tag
+[src](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ---
