@@ -1,5 +1,5 @@
 
-<h2>Basic Unix Manual (BUM)</h2>
+### Basic Unix Manual
 
 ---
 
