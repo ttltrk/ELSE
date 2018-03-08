@@ -16,18 +16,33 @@ languages
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x|  |  |  |  |  |  |  |  | 
+|  | x| x| x| x| x| x| x| x|  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 7|
+|WD| 8|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+  * 08 : (Thu)
+  
+    - ENG (66%, LEV: 14, DIR: 11)
+  
+      + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 2 (AGAIN)
+      + [Verbs Past2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 3
+      + Finished the Verbs Infinitive section AGAIN. 
+    
+    - GER (21%, LEV: 2, DIR: 2)
+    
+      + [The](https://www.duolingo.com/skill/de/The) : 1
+      + [Basics 2](https://www.duolingo.com/skill/de/Basics-2) : 1-2
+      + Finished the The section.
+      + Finished the Basics 2 section.
 
   * 07 : (Wed)
   
