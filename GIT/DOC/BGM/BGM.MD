@@ -4,14 +4,16 @@ Basic Git Manual (BGM)
 
 [<<<](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD)
 
-[src](https://git-scm.com/book/en/v2)
-
 ---
 
 * <a href="">Basic GIT Workflow</a>
 * <a href="">Backtrack</a>
 * <a href="">GIT Branching</a>
 * <a href="">GIT Teamwork</a>
+
+---
+
+[src](https://git-scm.com/book/en/v2)
 
 ---
 
