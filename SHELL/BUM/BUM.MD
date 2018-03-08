@@ -4,8 +4,6 @@ Basic Unix Manual (BUM)
 
 [<<<](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD)
 
-[tutorialspoint](https://www.tutorialspoint.com/unix/unix-useful-commands.htm)
-
 ---
 
 * <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/01/BASICS.MD">01 - Basics</a>
@@ -18,5 +16,9 @@ Basic Unix Manual (BUM)
 * <a href="#">08 -</a>
 * <a href="#">09 -</a>
 * <a href="#">10 -</a>
+
+---
+
+[tutorialspoint](https://www.tutorialspoint.com/unix/unix-useful-commands.htm)
 
 ---
