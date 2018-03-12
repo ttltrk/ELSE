@@ -26,7 +26,7 @@ Basics
 Shell Programming
 
 * <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/SH_01/SHELL.MD">What is Shell</a>
-* <a href="#">Using Variables</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/SH_02/VARIABLES.MD">Using Variables</a>
 * <a href="#">Special Variables</a>
 * <a href="#">Using Arrays</a>
 * <a href="#">Basic Operators</a>
