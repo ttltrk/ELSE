@@ -16,18 +16,65 @@ languages
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x|  |  |  |  |  |  |  | 
+|  | x| x| x| x| x| x| x| x| x|RD|RD| x|  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 8|
-|RD| 0|
+|WD| 9|
+|RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+  * 12 : (Mon)
+  
+    - ENG (66%, LEV: 14, DIR: 1)
+  
+      + [Numbers](https://www.duolingo.com/skill/en/Numbers) : 3 (AGAIN)
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 3 (AGAIN)
+      + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 5-6 (AGAIN)
+      + [Verbs Past2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 4-5
+      + Finished the Numbers section AGAIN.
+      + Finished the Verbs Present 3 AGAIN.
+      + Finished the Verbs Past2.
+    
+    - GER (21%, LEV: 2, DIR: 0)
+    
+      + RD
+
+  * 11 : (Sun)
+  
+    - ENG (66%, LEV: 14, DIR: 0)
+  
+      + RD
+    
+    - GER (21%, LEV: 2, DIR: 0)
+    
+      + RD
+
+  * 10 : (Sat)
+  
+    - ENG (66%, LEV: 14, DIR: 0)
+  
+      + RD
+    
+    - GER (21%, LEV: 2, DIR: 0)
+    
+      + RD
+
+  * 09 : (Fri)
+  
+    - ENG (66%, LEV: 14, DIR: 12)
+  
+      + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 3-4 (AGAIN)
+      + Finished the Verbs Infinitive section AGAIN. 
+    
+    - GER (21%, LEV: 2, DIR: 0)
+    
+      + RD
 
   * 08 : (Thu)
   
