@@ -116,10 +116,6 @@
       
         - [The Complete Oracle SQL Certification Course](https://github.com/ttltrk/Courses/blob/master/Certification/sql_cer.jpg) - 
 	Udemy
-
-      - 2016
-      
-        - BlaBla
   
   * Web
   * Script
