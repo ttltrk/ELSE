@@ -5,8 +5,6 @@
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-| [Duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/DUOLINGO.MD) |
-
 ---
 
 ### <h4 id='NAV'>2018 - <a href='#2018_01'>JAN</a> | <a href='#2018_02'>FEB</a> | <a href='#2018_03'>MRC</a></h4>
@@ -531,3 +529,6 @@
     * 03 : (Wed)  
     
       + [Dates and Time](https://www.duolingo.com/skill/en/Dates-and-Time). Reading daily,   learning some new words.
+      
+---
+
