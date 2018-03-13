@@ -114,9 +114,8 @@
     
       - 2017
       
-        - Udemy
-	  
-	  - [The Complete Oracle SQL Certification Course](https://github.com/ttltrk/Courses/blob/master/Certification/sql_cer.jpg)
+        - [The Complete Oracle SQL Certification Course](https://github.com/ttltrk/Courses/blob/master/Certification/sql_cer.jpg) - 
+	Udemy
   
   * Web
   * Script
