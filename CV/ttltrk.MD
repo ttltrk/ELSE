@@ -126,6 +126,13 @@
 	Udemy
   
   * Web
+  
+    + HTML/CSS
+    
+      - 2017
+      
+        - [Web Design for Wed Developers](https://github.com/ttltrk/Courses/blob/master/Certification/web_dev_cer.jpg) - Udemy
+  
   * Script
 
 ---
