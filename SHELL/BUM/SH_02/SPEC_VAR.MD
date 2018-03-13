@@ -3,12 +3,12 @@
 
 ---
 
-[<<<]()
+[<<<](https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/BUM.MD)
 
 ---
 
 ---
 
-[src]()
+[src](https://www.tutorialspoint.com/unix/unix-special-variables.htm)
 
 ---
