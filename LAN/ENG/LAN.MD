@@ -36,6 +36,8 @@ languages
       + [Clothing](https://www.duolingo.com/skill/en/Clothing) : 1 (AGAIN)
       + [Objects](https://www.duolingo.com/skill/en/Objects) : 5 (AGAIN)
       + [Education](https://www.duolingo.com/skill/en/Education) : 1 (AGAIN)
+      + [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 3-4 (AGAIN)
+      + Finished the Verbs Past section (AGAIN). 
       + Finished the Education section (AGAIN). 
       + Finished the Objects section (AGAIN). 
       + Finished the Clothing section (AGAIN).
