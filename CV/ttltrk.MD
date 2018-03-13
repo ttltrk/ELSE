@@ -3,14 +3,24 @@
 
 ---
 
-#### Contact
+* <a href="#1">Contact</a>
+* <a href="#2">Experience</a>
+* <a href="#3">Education</a>
+* <a href="#4">Skills</a>
+* <a href="#5">Projects/Apps</a>
+* <a href="#6">Certifications</a>
+* <a href="#7">Courses</a>
+
+---
+
+#### <h4 id="1">Contact</h4>
 
   * attila.torok.pos@gmail.com
   * ttltrk.net
 
 ---
 
-#### Experience
+#### <h4 id="2">Experience</h4>
 
   * **FirstData**
   
@@ -41,7 +51,7 @@
     
 ---
     
-#### Education
+#### <h4 id="3">Education</h4>
 
   * **Technical College of Gabor Denes, Budapest** 
   
@@ -51,7 +61,7 @@
 
 ---
 
-#### Skills
+#### <h4 id="4">Skills</h4>
 
   * **Platform** 
   
@@ -101,7 +111,7 @@
 
 ---
 
-#### Projets/Apps
+#### <h4 id="5">Projets/Apps</h4>
 
   * **Web**
   
@@ -114,7 +124,7 @@
 
 ---
 
-#### Certificates
+#### <h4 id="6">Certifications</h4>
 
   * Database
   
@@ -137,7 +147,7 @@
 
 ---
 
-#### Courses
+#### <h4 id="7">Courses</h4>
 
   * [freeCodeCamp](https://www.freecodecamp.org/ttltrk)
   * [Codecademy](https://www.codecademy.com/ttltrk)
