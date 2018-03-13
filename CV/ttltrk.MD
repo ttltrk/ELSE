@@ -43,7 +43,7 @@
     
 #### Education
 
-  * **Technical College of Gabor Denes (Budapest)** 
+  * **Technical College of Gabor Denes, Budapest** 
   
     + (2002 - 2006)
     
