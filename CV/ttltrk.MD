@@ -1,12 +1,16 @@
 
-## Attila Török
+### Attila Török
+
+---
+
+#### Contact
 
   * attila.torok.pos@gmail.com
   * ttltrk.net
 
 ---
 
-#### EXPERIENCE
+#### Experience
 
   * **FirstData**
   
@@ -33,13 +37,13 @@
     
 ---
     
-#### EDU
+#### Edu
 
   * **GDF** - (2002 - 2006)
 
 ---
 
-#### SKILLS
+#### Skills
 
   * platform 
   
@@ -89,14 +93,14 @@
 
 ---
 
-#### projects/apps
+#### Projets/Apps
 
   * web
   * python
 
 ---
 
-#### certificates
+#### Certificates
 
   * db
   * web
@@ -104,7 +108,7 @@
 
 ---
 
-#### COURSES
+#### Courses
 
 ---
 
