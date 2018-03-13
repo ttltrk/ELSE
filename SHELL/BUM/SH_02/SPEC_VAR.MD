@@ -7,6 +7,12 @@
 
 ---
 
+* SPECIAL VARIABLES
+* COMMAND-LINE ARGUMENTS
+* SPECIAL PARAMETERS ```$*``` and ```$@```
+
+---
+
 |Var | Desc|
 |--------------|-----------------|
 |```$0```|The filename of the current script.|
@@ -17,6 +23,48 @@
 |```$?```|The exit status of the last command executed.|
 |```$$```|The process number of the current shell. For shell scripts, this is the process ID under which they are executing.|
 |```$!```|The process number of the last background command.|
+
+---
+
+COMMAND-LINE ARGUMENTS
+
+```
+echo "File Name: $0"
+echo "First Parameter : $1"
+echo "Second Parameter : $2"
+echo "Quoted Values: $@"
+echo "Quoted Values: $*"
+echo "Total Number of Parameters : $#"
+
+>>>
+$./test.sh Zara Ali
+File Name : ./test.sh
+First Parameter : Zara
+Second Parameter : Ali
+Quoted Values: Zara Ali
+Quoted Values: Zara Ali
+Total Number of Parameters : 2
+>>>
+```
+
+---
+
+SPECIAL PARAMETERS ```$*``` and ```$@```
+
+```
+for TOKEN in $*
+do
+   echo $TOKEN
+done
+
+>>>
+Zara
+Ali
+10
+Years
+Old
+>>>
+```
 
 ---
 
