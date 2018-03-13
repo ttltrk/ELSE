@@ -24,7 +24,7 @@
   * attila.torok.pos@gmail.com
   * [ttltrk.net](http://ttltrk.net/)
   
-<a href="#nav">top</a>
+<a href="#nav">[top]</a>
 
 ---
 
@@ -57,7 +57,7 @@
       - SAP archiving (Autonomy, IXOS) service delivery
       - SAP basis admin
 
-<a href="#nav">top</a>
+<a href="#nav">[top]</a>
 
 ---
     
@@ -69,7 +69,7 @@
     
       - IT - faculty of Security softwares and hardwares
 
-<a href="#nav">top</a>
+<a href="#nav">[top]</a>
 
 ---
 
@@ -121,7 +121,7 @@
   
     + Processing
 
-<a href="#nav">top</a>
+<a href="#nav">[top]</a>
 
 ---
 
@@ -136,7 +136,7 @@
     + [Gauss table](https://github.com/ttltrk/PRG/blob/master/PY/APP/GT/README.MD)
     + [Binary to decimal converter](https://github.com/ttltrk/PRG/blob/master/PY/APP/BIN/README.MD)
 
-<a href="#nav">top</a>
+<a href="#nav">[top]</a>
 
 ---
 
@@ -161,7 +161,7 @@
   
   * Script
 
-<a href="#nav">top</a>
+<a href="#nav">[top]</a>
 
 ---
 
@@ -172,7 +172,7 @@
   * [Sololearn](https://www.sololearn.com/Profile/3771981)
   * [Udemy](https://www.udemy.com/home/my-courses/learning/)
 
-<a href="#nav">top</a>
+<a href="#nav">[top]</a>
 
 ---
 
