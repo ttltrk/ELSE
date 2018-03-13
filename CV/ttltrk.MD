@@ -3,7 +3,7 @@
 
 ---
 
-<nav id="nav"> </nav>
+<p id="nav"></p>
 
 * <a href="#1">Contact</a>
 * <a href="#2">Experience</a>
