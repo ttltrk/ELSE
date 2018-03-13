@@ -1,6 +1,7 @@
 
-[Duolingo English](https://www.duolingo.com/)
-======
+### [Duolingo English](https://www.duolingo.com/)
+
+---
 
 [<<<](https://github.com/ttltrk/ELSE/blob/master/LAN/DUOLINGO.MD)
 
