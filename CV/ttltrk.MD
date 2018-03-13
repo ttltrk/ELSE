@@ -3,14 +3,14 @@
 
 ---
 
-### contact
+## CONTACT
 
   * attila.torok.pos@gmail.com
   * ttltrk.net
 
 ---
 
-### experience
+## EXPERIENCE
 
   * **FirstData**
   
