@@ -13,6 +13,8 @@
 
 ---
 
+SPECIAL VARIABLES
+
 |Var | Desc|
 |--------------|-----------------|
 |```$0```|The filename of the current script.|
