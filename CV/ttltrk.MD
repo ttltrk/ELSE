@@ -108,9 +108,14 @@
 
 #### Certificates
 
-  * db
-  * web
-  * script
+  * Database
+  
+    + SQL
+    
+      - 2017: [The Complete Oracle SQL Certification Course](https://github.com/ttltrk/Courses/blob/master/Certification/sql_cer.jpg)
+  
+  * Web
+  * Script
 
 ---
 
