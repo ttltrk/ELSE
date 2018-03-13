@@ -37,7 +37,7 @@
     
 ---
     
-#### Edu
+#### Education
 
   * **GDF** - (2002 - 2006)
 
@@ -45,49 +45,49 @@
 
 #### Skills
 
-  * platform 
+  * **Platform** 
   
     + Unix
   
-  * db
+  * **Database**
   
     + SQL
     + PL/SQL
     + PostgreSQL
   
-  * sap
+  * **SAP**
   
     + SAP BASIS
   
-  * web development
+  * **Web Development**
   
     + HTML5
     + CSS3
     + Bootstrap
     + Markdown
   
-  * script
+  * **Script**
   
     + Python
     + JavaScript
   
-  * computer programming
+  * **Computer Programming**
   
     + C
   
-  * java technology
+  * **Java Technology**
   
     + Java
   
-  * devops
+  * **Devops**
   
     + Git
   
-  * academic
+  * **Academic**
   
     + UML
   
-  * art
+  * **Art**
   
     + Processing
 
@@ -95,11 +95,11 @@
 
 #### Projets/Apps
 
-  * web
+  * **Web**
   
     + [ttltrk.net](ttltrk.net)
   
-  * python
+  * **Python**
   
     + [Gauss table](https://github.com/ttltrk/PRG/blob/master/PY/APP/GT/README.MD)
     + [Binary to decimal converter](https://github.com/ttltrk/PRG/blob/master/PY/APP/BIN/README.MD)
