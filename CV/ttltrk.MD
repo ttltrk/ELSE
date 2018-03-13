@@ -96,7 +96,13 @@
 #### Projets/Apps
 
   * web
+  
+    + [ttltrk.net](ttltrk.net)
+  
   * python
+  
+    + [Gauss table](https://github.com/ttltrk/PRG/blob/master/PY/APP/GT/README.MD)
+    + [Binary to decimal converter](https://github.com/ttltrk/PRG/blob/master/PY/APP/BIN/README.MD)
 
 ---
 
