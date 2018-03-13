@@ -16,19 +16,30 @@ languages
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x|RD|RD| x|  |  |  | 
+|  | x| x| x| x| x| x| x| x| x|RD|RD| x| x|  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 9|
+|WD|11|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
 
+  * 13 : (Tue)
+  
+    - ENG (66%, LEV: 14, DIR: 2)
+    
+      + [Clothing](https://www.duolingo.com/skill/en/Clothing) : 1 (AGAIN)
+      + [Objects](https://www.duolingo.com/skill/en/Objects) : 5 (AGAIN)
+      + [Education](https://www.duolingo.com/skill/en/Education) : 1 (AGAIN)
+      + Finished the Education section (AGAIN). 
+      + Finished the Objects section (AGAIN). 
+      + Finished the Clothing section (AGAIN).
+      
   * 12 : (Mon)
   
     - ENG (66%, LEV: 14, DIR: 1)
