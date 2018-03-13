@@ -1,9 +1,5 @@
 
-### Attila Török
-
----
-
-#### CONTACT
+## Attila Török
 
   * attila.torok.pos@gmail.com
   * ttltrk.net
