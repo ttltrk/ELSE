@@ -43,7 +43,11 @@
     
 #### Education
 
-  * **GDF** - (2002 - 2006)
+  * **Technical College of Gabor Denes (Budapest)** 
+  
+    + (2002 - 2006)
+    
+      - IT - faculty of Security softwares and hardwares
 
 ---
 
