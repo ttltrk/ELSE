@@ -3,14 +3,14 @@
 
 ---
 
-## CONTACT
+#### CONTACT
 
   * attila.torok.pos@gmail.com
   * ttltrk.net
 
 ---
 
-## EXPERIENCE
+#### EXPERIENCE
 
   * **FirstData**
   
@@ -37,13 +37,13 @@
     
 ---
     
-### education
+#### EDU
 
   * **GDF** - (2002 - 2006)
 
 ---
 
-### skills
+#### SKILLS
 
   * platform 
   
@@ -93,18 +93,22 @@
 
 ---
 
-### projects/apps
+#### projects/apps
 
   * web
   * python
 
 ---
 
-### certificates
+#### certificates
 
   * db
   * web
   * script
+
+---
+
+#### COURSES
 
 ---
 
