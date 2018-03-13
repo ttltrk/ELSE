@@ -12,30 +12,30 @@
 
 ### experience
 
-  * first data (2017_AUG - present)
+  * **FirstData** - (2017_AUG - present)
   
     + bw3 support admin
   
-  * dxc (2017_APR - 2017_AUG)
+  * **DXC** - (2017_APR - 2017_AUG)
   
-    + scheduling service delivery
+    + SAP scheduling service delivery
   
-  * hpe (2015_JAN - 2017_APR)
+  * **HPE** - (2015_JAN - 2017_APR)
   
-    + scheduling service delivery
-    + archiving service delivery
+    + SAP scheduling service delivery
+    + SAP archiving service delivery
 	
-  * hp (2006_SEP - 2015_JAN)
+  * **HP** - (2006_SEP - 2015_JAN)
   
-    + scheduling service delivery
-    + archiving service delivery
-    + sap basis admin
+    + SAP scheduling service delivery
+    + SAP archiving service delivery
+    + SAP basis admin
     
 ---
     
 ### education
 
-  * gdf (2002 - 2006)
+  * **GDF** - (2002 - 2006)
 
 ---
 
