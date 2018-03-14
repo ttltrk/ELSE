@@ -6,7 +6,7 @@ Duolingo Deutsch
 
 ---
 
-* <a href="">01 -</a>
+* <a href="01">Basics 1</a>
 * <a href="">02 -</a>
 * <a href="">03 -</a>
 * <a href="">04 -</a>
