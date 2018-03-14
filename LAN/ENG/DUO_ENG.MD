@@ -9,8 +9,6 @@
 
 ---
 
-### Section 1.
-
 * <a href=''>ALAPOK 1</a>
 * <a href=''>ALAPOK 2</a>
 * <a href=''>KIFEJEZESEK</a>
@@ -19,9 +17,6 @@
 * <a href=''>TOBBES SZAM</a>
 * <a href=''>BIRTOKOS</a>
 * <a href=''>NEVMASOK TARGYESETE</a>
-
-### Section 2.
-
 * <a href='#9'>9 - RUHAZAT</a>
 * <a href='#10'>10 - IGEK: JELEN 1</a>
 * <a href='#11'>11 - SZINEK</a>
@@ -30,9 +25,6 @@
 * <a href='#14'>14 - ELOLJAROK</a>
 * <a href='#15'>15 - DATUM + IDO</a>
 * <a href='#16'>16 - CSALAD</a>
-
-### Section 3.
-
 * <a href='#17'>17 - FOGLALKOZASOK</a>
 * <a href='#18'>18 - MELLEKNEV 1</a>
 * <a href='#19'>19 - IGEK: JELEN 2</a>
@@ -45,9 +37,6 @@
 * <a href='#26'>26 - SZAMOK</a>
 * <a href='#27'>27 - IGEK: JELEN 3</a>
 * <a href='#28'>28 - OKTATAS</a>
-
-### Section 4.
-
 * <a href='#29'>29 - MULT IDO 1</a>
 * <a href='#30'>30 - FONEVI IGENEV 1</a>
 * <a href='#31'>31 - MULT IDO 2</a>
@@ -60,9 +49,6 @@
 * <a href='#38'>38 - ELVONT FOGALMAK 2</a>
 * <a href='#39'>39 - VISSZAHATO NEVMASOK</a>
 * <a href='#40'>40 - TERMESZET</a>
-
-### Section 5.
-
 * <a href='#41'>41 - IGENEVEK</a>
 * <a href='#42'>42 - SPORT</a>
 * <a href='#43'>43 - MUVESZET</a>
