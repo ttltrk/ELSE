@@ -13,6 +13,13 @@
 
 ---
 
+CAPITALIZING NOUNS
+
+In German, all nouns are capitalized. For example, "my name" is "mein Name," and "the apple" is "der Apfel." This helps you identify which 
+are the nouns in a sentence.
+
+---
+
 [src](https://www.duolingo.com/skill/de/Basics-1)
 
 ---
