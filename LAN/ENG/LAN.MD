@@ -21,19 +21,34 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x|RD|RD| x| x|  |  | 
+|  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x|  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|11|
+|WD|12|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
 
+  * 14 : (Wed)
+  
+    - ENG (67%, LEV: 15, DIR: 3)
+    
+      + [Abstract Objects](https://www.duolingo.com/skill/en/Abstract-Objects-1) : 1
+      + [Places](https://www.duolingo.com/skill/en/Places) : 4 (AGAIN)
+      + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 7 (AGAIN)
+      + Finished the Places section (AGAIN).
+      + Finished the Verbs Infinitive section (AGAIN).
+      
+    - GER (20%, LEV: 2, DIR: 1)
+    
+      + [Basics](https://www.duolingo.com/skill/de/Basics-1) : 1-3
+      + Finished the Verbs Basics section.
+  
   * 13 : (Tue)
   
     - ENG (66%, LEV: 14, DIR: 2)
