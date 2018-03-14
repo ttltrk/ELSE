@@ -7,9 +7,9 @@
 
 ---
 
-* <a href="">Lesson 1</a>
-* <a href="">Lesson 2</a>
-* <a href="">Lesson 3</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/LAN/GER/01/L1/L1.MD">Lesson 1</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/LAN/GER/01/L2/L2.MD">Lesson 2</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/LAN/GER/01/L3/L3.MD">Lesson 3</a>
 
 ---
 
