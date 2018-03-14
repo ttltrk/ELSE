@@ -1,5 +1,5 @@
 
-### [Duolingo English](https://www.duolingo.com/)
+### Duolingo English
 
 ---
 
@@ -9,14 +9,14 @@
 
 ### Section 1.
 
-* <a href='#1'>1 - ALAPOK 1</a>
-* <a href='#2'>2 - ALAPOK 2</a>
-* <a href='#3'>3 - KIFEJEZESEK</a>
-* <a href='#4'>4 - ETEL - ITAL</a>
-* <a href='#5'>5 - ALLATOK</a>
-* <a href='#6'>6 - TOBBES SZAM</a>
-* <a href='#7'>7 - BIRTOKOS</a>
-* <a href='#8'>8 - NEVMASOK TARGYESETE</a>
+* <a href=''>ALAPOK 1</a>
+* <a href=''>ALAPOK 2</a>
+* <a href=''>KIFEJEZESEK</a>
+* <a href=''>ETEL - ITAL</a>
+* <a href=''>ALLATOK</a>
+* <a href=''>TOBBES SZAM</a>
+* <a href=''>BIRTOKOS</a>
+* <a href=''>NEVMASOK TARGYESETE</a>
 
 ### Section 2.
 
@@ -76,6 +76,10 @@
 * <a href='#53'>53 - ESEMENYEK</a>
 * <a href='#54'>54 - FELTETELES MULT</a>
 * <a href='#55'>55 - TULAJDONSAGOK</a>
+
+---
+
+[src](https://www.duolingo.com/)
 
 ---
 
