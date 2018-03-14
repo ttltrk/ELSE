@@ -9,6 +9,8 @@
 
 ---
 
+[Raspberry Pi Django Tutorial 2017](http://raspberrypituts.com/raspberry-pi-django-tutorial-2017/)
+
 ---
 
 [src]()
