@@ -10,7 +10,7 @@
 ---
 
 * [Unix](https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/BUM.MD)
-* [RPI]()
+* [RPI](https://github.com/ttltrk/ELSE/blob/master/RPI/BMRPI/BMRPI.MD)
 
 ---
 
