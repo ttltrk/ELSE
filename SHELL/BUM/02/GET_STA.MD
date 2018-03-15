@@ -17,23 +17,23 @@
 
 ---
 
-<h4 id="01">first</h4>
+<h4 id="01">What is Unix</h4>
 
 ---
 
-<h4 id="02">Second</h4>
+<h4 id="02">Unix Architecture</h4>
 
 ---
 
-<h4 id="03">Second</h4>
+<h4 id="03">Login</h4>
 
 ---
 
-<h4 id="04">Second</h4>
+<h4 id="04">Password</h4>
 
 ---
 
-<h4 id="05">Second</h4>
+<h4 id="05">System Shutdown</h4>
 
 ---
 
