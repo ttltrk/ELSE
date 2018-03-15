@@ -1,11 +1,11 @@
 
 ---
 
-basic manuals Devops
+### basic manuals DEVOPS
 
 ---
 
-[<<<]()
+[<<<](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD)
 
 ---
 
