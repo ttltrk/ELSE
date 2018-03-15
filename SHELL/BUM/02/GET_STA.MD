@@ -41,14 +41,10 @@ Hardware --> Kernel --> Shell --> Application Programs
 
 <h3 id="03">Login and Logout</h4>
 
-Login
-
 ```
 login:
 pwd:
 ```
-
-Logout
 
 ```
 logout
