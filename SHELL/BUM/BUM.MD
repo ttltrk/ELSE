@@ -12,7 +12,7 @@
 Basics
 
 * <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/01/Home.MD">Home</a>
-* <a href="#">Getting Started</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/02/GET_STA.MD">Getting Started</a>
 * <a href="#">File Management</a>
 * <a href="#">Directories</a>
 * <a href="#">File Permission</a>
