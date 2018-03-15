@@ -9,6 +9,6 @@
 
 ---
 
-* <a href="">Codecademy - Learn the Command Line</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/SHELL/CMOS/01/01/01.MD">Codecademy - Learn the Command Line</a>
 
 ---
