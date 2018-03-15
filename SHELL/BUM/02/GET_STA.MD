@@ -19,9 +19,23 @@
 
 <h3 id="01">What is Unix</h4>
 
+The Unix operating system is a set of programs that act as a 
+link between the computer and the user.
+
+The computer programs that allocate the system resources and coordinate all the details 
+of the computer's internals is called the operating system or the kernel.
+
+Users communicate with the kernel through a program known as the shell. 
+The shell is a command line interpreter; it translates commands entered by the user and converts 
+them into a language that is understood by the kernel.
+
 ---
 
 <h3 id="02">Unix Architecture</h4>
+
+```
+Hardware --> Kernel --> Shell --> Application Programs
+```
 
 ---
 
