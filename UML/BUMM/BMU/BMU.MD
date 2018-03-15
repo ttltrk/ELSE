@@ -1,11 +1,11 @@
 
 ---
 
-basic manuals Academic
+### basic manuals Academic
 
 ---
 
-[<<<]()
+[<<<](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD)
 
 ---
 
