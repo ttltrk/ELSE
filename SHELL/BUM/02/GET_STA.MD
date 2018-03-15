@@ -11,7 +11,7 @@
 
 * <a href="#01">What is Unix</a>
 * <a href="#02">Unix Architecture</a>
-* <a href="#03">Login</a>
+* <a href="#03">Login and Logout</a>
 * <a href="#04">Password</a>
 * <a href="#05">System Shutdown</a>
 
@@ -25,7 +25,7 @@
 
 ---
 
-<h4 id="03">Login</h4>
+<h4 id="03">Login and Logout</h4>
 
 ---
 
