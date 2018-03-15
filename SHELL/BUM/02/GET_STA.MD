@@ -44,6 +44,10 @@ logout
 
 <h4 id="04">Password</h4>
 
+```
+passwd
+```
+
 ---
 
 <h4 id="05">System Shutdown</h4>
