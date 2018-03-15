@@ -27,6 +27,19 @@
 
 <h4 id="03">Login and Logout</h4>
 
+Login
+
+```
+login:
+pwd:
+```
+
+Logout
+
+```
+logout
+```
+
 ---
 
 <h4 id="04">Password</h4>
