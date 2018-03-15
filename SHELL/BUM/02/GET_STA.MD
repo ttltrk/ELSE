@@ -35,6 +35,15 @@
 
 <h4 id="05">System Shutdown</h4>
 
+|Command|Description|
+|-------|-----------|
+|halt|Brings the system down immediately|
+|init 0|Powers off the system using predefined scripts to synchronize and clean up the system prior to shutting down|
+|init 6|Reboots the system by shutting it down completely and then restarting it|
+|poweroff|Shuts down the system by powering off|
+|reboot|Reboots the system|
+|shutdown|Shuts down the system|
+
 ---
 
 [src](https://www.tutorialspoint.com/unix/unix-getting-started.htm)
