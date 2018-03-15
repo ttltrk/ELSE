@@ -17,15 +17,15 @@
 
 ---
 
-<h4 id="01">What is Unix</h4>
+<h3 id="01">What is Unix</h4>
 
 ---
 
-<h4 id="02">Unix Architecture</h4>
+<h3 id="02">Unix Architecture</h4>
 
 ---
 
-<h4 id="03">Login and Logout</h4>
+<h3 id="03">Login and Logout</h4>
 
 Login
 
@@ -42,7 +42,7 @@ logout
 
 ---
 
-<h4 id="04">Password</h4>
+<h3 id="04">Password</h4>
 
 ```
 passwd
@@ -50,7 +50,7 @@ passwd
 
 ---
 
-<h4 id="05">System Shutdown</h4>
+<h3 id="05">System Shutdown</h4>
 
 |Command|Description|
 |-------|-----------|
