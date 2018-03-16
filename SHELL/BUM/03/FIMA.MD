@@ -9,18 +9,18 @@
 
 ---
 
-* <a href="01">File Types</a>
-* <a href="02">Listing Files</a>
-* <a href="03">Metacharacters</a>
-* <a href="04">Hidden Files</a>
-* <a href="05">Creating Files</a>
-* <a href="06">Editing Files</a>
-* <a href="07">Display Content of a File</a>
-* <a href="08">Counting Words in a File</a>
-* <a href="09">Copying Files</a>
-* <a href="10">Renaming Files</a>
-* <a href="11">Deleting Files</a>
-* <a href="12">Standard Unix Streams</a>
+* <a href="#01">File Types</a>
+* <a href="#02">Listing Files</a>
+* <a href="#03">Metacharacters</a>
+* <a href="#04">Hidden Files</a>
+* <a href="#05">Creating Files</a>
+* <a href="#06">Editing Files</a>
+* <a href="#07">Display Content of a File</a>
+* <a href="#08">Counting Words in a File</a>
+* <a href="#09">Copying Files</a>
+* <a href="#10">Renaming Files</a>
+* <a href="#11">Deleting Files</a>
+* <a href="#12">Standard Unix Streams</a>
 
 ---
 
