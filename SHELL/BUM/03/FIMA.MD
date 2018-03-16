@@ -26,6 +26,12 @@
 
 <h3 id="">File Types</h3>
 
+|File Type|Description|
+|------|------|
+|Ordinary Files|An ordinary file is a file on the system that contains data, text, or program instructions. In this tutorial, you look at working with ordinary files.|
+|Directories| Directories store both special and ordinary files. For users familiar with Windows or Mac OS, Unix directories are equivalent to folders.|
+|Special Files|Some special files provide access to hardware such as hard drives, CD-ROM drives, modems, and Ethernet adapters. Other special files are similar to aliases or shortcuts and enable you to access a single file using different names.|
+
 ---
 
 <h3 id="">Listing Files</h3>
