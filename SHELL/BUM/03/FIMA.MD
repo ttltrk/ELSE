@@ -9,22 +9,22 @@
 
 ---
 
-* <a href="">File Types</a>
-* <a href="">Listing Files</a>
-* <a href="">Metacharacters</a>
-* <a href="">Hidden Files</a>
-* <a href="">Creating Files</a>
-* <a href="">Editing Files</a>
-* <a href="">Display Content of a File</a>
-* <a href="">Counting Words in a File</a>
-* <a href="">Copying Files</a>
-* <a href="">Renaming Files</a>
-* <a href="">Deleting Files</a>
-* <a href="">Standard Unix Streams</a>
+* <a href="01">File Types</a>
+* <a href="02">Listing Files</a>
+* <a href="03">Metacharacters</a>
+* <a href="04">Hidden Files</a>
+* <a href="05">Creating Files</a>
+* <a href="06">Editing Files</a>
+* <a href="07">Display Content of a File</a>
+* <a href="08">Counting Words in a File</a>
+* <a href="09">Copying Files</a>
+* <a href="10">Renaming Files</a>
+* <a href="11">Deleting Files</a>
+* <a href="12">Standard Unix Streams</a>
 
 ---
 
-<h3 id="">File Types</h3>
+<h3 id="01">File Types</h3>
 
 |File Type|Description|
 |------|------|
@@ -34,7 +34,7 @@
 
 ---
 
-<h3 id="">Listing Files</h3>
+<h3 id="02">Listing Files</h3>
 
 To list the files and directories stored in the current directory
 
@@ -44,7 +44,7 @@ ls
 
 ---
 
-<h3 id="">Metacharacters</h3>
+<h3 id="03">Metacharacters</h3>
 
 ```
 ls *.doc
@@ -52,7 +52,7 @@ ls *.doc
 
 ---
 
-<h3 id="">Hidden Files</h3>
+<h3 id="04">Hidden Files</h3>
 
 Some common examples of the hidden files include the files
 
@@ -68,7 +68,7 @@ Some common examples of the hidden files include the files
 
 ---
 
-<h3 id="">Creating Files</h3>
+<h3 id="05">Creating Files</h3>
 
 ```
 vi <filename>
@@ -77,7 +77,7 @@ blabla
 
 ---
 
-<h3 id="">Editing Files</h3>
+<h3 id="06">Editing Files</h3>
 
 ```
 vi <filename>
@@ -85,7 +85,7 @@ vi <filename>
 
 ---
 
-<h3 id="">Display Content of a File</h3>
+<h3 id="07">Display Content of a File</h3>
 
 ```
 cat <filename>
@@ -99,7 +99,7 @@ cat -b <filename>
 
 ---
 
-<h3 id="">Counting Words in a File</h3>
+<h3 id="08">Counting Words in a File</h3>
 
 ```
 wc <filename>
@@ -111,7 +111,7 @@ wc <filename1> <filename2> <filename3>
 
 ---
 
-<h3 id="">Copying Files</h3>
+<h3 id="09">Copying Files</h3>
 
 ```
 cp <source_file> <destination_file>
@@ -119,7 +119,7 @@ cp <source_file> <destination_file>
 
 ---
 
-<h3 id="">Renaming Files</h3>
+<h3 id="10">Renaming Files</h3>
 
 ```
 mv old_file new_file
@@ -131,7 +131,7 @@ mv filename newfile
 
 ---
 
-<h3 id="">Deleting Files</h3>
+<h3 id="11">Deleting Files</h3>
 
 ```
 rm <filename>
@@ -143,7 +143,7 @@ rm <filename1> <filename2> <filename3>
 
 ---
 
-<h3 id="">Standard Unix Streams</h3>
+<h3 id="12">Standard Unix Streams</h3>
 
 |Stream|Description|
 |---|---|
