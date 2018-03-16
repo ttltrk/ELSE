@@ -36,6 +36,12 @@
 
 <h3 id="">Listing Files</h3>
 
+To list the files and directories stored in the current directory
+
+```
+ls
+```
+
 ---
 
 <h3 id="">Metacharacters</h3>
