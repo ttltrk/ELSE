@@ -74,6 +74,7 @@ Some common examples of the hidden files include the files
 vi <filename>
 
 blabla
+```
 
 ---
 
