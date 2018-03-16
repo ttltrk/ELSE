@@ -46,41 +46,110 @@ ls
 
 <h3 id="">Metacharacters</h3>
 
+```
+ls *.doc
+```
+
 ---
 
 <h3 id="">Hidden Files</h3>
+
+Some common examples of the hidden files include the files
+
+```
+.profile − The Bourne shell ( sh) initialization script
+
+.kshrc − The Korn shell ( ksh) initialization script
+
+.cshrc − The C shell ( csh) initialization script
+
+.rhosts − The remote shell configuration file
+```
 
 ---
 
 <h3 id="">Creating Files</h3>
 
+```
+vi <filename>
+
+blabla
+
 ---
 
 <h3 id="">Editing Files</h3>
+
+```
+vi <filename>
+```
 
 ---
 
 <h3 id="">Display Content of a File</h3>
 
+```
+cat <filename>
+```
+
+You can display the line numbers by using the ```-b``` option along with the ```cat``` command
+
+```
+cat -b <filename>
+```
+
 ---
 
 <h3 id="">Counting Words in a File</h3>
+
+```
+wc <filename>
+```
+
+```
+wc <filename1> <filename2> <filename3>
+```
 
 ---
 
 <h3 id="">Copying Files</h3>
 
+```
+cp <source_file> <destination_file>
+```
+
 ---
 
 <h3 id="">Renaming Files</h3>
+
+```
+mv old_file new_file
+```
+
+```
+mv filename newfile
+```
 
 ---
 
 <h3 id="">Deleting Files</h3>
 
+```
+rm <filename>
+```
+
+```
+rm <filename1> <filename2> <filename3>
+```
+
 ---
 
 <h3 id="">Standard Unix Streams</h3>
+
+|Stream|Description|
+|---|---|
+|stdin|This is referred to as the standard input and the associated file descriptor is 0. This is also represented as STDIN. The Unix program will read the default input from STDIN.|
+|stdout|This is referred to as the standard output and the associated file descriptor is 1. This is also represented as STDOUT. The Unix program will write the default output at STDOUT|
+|stderr|This is referred to as the standard error and the associated file descriptor is 2. This is also represented as STDERR. The Unix program will write all the error messages at STDERR.|
 
 ---
 
