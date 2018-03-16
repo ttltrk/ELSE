@@ -23,16 +23,24 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| x|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|13|
+|WD|14|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+  * 16 : (Wed)
+  
+    - ENG (67%, LEV: 15, DIR: 5)
+    
+      + [Abstract Objects](https://www.duolingo.com/skill/en/Abstract-Objects-1) : 4
+      + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 9 (AGAIN)
+      + Finished the Verbs Infinitive section (AGAIN).
 
   * 15 : (Wed)
   
