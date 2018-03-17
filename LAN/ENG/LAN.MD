@@ -23,18 +23,29 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| x| x|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|14|
+|WD|15|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
 
-  * 16 : (Wed)
+  * 17 : (Sat)
+  
+    - ENG (67%, LEV 15, DIR: 6)
+    
+      + [Verbs Present 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2) : 1 (AGAIN)
+      + [Education](https://www.duolingo.com/skill/en/Education) : 2 (AGAIN)
+      + [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 5 (AGAIN)
+      + Finished the Verbs Present 2 section (AGAIN).
+      + Finished the Education section (AGAIN).
+      + Finished the Verbs Past section (AGAIN).
+
+  * 16 : (Fri)
   
     - ENG (67%, LEV: 15, DIR: 5)
     
@@ -42,7 +53,7 @@
       + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 9 (AGAIN)
       + Finished the Verbs Infinitive section (AGAIN).
 
-  * 15 : (Wed)
+  * 15 : (Thu)
   
     - ENG (67%, LEV: 15, DIR: 4)
     
