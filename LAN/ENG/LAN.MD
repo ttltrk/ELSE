@@ -23,7 +23,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| x| x| x|  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
@@ -33,6 +33,14 @@
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+  * 18 : (Sun)
+  
+    - ENG (67%, LEV 15, DIR: 7)
+    
+      + [People](https://www.duolingo.com/skill/en/People) : 2 (AGAIN)
+      + [Verbs Pat 2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 2 (AGAIN)
+      + Finished the People section (AGAIN).
 
   * 17 : (Sat)
   
