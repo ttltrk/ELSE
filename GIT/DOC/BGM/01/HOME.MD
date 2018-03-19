@@ -5,7 +5,7 @@
 
 ---
 
-[<<<]()
+[<<<](https://github.com/ttltrk/ELSE/blob/master/GIT/DOC/BGM/BGM.MD)
 
 ---
 
