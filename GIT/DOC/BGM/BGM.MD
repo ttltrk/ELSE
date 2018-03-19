@@ -11,7 +11,7 @@
 
 Basics
 
-* <a href="">Home</a>
+* <a href="https://github.com/ttltrk/ELSE/blob/master/GIT/DOC/BGM/01/HOME.MD">Home</a>
 * <a href="">Basic Concepts</a>
 * <a href="">Life Cycle</a>
 * <a href="">Create Operation</a>
