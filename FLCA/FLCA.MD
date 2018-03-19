@@ -9,7 +9,7 @@
 
 ---
 
-* <a href="">Java Tech</a>
+* <a href="https://github.com/ttltrk/PRG/blob/master/JAVA/DOC/FCJ/FCJ.MD">Java Tech</a>
 * <a href="">Computer Programming</a>
 * <a href="https://github.com/ttltrk/PRG/blob/master/FCS/FCS.MD">Scripts</a>
 * <a href="">Database</a>
