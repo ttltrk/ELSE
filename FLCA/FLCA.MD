@@ -1,7 +1,7 @@
 
 ---
 
-### [manuals](https://github.com/ttltrk/PRG/blob/master/MAN.MD) - flashcards
+### [.co.](https://github.com/ttltrk/PRG/blob/master/CODING.MD) - [manuals](https://github.com/ttltrk/PRG/blob/master/MAN.MD) - flashcards
 
 ---
 
