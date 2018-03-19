@@ -23,16 +23,29 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| x| x| x| x|  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|15|
+|WD|17|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+  * 19 : (Mon)
+  
+    - ENG (67%, LEV15, DIR: 8)
+    
+      + [Abstract Objects](https://www.duolingo.com/skill/en/Abstract-Objects-1) : 5
+    
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 4 (AGAIN)
+      + [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 6 (AGAIN)
+      + [Verbs Pat 2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 3 (AGAIN)
+      + Finished the Verbs Present 3 section (AGAIN).
+      + Finished the Verbs Past section (AGAIN).
+      + Finished the Verbs Past 2 section (AGAIN).
 
   * 18 : (Sun)
   
