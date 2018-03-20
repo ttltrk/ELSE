@@ -1,15 +1,11 @@
 
 ---
 
-### .wo.
+### [改善](https://github.com/ttltrk/0C/blob/master/README.MD) - .wo.
 
 ---
 
-[<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
-
----
-
-| [STATS](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) |
+| [stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD) |
 
 ---
 
