@@ -1,15 +1,11 @@
 
 ---
 
-### [改善](https://en.wikipedia.org/wiki/Kaizen) - .la.
+### [改善](https://github.com/ttltrk/0C/blob/master/README.MD) - .la.
 
 ---
 
-[<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
-
----
-
-| [DUOLINGO](https://github.com/ttltrk/ELSE/blob/master/LAN/DUOLINGO.MD) |
+| [duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/DUOLINGO.MD) |
 
 ---
 
