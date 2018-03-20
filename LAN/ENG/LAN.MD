@@ -1,7 +1,7 @@
 
 ---
 
-### .la.
+### [改善](https://en.wikipedia.org/wiki/Kaizen) - .la.
 
 ---
 
