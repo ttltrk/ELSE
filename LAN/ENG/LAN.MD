@@ -23,20 +23,33 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x|  |  |  |  |  |  |  |  |  |  |  |  |
+| x| x| x| x| x|  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|17|
+|WD|18|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
 
+  * 20 : (Tue)
+  
+    - ENG (67%, LEV 15, DIR: 9)
+    
+      + [Abstract Objects](https://www.duolingo.com/skill/en/Abstract-Objects-1) : 6
+    
+      + [Occupations](https://www.duolingo.com/skill/en/Occupations) : 1 (AGAIN)
+      + [Travel](https://www.duolingo.com/skill/en/Travel) : 7 (AGAIN)
+      + [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 9 (AGAIN)
+      + Finished the Occupations section (AGAIN).
+      + Finished the Travel section (AGAIN).
+      + Finished the Verbs Infinitive section (AGAIN).
+
   * 19 : (Mon)
   
-    - ENG (67%, LEV15, DIR: 8)
+    - ENG (67%, LEV 15, DIR: 8)
     
       + [Abstract Objects](https://www.duolingo.com/skill/en/Abstract-Objects-1) : 5
     
