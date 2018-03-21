@@ -1,7 +1,11 @@
 
 ---
 
-### [改善](https://github.com/ttltrk/0C/blob/master/README.MD) - .wo.
+###### [改善](https://github.com/ttltrk/0C/blob/master/README.MD)
+
+---
+
+### .wo.
 
 ---
 
@@ -19,16 +23,22 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x|RD| x| x| x|RD| x|RD|RD|RD|RD| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x| x|  |  |  |  |  |  |  |  |  |  |  |
+| x|RD| x| x| x| x|  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|13|
+|WD|14|
 |RD| 7|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+  * 21 : (Wed) - Pull day
+  
+    + DL: 5x140kg
+    + curls
+    + LB
 
   * 20 : (Tue) - Push day
   
