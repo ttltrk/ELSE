@@ -30,9 +30,9 @@
 
 * MRC
 
-  * 20 : (Tue)
+  * 21 : (Wed)
   
-    - ENG (67%, LEV 15, DIR: 9)
+    - ENG (67%, LEV 15, DIR: 10)
     
       + [Abstract Objects](https://www.duolingo.com/skill/en/Abstract-Objects-1) : 7-10
       + Finished the Abstract Objects section.
