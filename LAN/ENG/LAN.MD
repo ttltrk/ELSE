@@ -23,16 +23,25 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x|  |  |  |  |  |  |  |  |  |  |
+| x| x| x| x| x| x| x|  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|19|
+|WD|20|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+ * 22 : (Thu)
+  
+    - ENG (67%, LEV 15, DIR: 11)
+    
+      + [Adjectives inflexion](https://www.duolingo.com/skill/en/Adjectives-inflexion) : 1
+    
+      + [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 5 (AGAIN)
+      + Finished the Verbs Present 3 section AGAIN.
 
   * 21 : (Wed)
   
