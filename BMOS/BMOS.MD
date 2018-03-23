@@ -5,12 +5,12 @@
 
 ---
 
-### OS
+### Operating System
 
 ---
 
 * [Unix](https://github.com/ttltrk/ELSE/blob/master/SHELL/BUM/BUM.MD)
-* [RPI](https://github.com/ttltrk/ELSE/blob/master/RPI/BMRPI/BMRPI.MD)
+* [Raspberry Pi](https://github.com/ttltrk/ELSE/blob/master/RPI/BMRPI/BMRPI.MD)
 
 ---
 
