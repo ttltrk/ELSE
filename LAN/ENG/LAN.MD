@@ -23,7 +23,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x| x|  |  |  |  |  |  |  |  |  |
+| x| x| x| x| x| x| x| x|  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
@@ -33,6 +33,13 @@
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+ * 23 : (Fri)
+ 
+    - ENG (67%, LEV 15, DIR: 12)
+    
+      + [Adverbs](https://www.duolingo.com/skill/en/Adverbs) : 1 - 2 (AGAIN)
+      + Finished the Adverbs section AGAIN.
 
  * 22 : (Thu)
   
