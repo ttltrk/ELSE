@@ -23,16 +23,25 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x| x| x|  |  |  |  |  |  |  |  |
+| x| x| x| x| x| x| x| x| x|  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|20|
+|WD|22|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+ * 24 : (Sat)
+ 
+    - ENG (67%, LEV 15, DIR: 13)
+    
+      + [Adjectives 1](https://www.duolingo.com/skill/en/Adjectives-1) : 1 (AGAIN)
+      + [Verbs Present 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2) : 2 (AGAIN)
+      + Finished the Adjectives 1 section AGAIN.
+      + Finished the Verbs Present 2 section AGAIN.
 
  * 23 : (Fri)
  
