@@ -36,7 +36,7 @@
 
  * 26 : (Mon)
  
-   - ENG (67%, LEV 15, DIR: 14)
+   - ENG (67%, LEV 15, DIR: 15)
       
       + NEW
       
