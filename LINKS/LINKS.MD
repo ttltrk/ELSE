@@ -10,16 +10,8 @@
 ---
 
 * [Kaizen](https://github.com/ttltrk/ELSE/blob/master/LINKS/01/KAIZEN.MD)
-* <a href="#2">Code</a>
+* [Code](https://github.com/ttltrk/ELSE/blob/master/LINKS/02/CODE.MD)
 * <a href="#3">Lifelong Learning</a>
-
----
-
-#### <h4 id="2">Code</h4>
-
-* [Learn Programming - reddit](https://www.reddit.com/r/learnprogramming/wiki/faq)
-* [FCC story - 01](http://themodernblock.com/interviews/quincy-larson-better-information-better-decisions/)
-* [How a single line of code changed my life](https://dev.to/rfunk82/how-a-single-line-of-code-changed-my-life)
 
 ---
 
