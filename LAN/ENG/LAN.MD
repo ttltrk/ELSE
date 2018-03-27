@@ -23,16 +23,31 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x| x| x| x| x| x|  |  |  |  |  |
+| x| x| x| x| x| x| x| x| x| x| x| x|  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|23|
+|WD|25|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+ * 27 : (Tue) 
+ 
+   - ENG (67%, LEV 15, DIR: 16)
+   
+     + NEW
+     
+       - [Adjectives inflexion](https://www.duolingo.com/skill/en/Adjectives-inflexion) : 2
+     
+     + OLD
+     
+       - [Verbs Present 3](https://www.duolingo.com/skill/en/Verbs%3A-Present-3) : 5 ((AGAIN)
+       - [Objects](https://www.duolingo.com/skill/en/Objects) : 6 (AGAIN)
+       - Finished the Verbs Present 3 section AGAIN.
+       - Finished the Objects section AGAIN.
 
  * 26 : (Mon)
  
@@ -45,7 +60,7 @@
       + OLD
       
         - [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 1-2 (AGAIN)
-      
+              
 
  * 25 : (Sun)
  
