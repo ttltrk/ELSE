@@ -23,16 +23,26 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x|RD| x| x| x|RD| x|RD|RD|RD|RD| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x| x| x| x|RD| x|  |  |  |  |  |  |  |
+| x|RD| x| x| x| x| x|RD| x| x| x|  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|16|
+|WD|18|
 |RD| 8|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+  * 26 : (Tue) - Pull day
+  
+    + DL: 1x155kg
+    + puul ups
+    + LB
+
+  * 25 : (Mon) - Push day
+  
+    + BE: 1x 100kg
 
   * 24 : (Sat) - Leg day
   
