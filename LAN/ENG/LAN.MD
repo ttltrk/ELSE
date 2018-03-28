@@ -23,24 +23,37 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x| x| x| x| x| x| x|  |  |  |  |
+| x| x| x| x| x| x| x| x| x| x| x| x| x|  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|25|
+|WD|26|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
 
+ * 28 : (Wed)
+ 
+   - ENG (67%, LEV 15, DIR: 17)
+   
+     + NEW
+     
+       - [Adjectives inflexion](https://www.duolingo.com/skill/en/Adjectives-inflexion) : 3
+     
+     + OLD
+     
+       - [Occupations](https://www.duolingo.com/skill/en/Occupations): 1-2 (AGAIN)
+       - Finished the Occupations section AGAIN.
+       
  * 27 : (Tue) 
  
    - ENG (67%, LEV 15, DIR: 16)
    
      + NEW
      
-       - [Adjectives inflexion](https://www.duolingo.com/skill/en/Adjectives-inflexion) : 2
+       - [Adjectives inflexion](https://www.duolingo.com/skill/en/Adjectives-inflexion) : 3
      
      + OLD
      
