@@ -23,16 +23,31 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x| x| x| x| x| x| x| x|  |  |  |
+| x| x| x| x| x| x| x| x| x| x| x| x| x| x|  |  |
 
 |ST|NU|
 |--|--|
-|WD|26|
+|WD|27|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+ * 29 : (Thu)
+ 
+   - ENG (67%, LEV 15, DIR: 18)
+   
+     + NEW
+     
+       - [Adjectives inflexion](https://www.duolingo.com/skill/en/Adjectives-inflexion) : 4
+     
+     + OLD
+     
+       - [Places](https://www.duolingo.com/skill/en/Places) : 5 (AGAIN)
+       - [Number](https://www.duolingo.com/skill/en/Numbers) : 7 (AGAIN)
+       - Finished the Numbers section AGAIN.
+       - Finished the Places section AGAIN.
 
  * 28 : (Wed)
  
