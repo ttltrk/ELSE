@@ -23,7 +23,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x|RD| x| x| x|RD| x|RD|RD|RD|RD| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x| x| x| x|RD| x| x| x|  |  |  |  |  |
+| x|RD| x| x| x| x| x|RD| x| x| x| x| x| x|  |  |
 
 |ST|NU|
 |--|--|
@@ -34,13 +34,27 @@
 
 * MRC
 
-  * 26 : (Tue) - Pull day
+  * 29 : (Thu)
   
-    + DL: 1x155kg
-    + puul ups
+    + SQ: 2x90kg
     + LB
 
-  * 25 : (Mon) - Push day
+  * 28 : (Wed)
+  
+    + Pull ups
+    + curls
+
+  * 27 : (Tue) 
+  
+    + MI: 5x65kg
+
+  * 26 : (Mon) - Pull day
+  
+    + DL: 1x155kg
+    + pull ups
+    + LB
+
+  * 25 : (Sun) - Push day
   
     + BE: 1x 100kg
 
