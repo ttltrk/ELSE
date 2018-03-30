@@ -23,16 +23,30 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x| x| x| x| x| x| x| x| x|  |  |
+| x| x| x| x| x| x| x| x| x| x| x| x| x| x| x|  |
 
 |ST|NU|
 |--|--|
-|WD|27|
+|WD|28|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+ * 30 : (Fri)
+ 
+   - ENG (68%, LEV 15, DIR: 19)
+   
+     + NEW
+     
+       - [Adjectives inflexion](https://www.duolingo.com/skill/en/Adjectives-inflexion) : 5
+     
+     + OLD
+     
+       - [Verbs Past](https://www.duolingo.com/skill/en/Verbs%3A-Past) : 7 (AGAIN)
+       - [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 1 (AGAIN)
+       - Finished the Verbs Past section AGAIN.
 
  * 29 : (Thu)
  
