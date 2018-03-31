@@ -23,16 +23,29 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD|RD| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x| x| x| x| x| x| x| x| x| x|  |
+| x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| x|
 
 |ST|NU|
 |--|--|
-|WD|28|
+|WD|29|
 |RD| 2|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+ * 31 : (Sat)
+ 
+   - ENG (68%, LEV 15, DIR: 20)
+
+     + NEW
+     
+       - [Adjectives inflexion](https://www.duolingo.com/skill/en/Adjectives-inflexion) : 6
+     
+     + OLD
+     
+       - [Adverbs](https://www.duolingo.com/skill/en/Adverbs) : 3 (AGAIN) 
+       - Finished the Adverbs section AGAIN.
 
  * 30 : (Fri)
  
