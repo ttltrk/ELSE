@@ -23,16 +23,27 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x|RD| x| x| x|RD| x|RD|RD|RD|RD| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x|RD| x| x| x| x| x|RD| x| x| x| x| x| x|  |  |
+| x|RD| x| x| x| x| x|RD| x| x| x| x| x| x| x| x|
 
 |ST|NU|
 |--|--|
-|WD|18|
+|WD|23|
 |RD| 8|
 
 <a href='#NAV'>NAV</a>
 
 * MRC
+
+  * 31 : (Sat)
+  
+    + DL: 3x120kg
+    + pull up
+    + LB
+
+  * 30 : (Fri)
+  
+    + BE: 1x100kg
+    + Neck
 
   * 29 : (Thu)
   
