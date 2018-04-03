@@ -13,8 +13,48 @@
 
 ---
 
-### <h4 id='NAV'>2018 - <a href='#2018_01'>JAN</a> | <a href='#2018_02'>FEB</a> | <a href='#2018_03'>MRC</a></h4>
+### <h4 id='NAV'>2018 - <a href='#2018_01'>JAN</a> | <a href='#2018_02'>FEB</a> | <a href='#2018_03'>MRC</a></h4> | <a href='#2018_04'>APR</a></h4>
 
+---
+
+### <h4 id='2018_04'>2018 - APR</h4>
+
+|F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|  | x| x| x|  |  |  |  |  |  |  |  |  |  |  |  | 
+|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|ST|NU|
+|--|--|
+|WD| 3|
+|RD| 0|
+
+<a href='#NAV'>NAV</a>
+
+* APR
+
+  * 03 : 
+  
+    - ENG (68%, LEV 15, DIR: 23)
+    
+      - [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 4 (AGAIN)
+      - [People](https://www.duolingo.com/skill/en/People) : 3 (AGAIN)
+      - Finished the Verbs Infinitive section AGAIN.
+      - Finished the People section AGAIN.
+  
+  * 02 :
+  
+    - ENG (68%, LEV 15, DIR: 22)
+    
+      - [People](https://www.duolingo.com/skill/en/People) : 1-2 (AGAIN)
+  
+  * 01 : 
+  
+    - ENG (68%, LEV 15, DIR: 21)
+    
+      - [Verbs Infinitive](https://www.duolingo.com/skill/en/Verbs%3A-Infinitive) : 1-3 (AGAIN)
+      
 ---
 
 ### <h4 id='2018_03'>2018 - MRC</h4>
