@@ -21,20 +21,27 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x|  |  |  |  |  |  |  |  |  |  |  |  | 
+|  | x| x| x| x|  |  |  |  |  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 3|
+|WD| 4|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * APR
 
-  * 03 : 
+  * 04 : WED
+  
+    - ENG (68%, LEV 15, DIR: 24)
+    
+      - [Verbs Past 2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 1-2 (AGAIN)
+      - - Finished the Verbs Past 2 section AGAIN.
+
+  * 03 : TUE
   
     - ENG (68%, LEV 15, DIR: 23)
     
@@ -43,7 +50,7 @@
       - Finished the Verbs Infinitive section AGAIN.
       - Finished the People section AGAIN.
   
-  * 02 :
+  * 02 : MON
   
     - ENG (68%, LEV 15, DIR: 22)
     
