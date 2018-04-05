@@ -9,11 +9,7 @@
 
 ---
 
-* [Introduction]()
-
-  * <a href="#1">What this course is about</a>
-  * <a href="#2">Why should you learn creative coding?</a>
-
+* [Introduction](https://github.com/ttltrk/ELSE/blob/master/PRF/01/INTRO.MD)
 * [Setting things Up]()
 
   * <a href="#3">Recent chnages on processing.org</a>
