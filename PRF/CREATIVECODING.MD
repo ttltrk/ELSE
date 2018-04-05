@@ -5,7 +5,7 @@
 
 ---
 
-### Processing basics
+### Processing basics (course document)
 
 ---
 
