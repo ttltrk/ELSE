@@ -1,8 +1,14 @@
 
-[Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
-======
+---
 
-[processing.org](https://processing.org/)
+### Processing basics
+
+---
+
+[src - Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
+[src - processing.org](https://processing.org/)
+
+---
 
 ### Introduction
   * <a href="#1">What this course is about</a>
@@ -400,4 +406,9 @@ void mouseClicked() {
 }
 ```
 
-```
+---
+
+[src - Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
+[src - processing.org](https://processing.org/)
+
+---
