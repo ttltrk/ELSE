@@ -1,12 +1,11 @@
 
 ---
 
-### Processing basics
+###### [改善](https://github.com/ttltrk/0C/blob/master/README.MD) - [.co.](https://github.com/ttltrk/PRG/blob/master/CODING.MD) - [manuals](https://github.com/ttltrk/PRG/blob/master/MAN.MD) - [basic manuals](https://github.com/ttltrk/PRG/blob/master/MANUALS.MD) - [Scripts](https://github.com/ttltrk/PRG/blob/master/PY/DOC/SC/SC.MD) - [Python](https://github.com/ttltrk/PRG/blob/master/PY/DOC/OPYM/OPYM.MD) - [py.processing]()
 
 ---
 
-* [src - Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
-* [src - processing.org](https://processing.org/)
+### Processing basics
 
 ---
 
