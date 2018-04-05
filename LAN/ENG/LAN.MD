@@ -21,27 +21,37 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x|  |  |  |  |  |  |  |  |  |  |  | 
+|  | x| x| x| x| x|  |  |  |  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 4|
+|WD| 5|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * APR
 
-  * 04 : WED
+  * 05 : Thu
+  
+    - ENG (68%, LEV 15, DIR: 25)
+    
+      - [Verbs Present 2](https://www.duolingo.com/skill/en/Verbs%3A-Present-2) : 1 (AGAIN)
+      - [Places](https://www.duolingo.com/skill/en/Places) : 1-2 (AGAIN)
+      - Finished the Verbs Present 2 section AGAIN.
+      - Finished the Places section AGAIN.
+      
+
+  * 04 : Wed
   
     - ENG (68%, LEV 15, DIR: 24)
     
       - [Verbs Past 2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2) : 1-2 (AGAIN)
-      - - Finished the Verbs Past 2 section AGAIN.
+      - Finished the Verbs Past 2 section AGAIN.
 
-  * 03 : TUE
+  * 03 : Tue
   
     - ENG (68%, LEV 15, DIR: 23)
     
@@ -50,7 +60,7 @@
       - Finished the Verbs Infinitive section AGAIN.
       - Finished the People section AGAIN.
   
-  * 02 : MON
+  * 02 : Mon
   
     - ENG (68%, LEV 15, DIR: 22)
     
