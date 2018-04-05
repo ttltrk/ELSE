@@ -39,15 +39,6 @@
 
 ---
 
-### Section
-
-Introduction
-------
-
-### <h3 id="1">What this course is about</h3>
-
-### <h3 id="2">Why should you learn creative coding?</h3>
-
 Setting things Up
 ------
 
