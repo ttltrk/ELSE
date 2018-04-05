@@ -5,8 +5,8 @@
 
 ---
 
-[src - Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
-[src - processing.org](https://processing.org/)
+* [src - Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
+* [src - processing.org](https://processing.org/)
 
 ---
 
@@ -408,7 +408,7 @@ void mouseClicked() {
 
 ---
 
-[src - Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
-[src - processing.org](https://processing.org/)
+* [src - Coding for beginners: learn coding by creating art](https://www.udemy.com/creativecoding/learn/v4/content)
+* [src - processing.org](https://processing.org/)
 
 ---
