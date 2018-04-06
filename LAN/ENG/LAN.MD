@@ -9,10 +9,6 @@
 
 ---
 
-| [duolingo](https://github.com/ttltrk/ELSE/blob/master/LAN/DUOLINGO.MD) |
-
----
-
 ### <h4 id='NAV'>2018 - <a href='#2018_01'>JAN</a> | <a href='#2018_02'>FEB</a> | <a href='#2018_03'>MRC</a> | <a href='#2018_04'>APR</a></h4>
 
 ---
@@ -21,18 +17,24 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x|  |  |  |  |  |  |  |  |  |  | 
+|  | x| x| x| x| x| x|  |  |  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 5|
+|WD| 6|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * APR
+
+  * 06 : Fri
+  
+    - ENG (68%, LEV 15, DIR: 26)
+    
+      - [Abstract Objects](https://www.duolingo.com/skill/en/Abstract-Objects-1) : 1-4 (AGAIN)
 
   * 05 : Thu
   
