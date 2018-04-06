@@ -11,7 +11,7 @@
 
 * [Introduction](https://github.com/ttltrk/ELSE/blob/master/PRF/01/INTRO.MD)
 * [Setting things Up](https://github.com/ttltrk/ELSE/blob/master/PRF/02/SETTINGS.MD)
-* [Starting to draw basic shapes]()
+* [Starting to draw basic shapes](https://github.com/ttltrk/ELSE/blob/master/PRF/03/BASICSHAPES.MD)
 * [It's Alive! Getting things moving]()
 
   * <a href="#10">Improve the setup and act random</a>
