@@ -11,6 +11,16 @@
 
 ---
 
+### <h3 id="7">Prepare your drawing board</h3>
+
+Create bigger drawing board
+
+```
+size(500,500);
+```
+
+in the ```reference``` topic you can find more details about the commands
+
 ### <h3 id="8">Use the different basic shapes</h3>
 
 Created one small point
