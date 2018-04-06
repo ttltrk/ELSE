@@ -11,6 +11,6 @@
 
 * [Prepare your drawing board](https://github.com/ttltrk/ELSE/blob/master/PRF/03/01/PREP.MD)
 * [Use the different basic shapes](https://github.com/ttltrk/ELSE/blob/master/PRF/03/02/DIFFSHA.MD)
-* [One additional shape and greyscales]()
+* [One additional shape and greyscales](https://github.com/ttltrk/ELSE/blob/master/PRF/03/03/ADDSHA.MD)
 
 ---
