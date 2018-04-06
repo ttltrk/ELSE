@@ -9,7 +9,7 @@
 
 ---
 
-* [Prepare your drawing board]()
+* [Prepare your drawing board](https://github.com/ttltrk/ELSE/blob/master/PRF/03/01/PREP.MD)
 * [Use the different basic shapes]()
 * [One additional shape and greyscales]()
 
