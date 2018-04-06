@@ -18,13 +18,6 @@
 
 ---
 
-Triangle
-
-```
-size(800,600);
-triangle(50,50,  700,200,  300,500);
-```
-
 Another traingle
 
 ```
