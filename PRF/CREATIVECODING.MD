@@ -10,14 +10,7 @@
 ---
 
 * [Introduction](https://github.com/ttltrk/ELSE/blob/master/PRF/01/INTRO.MD)
-* [Setting things Up]()
-
-  * <a href="#3">Recent chnages on processing.org</a>
-  * <a href="#4">Download and Insstall on Mac</a>
-  * <a href="#5">Download and Insstall on Win</a>
-  * <a href="#6">Discover the processing user interface</a>
-
-
+* [Setting things Up](https://github.com/ttltrk/ELSE/blob/master/PRF/02/SETTINGS.MD)
 * [Starting to draw basic shapes]()
 
   * <a href="#7">Prepare your drawing board</a>
