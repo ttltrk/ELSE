@@ -9,7 +9,7 @@
 
 ---
 
-* [Triangle]()
+* [Triangle](https://github.com/ttltrk/ELSE/blob/master/PRF/03/03/01/TRI.MD)
 * [Another traingle]()
 * [stroke() //grey border was set]()
 * [the triangle border was changed]()
