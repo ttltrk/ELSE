@@ -10,7 +10,7 @@
 ---
 
 * [Prepare your drawing board](https://github.com/ttltrk/ELSE/blob/master/PRF/03/01/PREP.MD)
-* [Use the different basic shapes]()
+* [Use the different basic shapes](https://github.com/ttltrk/ELSE/blob/master/PRF/03/02/DIFFSHA.MD)
 * [One additional shape and greyscales]()
 
 ---
