@@ -12,7 +12,7 @@
 * [Introduction](https://github.com/ttltrk/ELSE/blob/master/PRF/01/INTRO.MD)
 * [Setting things Up](https://github.com/ttltrk/ELSE/blob/master/PRF/02/SETTINGS.MD)
 * [Starting to draw basic shapes](https://github.com/ttltrk/ELSE/blob/master/PRF/03/BASICSHAPES.MD)
-* [It's Alive! Getting things moving]()
+* [It's Alive! Getting things moving](https://github.com/ttltrk/ELSE/blob/master/PRF/04/ALIVE.MD)
 * [Interactive]()
 
   * <a href="#20">Write your own little drawing program</a>
