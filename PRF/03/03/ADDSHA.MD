@@ -18,14 +18,6 @@
 
 ---
 
-Another traingle
-
-```
-size(800,600);
-triangle(50,50,  700,200,  300,500);
-triangle(-100,400,  500,200,  600,1000);
-```
-
 stroke() //grey border was set
 
 ```
