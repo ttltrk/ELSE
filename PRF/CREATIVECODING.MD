@@ -32,17 +32,6 @@
 
 ---
 
-Setting things Up
-------
-
-### <h3 id="3">Recent chnages on processing.org</h3>
-
-### <h3 id="4">Download and Insstall on Mac</h3>
-
-### <h3 id="5">Download and Insstall on Win</h3>
-
-### <h3 id="6">Discover the processing user interface</h3>
-
 Starting to draw basic shapes
 ------
 
