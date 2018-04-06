@@ -9,6 +9,15 @@
 
 ---
 
+* [Triangle]()
+* [Another traingle]()
+* [stroke() //grey border was set]()
+* [the triangle border was changed]()
+* [the first border was removed]()
+* [fill()]()
+
+---
+
 Triangle
 
 ```
