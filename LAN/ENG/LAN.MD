@@ -17,36 +17,42 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x|  |  |  |  |  |  | 
+|  | x| x| x| x| x| x| x| x| x| x|  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 9|
+|WD|10|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * APR
 
-  * 08 : Sun
+  * 10 : Tue
   
-    - ENG (100, LEV 15, DIR: 29)
+    - ENG (101, LEV 15, DIR: 30)
     
-      - [Alapok]() 7-9
+      - [Verbs Past 2](https://www.duolingo.com/skill/en/Verbs%3A-Past-2/5) : 1-4
+      
+  * 09 : Mon
+  
+    - ENG (101, LEV 15, DIR: 29)
+    
+      - [Alapok]() : 7-9
 
   * 08 : Sun
   
     - ENG (100, LEV 15, DIR: 28)
     
-      - [Alapok]() 4-6 
+      - [Alapok]() : 4-6 
 
   * 07 : Sat
   
     - ENG (100, LEV 15, DIR: 27)
     
-      - [Alapok]() 1-3
+      - [Alapok]() : 1-3
 
   * 06 : Fri
   
