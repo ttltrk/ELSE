@@ -1,13 +1,11 @@
 
 ---
 
-###### [改善](https://github.com/ttltrk/0C/blob/master/README.MD) 
+###### [改善](https://github.com/ttltrk/0C/blob/master/README.MD) - [C](https://github.com/ttltrk/PRG/blob/master/CODING.MD)
 
 ---
 
 ### Attila Török
-
----
 
 ---
 
