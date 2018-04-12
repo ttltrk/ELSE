@@ -11,7 +11,7 @@
 
 * [2018]()
 * [2017]()
-* [2016](https://github.com/ttltrk/ELSE/edit/master/PWR/PWR_STS.MD#ST2016)
+* [2016]()
 
 ---
 
