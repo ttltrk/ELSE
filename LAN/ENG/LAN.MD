@@ -9,12 +9,6 @@
 
 ---
 
-| [progress]()
-| [manuals]() 
-|
-
----
-
 ### <h4 id='NAV'>2018 - <a href='#2018_01'>JAN</a> | <a href='#2018_02'>FEB</a> | <a href='#2018_03'>MRC</a> | <a href='#2018_04'>APR</a></h4>
 
 ---
