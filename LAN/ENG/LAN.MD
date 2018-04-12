@@ -9,8 +9,9 @@
 
 ---
 
-|[progress]()|
-|[manuals]()|
+| [progress]()
+| [manuals]() 
+|
 
 ---
 
