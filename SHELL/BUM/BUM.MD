@@ -16,6 +16,8 @@
 * [Shell Programming]()
 * [Advanced]()
 * [Useful Resources]()
+* [Links]()
+* [Courses]()
 
 ---
 
@@ -61,6 +63,15 @@ Useful Resources
 
 ---
 
+Links
+
 [src](https://www.tutorialspoint.com/unix/unix-useful-commands.htm)
+
+---
+
+Course
+
+* [Codecademy]()
+* [udemy]()
 
 ---
