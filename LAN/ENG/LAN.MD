@@ -34,7 +34,7 @@
  
    - ENG (102, LEV 15, DIR: 34)
     
-      - [Elvont f.]() 5-6
+      - [Elvont f.]() 6-7
 
  * 13 : Fri
  
