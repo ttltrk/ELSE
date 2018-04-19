@@ -34,6 +34,7 @@
  
    - ENG (104, LEV 15, DIR: 39)
    
+     - [Bef. jelen]() 1
      - [Mn alakok]() 6-7
 
  * 18 : Wed
