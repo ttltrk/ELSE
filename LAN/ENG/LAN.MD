@@ -30,13 +30,13 @@
 
 * APR
 
-  * 21 : Sat
+ * 21 : Sat
  
    - ENG (104, LEV 15, DIR: 41)
    
      - [Bef. jelen]() 4-5
 
-  * 20 : Fri
+ * 20 : Fri
  
    - ENG (104, LEV 15, DIR: 40)
    
