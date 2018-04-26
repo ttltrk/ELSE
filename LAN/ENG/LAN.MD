@@ -32,7 +32,7 @@
 
 * 26 : Thu
 
-  - ENG (105, LEV 15, 46)
+  - ENG (105, LEV 15, DIR: 46)
   
     - [Fn. igenev]() 6-7
 
