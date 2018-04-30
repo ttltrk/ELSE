@@ -9,8 +9,9 @@
 
 ---
 
-[div stats](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/DIVS.MD)
-
+[[FX]]()
+[[DIV]](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/DIVS.MD)
+[[OPT]]()
 ---
 
 | [getrichslowly.org](http://www.getrichslowly.org/) |
