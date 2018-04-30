@@ -18,23 +18,30 @@
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| 
-|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
-| x| x| x| x| x| x| x| x| x| x| x| x| x| x|  |  |
+|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|
+| x| x| x| x| x| x| x| x| x| x| x| x| x| x| x|  
 
 |ST|NU|
 |--|--|
-|WD|29|
+|WD|30|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * APR
 
-* 29 : SUn
+* 30 : Mon
+
+  - ENG (108, LEV 15, DIR: 50)
+  
+    - [Elvont f 2](https://www.duolingo.com/) 1
+    - [Bef mult](https://www.duolingo.com/) 4
+
+* 29 : Sun
 
   - ENG (107, LEV 15, DIR: 49)
   
-    - [Bef mult]() 2-3
+    - [Bef mult](https://www.duolingo.com/) 2-3
 
 * 28 : Sat
 
