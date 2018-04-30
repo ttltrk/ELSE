@@ -9,8 +9,8 @@
 
 ---
 
-[[DIV]](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/DIVS.MD)
-[[OPT]]()
+[[DIV]](http://osztalekportfolio.com)
+[[OPT]](http://www.opcioguru.com/)
 
 ---
 
