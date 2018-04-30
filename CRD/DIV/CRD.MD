@@ -1,10 +1,13 @@
 
-CRD
-======
+---
 
-[<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
+### CRD
+
+---
 
 [div stats](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/DIVS.MD)
+
+---
 
 | [getrichslowly.org](http://www.getrichslowly.org/) |
 [moneycrashers.com](https://www.moneycrashers.com/) |
