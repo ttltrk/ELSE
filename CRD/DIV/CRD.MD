@@ -40,7 +40,6 @@
   - DIV
   
     - [Automatizalt vagyonepites video (1.1) ](http://osztalekportfolio.com/kurzus/automatizalt_vagyonepites/p/az_elso_lepesek)
-    - [Automatizalt vagyonepites video (1.2) ](http://osztalekportfolio.com/kurzus/automatizalt_vagyonepites/p/az_elso_lepesek)
 
 ---
 
