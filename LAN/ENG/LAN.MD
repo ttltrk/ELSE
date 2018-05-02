@@ -34,7 +34,7 @@
 
   - ENG (108, LEV 15, DIR: 52)
   
-    - [Elvont f 2](https://www.duolingo.com/) 4-5
+    - [Elvont f 2](https://www.duolingo.com/) 4-6
 
 * 01 : Tue
 
