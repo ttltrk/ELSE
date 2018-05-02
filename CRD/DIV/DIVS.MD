@@ -1,7 +1,25 @@
-DIV Stats
-======
 
-[<<<](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/CRD.MD)
+---
+
+### DIV 
+
+---
+
+* [src](http://osztalekportfolio.com)
+
+---
+
+2018 - MAY
+
+| ETF/Stock | Amount   | Buy/Sell | 
+|-----------|----------|----------|
+| EDV       | 6        |          | 
+| VEU       | 7        |          | 
+| VNQ       | 7        |          | 
+| VTI       | 6        |          | 
+|__sum      | 26       |          |
+
+---
 
 2018 - JAN
 
@@ -12,3 +30,5 @@ DIV Stats
 | VNQ       | 3        | +3       | 
 | VTI       | 3        | +3       | 
 |__sum      | 12       | +12      |
+
+---
