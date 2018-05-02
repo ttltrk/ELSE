@@ -17,6 +17,12 @@
 
 * MAY
 
+* 02 : Wed
+
+  - ENG (108, LEV 15, DIR: 52)
+  
+    - [Elvont f 2](https://www.duolingo.com/) 4-5
+
 * 01 : Tue
 
   - ENG (108, LEV 15, DIR: 51)
