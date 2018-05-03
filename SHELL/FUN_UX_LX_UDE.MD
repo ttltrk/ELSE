@@ -178,6 +178,8 @@ Section 2 - Where to Start
 
 Moving in ```man``` file
 
+open ```man man```
+
 ```space``` down
 
 ```b``` back or up
