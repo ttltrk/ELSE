@@ -22,18 +22,25 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x|  |  |  |  |  |  |  |  |  |  |  |  |  | 
+|  | x| x| x|  |  |  |  |  |  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
 
 |ST|NU|
 |--|--|
-|WD| 2|
+|WD| 3|
 |RD|  |
 
 <a href='#NAV'>NAV</a>
 
 * MAY
+
+* 03 : Thu
+
+  - DIV
+  
+    - [Automatizalt vagyonepites video (1.3) ](http://osztalekportfolio.com/kurzus/automatizalt_vagyonepites/p/az_elso_lepesek)
+
 
 * 02 : Wed
 
