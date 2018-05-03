@@ -23,7 +23,7 @@
 
 |ST|NU|
 |--|--|
-|WD| 2|
+|WD| 3|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
