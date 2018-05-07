@@ -34,7 +34,7 @@
 
   - ENG (111, LEV 15, DIR: 56)
   
-    - [Eloljarok](https://www.duolingo.com/) 1-2
+    - [Eloljarok (tL3)](https://www.duolingo.com/) 1-2
 
 * 06 : Sun
 
