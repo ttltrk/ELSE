@@ -32,7 +32,7 @@
 
 * 08 : Tue
 
-  - ENG (111, LEV 15, DIR: 57)
+  - ENG (111, LEV 16, DIR: 57)
   
     - [Eloljarok (tL3)](https://www.duolingo.com/) 3-4
 
