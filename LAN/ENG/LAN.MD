@@ -34,8 +34,8 @@
 
   - ENG (112, LEV 16, DIR: 60)
   
-    - [Eloljarok (tL3)](https://www.duolingo.com/) 5-6
-
+    - [Eloljarok (toL3)](https://www.duolingo.com/) 7-8
+    - [Datum + ido (toL3)](https://www.duolingo.com/) 1
 * 09 : Wed
 
   - ENG (111, LEV 16, DIR: 59)
