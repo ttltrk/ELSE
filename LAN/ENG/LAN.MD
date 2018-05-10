@@ -17,34 +17,40 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x|  |  |  |  |  |  | 
+|  | x| x| x| x| x| x| x| x| x| x|  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD| 9|
+|WD|10|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * MAY
 
+* 10 : Thu
+
+  - ENG (112, LEV 16, DIR: 60)
+  
+    - [Eloljarok (tL3)](https://www.duolingo.com/) 5-6
+
 * 09 : Wed
 
-  - ENG (111, LEV 16, DIR: 58)
+  - ENG (111, LEV 16, DIR: 59)
   
     - [Eloljarok (tL3)](https://www.duolingo.com/) 5-6
 
 * 08 : Tue
 
-  - ENG (111, LEV 16, DIR: 57)
+  - ENG (111, LEV 16, DIR: 58)
   
     - [Eloljarok (tL3)](https://www.duolingo.com/) 3-4
 
 * 07 : Mon
 
-  - ENG (111, LEV 15, DIR: 56)
+  - ENG (111, LEV 15, DIR: 57)
   
     - [Eloljarok (tL3)](https://www.duolingo.com/) 1-2
 
