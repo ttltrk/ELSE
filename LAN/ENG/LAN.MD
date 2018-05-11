@@ -34,7 +34,7 @@
 
   - ENG (112, LEV 16, DIR: 61)
   
-    - [Datum + ido (toL3)](https://www.duolingo.com/) 2-3
+    - [Datum + ido (toL3)](https://www.duolingo.com/) 2-11
 
 * 10 : Thu
 
