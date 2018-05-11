@@ -17,18 +17,24 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x| x|  |  |  |  |  | 
+|  | x| x| x| x| x| x| x| x| x| x| x|  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|10|
+|WD|11|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * MAY
+
+* 11 : Fri
+
+  - ENG (112, LEV 16, DIR: 61)
+  
+    - [Datum + ido (toL3)](https://www.duolingo.com/) 2-3
 
 * 10 : Thu
 
@@ -36,6 +42,7 @@
   
     - [Eloljarok (toL3)](https://www.duolingo.com/) 7-8
     - [Datum + ido (toL3)](https://www.duolingo.com/) 1
+    
 * 09 : Wed
 
   - ENG (111, LEV 16, DIR: 59)
