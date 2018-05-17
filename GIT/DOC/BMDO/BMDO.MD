@@ -9,7 +9,7 @@
 
 ---
 
-* [Git](https://github.com/ttltrk/ELSE/blob/master/GIT/DOC/BGM/BGM.MD)
+* [Git](https://github.com/ttltrk/ELSE/blob/master/GIT/DOC/OGM/OGM.MD)
 
 ---
 
