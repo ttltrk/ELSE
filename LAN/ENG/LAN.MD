@@ -34,7 +34,7 @@
 
   - ENG (121, LEV 16, DIR: 71)
   
-    - [Mod. s. igek (to L2]() 1
+    - [Mod. s. igek (to L2)]() 1
     - [Uzlet (to L2)]() 1
 
 * 21 : Mon
