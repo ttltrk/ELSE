@@ -9,18 +9,18 @@
 
 ---
 
-* [UX]()
+* [UX](https://github.com/ttltrk/ELSE/blob/master/M/UX/UX.MD)
 
 ---
 
-* [SQL]()
+* [SQL](https://github.com/ttltrk/ELSE/blob/master/M/SQL/SQL.MD)
 
 ---
 
-* [PL/SQL]()
+* [PL/SQL](https://github.com/ttltrk/ELSE/blob/master/M/PLSQL/PLSQL.MD)
 
 ---
 
-* [Tools]()
+* [Tools](https://github.com/ttltrk/ELSE/blob/master/M/TOOLS/TOOLS.MD)
 
 ---
