@@ -9,7 +9,7 @@
 
 ---
 
-* [standard]()
+* [standard](https://github.com/ttltrk/ELSE/blob/master/M/UX/STANDARD/STANDARD.MD)
 * [cron]()
 * [profile]()
 * [sftp]()
