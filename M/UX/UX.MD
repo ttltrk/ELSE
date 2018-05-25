@@ -10,6 +10,8 @@
 ---
 
 * [standard]()
+* [cron]()
+* [profile]()
 * [sftp]()
 * [mail]()
 
