@@ -10,7 +10,17 @@
 ---
 
 ```
-ps -ef | grep ""
+history
+```
+
+```
+less +<line_num> -N <file_name>
+
+less +320 -N code.sh
+```
+
+```
+ps -ef | grep file_name
 ```
 
 ```
@@ -24,12 +34,14 @@ mv name new_name
 ```
 
 ```
-unzip
+unzip file_name
+unzip -l file_name
+gunzip file_name
 ```
 
 ```
 chmod 777 file_dir
-chown 
+chown user file_name
 ```
 
 ---
