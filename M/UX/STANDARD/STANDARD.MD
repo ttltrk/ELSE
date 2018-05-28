@@ -14,6 +14,10 @@ ps -ef | grep ""
 ```
 
 ```
+nohup /path/path/code.sh &
+```
+
+```
 cp file path
 mv file path 
 mv name new_name
