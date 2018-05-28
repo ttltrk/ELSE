@@ -10,6 +10,11 @@
 
 ---
 
+```
+*      *    *          *     *
+minute hour day(month) month day(week)
+```
+
 list all the jobs from cron between 22:00 and 23:00
 
 ```
@@ -21,5 +26,9 @@ edit cron
 ```
 crontab -e
 ```
+
+---
+
+[src](https://crontab.guru/)
 
 ---
