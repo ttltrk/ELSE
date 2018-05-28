@@ -12,7 +12,7 @@
 * [standard](https://github.com/ttltrk/ELSE/blob/master/M/UX/STANDARD/STANDARD.MD)
 * [cron](https://github.com/ttltrk/ELSE/blob/master/M/UX/CRON/CRON.MD)
 * [profile](https://github.com/ttltrk/ELSE/blob/master/M/UX/PROFILE/PROFILE.MD)
-* [sftp]()
+* [sftp](https://github.com/ttltrk/ELSE/blob/master/M/UX/SFTP/SFTP.MD)
 * [mail]()
 
 ---
