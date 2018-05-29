@@ -12,7 +12,7 @@
 ```
 vi test.sh
 
-i = insert
+i
 
 MY_SHELL="bash"
 echo "I like $MY_SHELL shell"
