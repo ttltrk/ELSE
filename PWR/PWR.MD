@@ -10,7 +10,7 @@
 ---
 
 | [stats](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR_STS.MD)
-| [531](https://github.com/ttltrk/ELSE/blob/master/PWR/531/531.MD) |
+| 
 
 ---
 
