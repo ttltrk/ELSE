@@ -46,7 +46,7 @@
 
   - ENG (123, LEV 16, DIR: 79)  
   
-    - [Jovo ido (to L2)]() 2-3
+    - [Jovo ido (to L2)]() 2-5
 
 * 28 : Mon
 
