@@ -56,6 +56,10 @@ Shell Scripting, Succinctly
 
 #### <h4 id='4'>Shell Scripting, Part I</h4>
 
+```
+VARIABLE_NAME="value"
+```
+
 ```shell
 echo "Scripting is fun!"
 
