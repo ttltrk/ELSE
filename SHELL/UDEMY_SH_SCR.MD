@@ -76,6 +76,8 @@ Scripting is fun!
 >>>
 ```
 
+[ON IDE](http://rextester.com/l/bash_online_compiler)
+
 ```
 VARIABLE_NAME="value"
 ```
@@ -89,6 +91,8 @@ I like the bash shell.
 >>>
 ```
 
+[ON IDE](http://rextester.com/l/bash_online_compiler)
+
 ```shell
 MY_SHELL="bash"
 echo "I like the ${MY_SHELL} shell."
@@ -98,6 +102,8 @@ I like the bash shell.
 >>>
 ```
 
+[ON IDE](http://rextester.com/l/bash_online_compiler)
+
 ```shell
 SERVER_NAME=(hostname)
 echo "You are running this script on ${SERVER_NAME}."
@@ -106,6 +112,8 @@ echo "You are running this script on ${SERVER_NAME}."
 You are running this script on hostname.
 >>>
 ```
+
+[ON IDE](http://rextester.com/l/bash_online_compiler)
 
 #### <h4 id='5'>Shell Scripting, Part II</h4>
 
@@ -121,7 +129,7 @@ fi
 ```shell
 MY_SHELL="bash"
 
-if [ "MY_SHELL" = "bash" ]
+if [ "$MY_SHELL" = "bash" ]
 then
   echo "You seem to like the bash shell."
 fi
@@ -130,6 +138,8 @@ fi
 You seem to like the bash shell.
 >>>
 ```
+
+[ON IDE](http://rextester.com/l/bash_online_compiler)
 
 ```shell
 if [ condition-is-true ]
@@ -170,6 +180,8 @@ You seem to like the csh shell.
 >>>
 ```
 
+[ON IDE](http://rextester.com/l/bash_online_compiler)
+
 ```shell
 for VARIABLE_NAME in ITEM_1 ITEM_N
 do
@@ -192,6 +204,8 @@ COLOR: blue
 >>>
 ```
 
+[ON IDE](http://rextester.com/l/bash_online_compiler)
+
 ```shell
 COLORS="red green blue"
 
@@ -206,6 +220,8 @@ COLOR: green
 COLOR: blue
 >>>
 ```
+
+[ON IDE](http://rextester.com/l/bash_online_compiler)
 
 ```shell
 USER=$1 # The first parameter is the user.
