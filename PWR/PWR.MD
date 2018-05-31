@@ -24,16 +24,22 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x|RD| x| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
-| x| x| x|RD| x| x| x| x|RD| x|RD| x| x|RD|  |  |
+| x| x| x|RD| x| x| x| x|RD| x|RD| x| x|RD| x|  |
 
 |ST|NU|
 |--|--|
-|WD|24|
+|WD|25|
 |RD| 5|
 
 <a href='#NAV'>NAV</a>
 
 * MAY
+
+  * 30 : (Wed)
+  
+    + SQ: 5x80kg, 3x85kg
+    + pull ups 5x5
+    + curls 
 
   * 29 : (Tue)
   
