@@ -14,19 +14,19 @@
 
 ---
 
-* [01 - Start Here - Course Overview and Downloads]()
-* [02 - Shell Scripting, Succinctly]()
-* [03 - Exit Statuses and Return Codes]()
-* [04 - Functions]()
-* [05 - Shell Script Checklist and Template]()
-* [06 - Wildcards]()
-* [07 - Case Statements]()
-* [08 - Logging]()
-* [09 - While Loops]()
-* [10 - Debugging]()
-* [11 - Scripts Used to Create This Course]()
-* [12 - Slides]()
-* [13 - Bonus Lecture Section: Get my other courses at the maximum discount!]()
+* [01 - Start Here - Course Overview and Downloads](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/01/01.MD)
+* [02 - Shell Scripting, Succinctly](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/02/01.MD)
+* [03 - Exit Statuses and Return Codes](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/03/01.MD)
+* [04 - Functions](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/04/01.MD)
+* [05 - Shell Script Checklist and Template](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/05/01.MD)
+* [06 - Wildcards](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/06/01.MD)
+* [07 - Case Statements](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/07/01.MD)
+* [08 - Logging](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/08/01.MD)
+* [09 - While Loops](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/09/01.MD)
+* [10 - Debugging](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/10/01.MD)
+* [11 - Scripts Used to Create This Course](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/11/01.MD)
+* [12 - Slides](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/12/01.MD)
+* [13 - Bonus Lecture Section: Get my other courses at the maximum discount!](https://github.com/ttltrk/ELSE/blob/master/SHELL/SH_SCR/13/01.MD)
 
 ---
 
