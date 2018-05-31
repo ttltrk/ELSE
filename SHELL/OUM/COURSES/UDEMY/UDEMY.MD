@@ -14,13 +14,16 @@
 
 ---
 
-* [Shell Scripting: Discover How to Automate Command Line]()
+* Shell Scripting: Discover How to Automate Command Line
 
   + [man](https://github.com/ttltrk/ELSE/blob/master/SHELL/UDEMY_SH_SCR.MD)
-  + [course]()
+  + [course](https://www.udemy.com/shell-scripting-linux/learn/v4/content)
   
 ---
 
-* []()
+* xxx
+
+  + [man]()
+  + [course]()
 
 ---
