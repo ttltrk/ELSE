@@ -21,7 +21,7 @@
   
 ---
 
-* xxx
+* Bash Scripting and Shell Programming (Linux Command Line)
 
   + [man](https://github.com/ttltrk/ELSE/blob/master/SHELL/BASH_SC_UDM.MD)
   + [course]()
