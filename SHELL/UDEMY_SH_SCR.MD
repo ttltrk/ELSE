@@ -30,13 +30,6 @@
 
 ---
 
-### Shell Scripting, Succinctly
-  * <a href='#3'>Section Introduction</a>
-  * <a href='#4'>Shell Scripting, Part I</a>
-  * <a href='#5'>Shell Scripting, Part II</a>
-  * <a href='#6'>Quiz 1: Shell Scripting</a>
-  * <a href='#7'>Practice Exercises</a>
-
 ### Exit Statuses and Return Codes
   * <a href='#8'>Exit Statuses and Return Codes</a>
   * <a href='#9'>Exit Status Demo</a>
@@ -66,57 +59,7 @@
 
 ### Section 12
 
-Shell Scripting, Succinctly
-------
 
-#### <h4 id='3'>Section Introduction</h4>
-
-#### <h4 id='4'>Shell Scripting, Part I</h4>
-
-```shell
-echo "Scripting is fun!"
-
->>>
-Scripting is fun!
->>>
-```
-
-[ON IDE](http://rextester.com/l/bash_online_compiler)
-
-```
-VARIABLE_NAME="value"
-```
-
-```shell
-MY_SHELL="bash"
-echo "I like the $MY_SHELL shell."
-
->>>
-I like the bash shell.
->>>
-```
-
-[ON IDE](http://rextester.com/l/bash_online_compiler)
-
-```shell
-MY_SHELL="bash"
-echo "I like the ${MY_SHELL} shell."
-
->>>
-I like the bash shell.
->>>
-```
-
-[ON IDE](http://rextester.com/l/bash_online_compiler)
-
-```shell
-SERVER_NAME=(hostname)
-echo "You are running this script on ${SERVER_NAME}."
-
->>>
-You are running this script on hostname.
->>>
-```
 
 [ON IDE](http://rextester.com/l/bash_online_compiler)
 
