@@ -14,16 +14,23 @@
 
 ---
 
+* 
+
+  + [man](https://github.com/ttltrk/ELSE/blob/master/SHELL/FUN_UX_LX_UDE.MD)
+  + [source]()
+
+---
+
 * Shell Scripting: Discover How to Automate Command Line
 
   + [man](https://github.com/ttltrk/ELSE/blob/master/SHELL/UDEMY_SH_SCR.MD)
-  + [course](https://www.udemy.com/shell-scripting-linux/learn/v4/content)
+  + [source](https://www.udemy.com/shell-scripting-linux/learn/v4/content)
   
 ---
 
 * Bash Scripting and Shell Programming (Linux Command Line)
 
   + [man](https://github.com/ttltrk/ELSE/blob/master/SHELL/BASH_SC_UDM.MD)
-  + [course]()
+  + [source]()
 
 ---
