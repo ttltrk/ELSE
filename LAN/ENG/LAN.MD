@@ -44,9 +44,9 @@
 
 * 31 : Thu
 
-   - ENG (124, LEV 16, DIR: 81)
+   - ENG (125, LEV 16, DIR: 81)
    
-     - [Tudomany (to L2)]() 1-5
+     - [Tudomany (to L2)]() 1-7
 
 * 30 : Wed
 
