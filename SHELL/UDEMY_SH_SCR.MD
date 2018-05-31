@@ -18,14 +18,15 @@
 * [02 - Shell Scripting, Succinctly]()
 * [03 - Exit Statuses and Return Codes]()
 * [04 - Functions]()
-* [05 - ]()
-* [06 - ]()
-* [07 - ]()
-* [08 - ]()
-* [09 - ]()
-* [10 - ]()
-* [11 - ]()
-* [12 - ]()
+* [05 - Shell Script Checklist and Template]()
+* [06 - Wildcards]()
+* [07 - Case Statements]()
+* [08 - Logging]()
+* [09 - While Loops]()
+* [10 - Debugging]()
+* [11 - Scripts Used to Create This Course]()
+* [12 - Slides]()
+* [13 - Bonus Lecture Section: Get my other courses at the maximum discount!]()
 
 ---
 
