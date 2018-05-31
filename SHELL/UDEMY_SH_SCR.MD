@@ -1,6 +1,11 @@
 
-[Shell Scripting: Discover How to Automate Command Line](https://www.udemy.com/shell-scripting-linux/learn/v4/content)
-======
+---
+
+---
+
+### Shell Scripting: Discover How to Automate Command Line
+
+---
 
 ### Start Here - Course Overview and Downloads
   * <a href='#1'>Course Overview</a>
