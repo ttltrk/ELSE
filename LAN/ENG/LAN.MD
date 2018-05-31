@@ -46,7 +46,7 @@
 
    - ENG (124, LEV 16, DIR: 81)
    
-     - [Tudomany (to L2)]() 1-3
+     - [Tudomany (to L2)]() 1-4
 
 * 30 : Wed
 
