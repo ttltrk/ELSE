@@ -17,7 +17,7 @@
 * Fundamentals of Unix and Linux System Administration
 
   + [man](https://github.com/ttltrk/ELSE/blob/master/SHELL/FUN_UX_LX_UDE.MD)
-  + [source]()
+  + [source](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/overview)
 
 ---
 
@@ -31,6 +31,6 @@
 * Bash Scripting and Shell Programming (Linux Command Line)
 
   + [man](https://github.com/ttltrk/ELSE/blob/master/SHELL/BASH_SC_UDM.MD)
-  + [source]()
+  + [source](https://www.udemy.com/bash-scripting/learn/v4/overview)
 
 ---
