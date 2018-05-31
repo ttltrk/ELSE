@@ -30,10 +30,6 @@
 
 ---
 
-### Start Here - Course Overview and Downloads
-  * <a href='#1'>Course Overview</a>
-  * <a href='#2'>Course Downloads</a>
-
 ### Shell Scripting, Succinctly
   * <a href='#3'>Section Introduction</a>
   * <a href='#4'>Shell Scripting, Part I</a>
@@ -69,13 +65,6 @@
 ### Section 11
 
 ### Section 12
-
-Start Here - Course Overview and Downloads
-------
-
-#### <h4 id='1'>Course Overview</h4>
-
-#### <h4 id='2'>Course Downloads</h4>
 
 Shell Scripting, Succinctly
 ------
