@@ -14,6 +14,21 @@
 
 ---
 
+* [01 - Start Here - Course Overview and Downloads]()
+* [02 - Shell Scripting, Succinctly]()
+* [03 - Exit Statuses and Return Codes]()
+* [04 - Functions]()
+* [05 - ]()
+* [06 - ]()
+* [07 - ]()
+* [08 - ]()
+* [09 - ]()
+* [10 - ]()
+* [11 - ]()
+* [12 - ]()
+
+---
+
 ### Start Here - Course Overview and Downloads
   * <a href='#1'>Course Overview</a>
   * <a href='#2'>Course Downloads</a>
