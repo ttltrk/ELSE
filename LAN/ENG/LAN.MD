@@ -47,6 +47,7 @@
    - ENG (125, LEV 16, DIR: 81)
    
      - [Tudomany (to L2)]() 1-7
+     - [Politika (to L2)]() 1
 
 * 30 : Wed
 
