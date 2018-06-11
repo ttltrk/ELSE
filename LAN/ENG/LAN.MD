@@ -32,10 +32,10 @@
 
 * 11 : Mon
 
-   - ENG (127, LEV 16, DIR: 92)
+   - ENG (128, LEV 16, DIR: 92)
    
      - [Foglalk (to L3)]() 8
-     - [Melleknevek 1(to L3)]() 1
+     - [Melleknevek 1 (to L3)]() 1
 
 * 10 : Sun
 
