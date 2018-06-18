@@ -28,8 +28,8 @@
 
 |ST|NU|
 |--|--|
-|WD| 3|
-|RD| 4|
+|WD| 9|
+|RD| 9|
 
 <a href='#NAV'>NAV</a>
 
