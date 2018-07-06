@@ -32,7 +32,7 @@
 
 * 06 : Fri 
 
-  - ENG (131, LEV 16, DIR: 117)
+  - ENG (131, LEV 17, DIR: 117)
   
     - [Helyek (to L3)]() 3-6 
 
