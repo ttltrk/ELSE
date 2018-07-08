@@ -35,6 +35,10 @@
 
 * JUL
 
+  * 08 : (Sun)
+  
+    + Military dumbell, kb
+
   * 07 : (Sat)
   
     + SQ: 2x90kg
