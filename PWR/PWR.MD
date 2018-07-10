@@ -35,6 +35,10 @@
 
 * JUL
 
+  * 09 : (Mon)
+  
+    + RD
+
   * 08 : (Sun)
   
     + Military dumbell, kb
