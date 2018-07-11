@@ -9,7 +9,7 @@
 
 ---
 
-### ETL 
+ETL 
 
 ```
 Extraction, Transformation, Load
@@ -18,9 +18,7 @@ DataStage Designer
 
 ---
 
-### Repository
-
-```
+Repository
 
 ```
 In revision control systems, a repository[1] is an on-disk data structure which stores metadata 
