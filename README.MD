@@ -2,6 +2,16 @@
 Cron, Git and Shell documents
 ======
 
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 ### [Cron](https://github.com/ttltrk/ELSE/tree/master/CRON)
   * [Cron Manual](https://github.com/ttltrk/ELSE/blob/master/CRON/cron.txt)
 
