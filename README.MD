@@ -2,8 +2,8 @@
 Cron, Git and Shell documents
 ======
 
-- [ ] Mercury
-- [x] Venus
+- [ ] [ ] Mercury
+- [x] [ ] [ ] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
 - [ ] Jupiter
