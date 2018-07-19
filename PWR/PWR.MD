@@ -35,7 +35,7 @@
 
 * JUL
 
-  * 18 : (Wed)
+  * 18 : (Wed) - (DIR: 4)
   
     + BE: 2x3x90kg
 
