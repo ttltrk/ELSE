@@ -11,7 +11,9 @@
 
 ---
 
+* [own manuals]()
 * [courses]()
+* [apps]()
 
 ---
 
