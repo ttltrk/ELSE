@@ -24,16 +24,34 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  |RD|RD| x| x| x| x| x| x|RD| x| x|RD|RD|RD| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
-| x| x| x RD| x| x| x| x| x| x| x|  |  |  |  |  |
+| x| x| x RD| x| x| x| x| x| x| x| x| x| x|  |  |
 
 |ST|NU|
 |--|--|
-|WD|19|
+|WD|22|
 |RD| 7|
 
 <a href='#NAV'>NAV</a>
 
 * JUL
+
+  * 29 : (Sun) - DIR: 7
+
+    + MI: 7x60kg
+    + tric
+    + neck
+
+  * 28 : (Sat) - DIR: 7
+
+    + SQ: 2x80kg
+    + pull ups
+    + curls
+    + lb
+    
+  * 27 : (Fri) - DIR: 7
+  
+    + BE: 6x90kg
+    + tric
 
   * 26 : (Thu) - DIR: 6
   
