@@ -19,16 +19,35 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
-| x| x| x| x| x| x| x| x| x| x| x| x|  |  |  |  |
+| x| x| x| x| x| x| x| x| x| x| x| x| x| x| x|  |
 
 |ST|NU|
 |--|--|
-|WD|27|
+|WD|30|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * JUL
+
+* 30 : Mon
+
+  - ENG (135, LEV 17, DIR: 141)
+  
+    - [Tovabbi nevmas (to L3)]() 1
+    - [Utazas (to L3)]() 14-15
+
+* 29 : Sun
+
+  - ENG (134, LEV 17, DIR: 140)
+  
+    - [Utazas (to L3)]() 12-13
+
+* 28 : Sat
+
+  - ENG (134, LEV 17, DIR: 139)
+  
+    - [Utazas (to L3)]() 10-11
 
 * 27 : Fri
 
