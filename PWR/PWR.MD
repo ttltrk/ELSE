@@ -54,57 +54,64 @@
 
 * JUL
 
-  * 29 : (Sun) - DIR: 7
+  * 30 : (Mon) - DIR: 11
+  
+    + DL: 6x120kg
+    + curls
+    + pull ups
+    + LB
+
+  * 29 : (Sun) - DIR: 10
 
     + MI: 7x60kg
     + tric
     + neck
 
-  * 28 : (Sat) - DIR: 7
+  * 28 : (Sat) - DIR: 9
 
     + SQ: 2x80kg
     + pull ups
     + curls
     + lb
     
-  * 27 : (Fri) - DIR: 7
+  * 27 : (Fri) - DIR: 8
   
     + BE: 6x90kg
     + tric
 
-  * 26 : (Thu) - DIR: 6
+  * 26 : (Thu) - DIR: 7
   
     + pull ups
     + curls
 
-  * 25 : (Wed) - DIR: 5
+  * 25 : (Wed) - DIR: 6
   
     + MI: 6x60kg
     + tric
     + neck
 
-  * 24 : (Tue) - DIR: 4
+  * 24 : (Tue) - DIR: 5
   
     + SQ: 6x80kg
     + curls
 
-  * 23 : (Mon) - DIR: 3
+  * 23 : (Mon) - DIR: 4
   
     + BE: 4x95kg
     + MI: 10x50kg
 
-  * 22 : (Sun)
+  * 22 : (Sun)  - DIR: 3
   
     + DL: 5x120kg
     + curls
     + pull ups 25x
 
-  * 21 : (Sat)
+  * 21 : (Sat)  - DIR: 2
   
     + MI: 2x5x60kg
     + tric
 
-  * 20 : (Fri)
+  * 20 : (Fri)  - DIR: 1
   
     + SQ: 100 rep without weigths
 
