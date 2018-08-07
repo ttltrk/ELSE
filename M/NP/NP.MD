@@ -13,10 +13,24 @@ add char before after
 
 ```
 before
-ctrl+F --> replace --> Find what: ^ --> Replace with: <your_request>
+
+Search: ^ 
+Replace: <your_request>
 
 after
-ctrl+F --> replace --> Find what: $ --> Replace with: <your_request>
+Search: $ 
+Replace: <your_request>
+```
+
+---
+
+remove duplicates
+
+```
+Edit > Line Operations > Sort Lines Lexicographically Ascending 
+
+Search: ^(.+?)\R(\1\R?)+
+Replace: \1\r\n
 ```
 
 ---
