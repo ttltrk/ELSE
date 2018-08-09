@@ -35,3 +35,11 @@ Replace: \1\r\n
 
 ---
 
+all data in one line
+
+```
+Search: (\h*\R)+ 
+Replace: \x20
+```
+
+---
