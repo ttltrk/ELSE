@@ -17,18 +17,66 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x| x| x| x| x|  |  | 
+|  | x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| x| x| x| x| x| x|  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|13|
+|WD|21|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * AUG
+
+* 21 : Tue
+
+  - ENG (138, LEV 17, DIR: 163)
+  
+    - [Oktatas (to L3]() 3-4
+
+* 20 : Mon
+
+  - ENG (138, LEV 17, DIR: 162)
+  
+    - [Oktatas (to L3]() 1-2
+
+* 19 : Sun
+
+  - ENG (137, LEV 17, DIR: 161)
+  
+    - [Igek jelen 3 (to L3]() 19-20
+
+* 18 : Sat
+
+  - ENG (137, LEV 17, DIR: 160)
+  
+    - [Igek jelen 3 (to L3]() 17-18
+
+* 17 : Fri
+
+  - ENG (137, LEV 17, DIR: 159)
+  
+    - [Igek jelen 3 (to L3]() 15-16
+
+* 16 : Thu
+
+  - ENG (137, LEV 17, DIR: 158)
+  
+    - [Igek jelen 3 (to L3]() 13-14
+
+* 15 : Wed
+
+  - ENG (137, LEV 17, DIR: 157)
+  
+    - [Igek jelen 3 (to L3]() 11-12
+
+* 14 : Tue
+
+  - ENG (137, LEV 17, DIR: 156)
+  
+    - [Igek jelen 3 (to L3]() 9-10
 
 * 13 : Mon
 
