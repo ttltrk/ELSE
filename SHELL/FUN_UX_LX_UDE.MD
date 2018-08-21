@@ -10,26 +10,30 @@
 
 ---
 
-### Fundamentals of Unix and Linux System Administration
+<h3 id='^'>Fundamentals of Unix and Linux System Administration</h3>
 
 ---
 
-### Section 1 - Introduction
+Section 1 - Introduction
+  
   * <a href="#1">1 - Introduction</a>
 
-### Section 2 - Where to Start
+Section 2 - Where to Start
+  
   * <a href="#2">2 - Linux Unix Administration Fundamentals</a>
   * <a href="#3">3 - Getting help on Linux</a>
   * <a href="#4">4 - Advance man command</a>
   
-### Section 3 - Package Management
+Section 3 - Package Management
+  
   * <a href="#5">5 - Introduction to package management</a>
   * <a href="#6">6 - Installing from RPM</a>
   * <a href="#7">7 - Making a local apt-get repo</a>
   * <a href="#8">8 - Making a local yum repo</a>
   * <a href="#9">9 - Tips and tricks</a>
   
-### Section 4 - Shell Scripting Guide
+Section 4 - Shell Scripting Guide
+  
   * <a href="#10">10 - Introduction to Shell Scripting</a>
   * <a href="#11">11 - Using Variables</a>
   * <a href="#12">12 - The sort command</a>
@@ -42,28 +46,32 @@
   * <a href="#19">19 - Python Scripting PT A</a>
   * <a href="#20">20 - Python Scripting PT B</a>
 
-### Section 5 - Booting and Shutting Down
+Section 5 - Booting and Shutting Down
+  
   * <a href="#21">21 - Starting Up and Shutting Down Machines</a>
   * <a href="#22">22 - Startup Daemons</a>
   * <a href="#23">23 - Booting a second OS</a>
   * <a href="#24">24 - System Run levels</a>
   * <a href="#25">25 - Lab Exercise: Creating a Custom Daemon</a>
 
-### Section 6 - User Access Control
+Section 6 - User Access Control
+  
   * <a href="#26">26 - User Access Control Fundamentals</a>
   * <a href="#27">27 - The Power of Root</a>
   * <a href="#28">28 - Delegating Root Powers with sudo Part A</a>
   * <a href="#29">29 - Delegating Root Powers with sudo Part B</a>
   * <a href="#30">30 - System Accounts</a>
 
-### Section 7 - Controlling Processes
+Section 7 - Controlling Processes
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   
-### Section 8 - The File System
+Section 8 - The File System
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
@@ -71,14 +79,16 @@
   * <a href="#"></a>
   * <a href="#"></a>
 
-### Section 9 - Adding New Users
+Section 9 - Adding New Users
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   
-### Section 10 - Storage
+Section 10 - Storage
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
@@ -89,13 +99,15 @@
   * <a href="#"></a>
   * <a href="#"></a>
 
-### Section 11 - Periodic Processes
+Section 11 - Periodic Processes
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   
-### Section 12 - Backups
+Section 12 - Backups
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
@@ -103,90 +115,102 @@
   * <a href="#"></a>
   * <a href="#"></a>
 
-### Section 13 - Syslog and Log files
+Section 13 - Syslog and Log files
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
 
-### Section 14 - TCP/IP Networking
+Section 14 - TCP/IP Networking
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
 
-### Section 15 - Netfilter and IP Tables
+Section 15 - Netfilter and IP Tables
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
 
-### Section 16 - DNS: The Domain Name System
+Section 16 - DNS: The Domain Name System
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
-
-### Section 17 - The Network File System
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-
-### Section 18 - SHaring Files with Windows
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-
-### Section 19 - Email Services
-  * <a href="#"></a>
-  * <a href="#"></a>
-
-### Section 20 - Network management and debugging
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-
-### Section 21 - Security
-  * <a href="#"></a>
-  * <a href="#"></a>
-  * <a href="#"></a>
-
-### Section 22 - SSH tips and tricks
+  
+Section 17 - The Network File System
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
 
-### Section 23 - Web Hosting
+Section 18 - SHaring Files with Windows
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
 
-### Section 24 - Performance Analysis
+Section 19 - Email Services
+  
+  * <a href="#"></a>
+  * <a href="#"></a>
+
+Section 20 - Network management and debugging
+  
   * <a href="#"></a>
   * <a href="#"></a>
   * <a href="#"></a>
 
-Section 1 - Introduction
-------
+Section 21 - Security
+  
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-### <h3 id="1">1 - Introduction</h3>
+Section 22 - SSH tips and tricks
+  
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-[[Introduction.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4041912?start=0)]
+Section 23 - Web Hosting
+  
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
 
-Section 2 - Where to Start
-------
+Section 24 - Performance Analysis
+  
+  * <a href="#"></a>
+  * <a href="#"></a>
+  * <a href="#"></a>
+  
+<a href='#^'>^^^</a>
 
-### <h3 id="2">2 - Linux Unix Administration Fundamentals</h3>
+---
 
-[[Linux Unix Administration Fundamentals.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077794?start=0)]
+<h3 id="1">1 - Introduction</h3>
 
-### <h3 id="3">3 - Getting help on Linux</h3>
+<a href='#^'>^^^</a>
 
-[[Getting help on Linux.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077796?start=0)]
+---
+
+<h3 id="2">2 - Linux Unix Administration Fundamentals</h3>
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id="3">3 - Getting help on Linux</h3>
 
 Moving in ```man``` file
 
@@ -200,9 +224,11 @@ open ```man man```
 
 ```q``` exit
 
-### <h3 id="4">4 - Advance man command</h3>
+<a href='#^'>^^^</a>
 
-[[Advance man command.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077800?start=0)]
+---
+
+<h3 id="4">4 - Advance man command</h3>
 
 ```which``` shows the full path of (shell) commands
 
@@ -286,12 +312,11 @@ ttltrk-mbp:Desktop attilatorok$
 
 [[serverfault.com](https://serverfault.com/)]
 
-Section 3 - Package Management
-------
+<a href='#^'>^^^</a>
 
-### <h3 id="5">5 - Introduction to package management</h3>
+---
 
-[[Introduction to package management.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077802?start=0)]
+<h3 id="5">5 - Introduction to package management</h3>
 
 ```tar``` tape archiver (Create, extract, or list files from a tar file)
 
@@ -321,9 +346,11 @@ rpm - U <package_name.rpm>
 
 ```DEB``` Debian PKG used by Ubuntu
 
-### <h3 id='6'>6 - Installing from RPM</h3>
+<a href='#^'>^^^</a>
 
-[[Installing from RPM.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077804?start=0)]
+---
+
+<h3 id='6'>6 - Installing from RPM</h3>
 
 Updating Packages
 
@@ -331,9 +358,11 @@ Updating Packages
 apt-get update
 ```
 
-### <h3 id="7">7 - Making a local apt-get repo</h3>
+<a href='#^'>^^^</a>
 
-[[Making a local apt-get repo.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077806?start=0)]
+---
+
+<h3 id="7">7 - Making a local apt-get repo</h3>
 
 Check the details
 
@@ -350,7 +379,11 @@ pwd
 sudo ln -s /var/spool/apt-mirror ubuntu
 ```
 
-### <h3 id="8">8 - Making a local yum repo</h3>
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id="8">8 - Making a local yum repo</h3>
 
 [[Making a local yum repo.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077808?start=15)]
 
@@ -386,9 +419,11 @@ reposync -r <repo_name> -p /path/
 yum -y install createrepo
 ```
 
-### <h3 id="9">9 - Tips and tricks</h3>
+<a href='#^'>^^^</a>
 
-[[Tips and tricks.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4077810?start=15)]
+---
+
+<h3 id="9">9 - Tips and tricks</h3>
 
 Package install
 
@@ -414,12 +449,11 @@ Info about packages
 yum info <package_name>
 ```
 
-Section 4 - Shell Scripting Guide
-------
+<a href='#^'>^^^</a>
 
-### <h3 id='10'>10 - Introduction to Shell Scripting</h3>
+---
 
-[[Introduction to Shell Scripting.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4115944?start=15)]
+<h3 id='10'>10 - Introduction to Shell Scripting</h3>
 
 Emacs shortcuts
 
@@ -514,9 +548,11 @@ using filters for find something
 ls -l | grep <file_name>
 ```
 
-### <h3 id='11'>11 - Using Variables</h3>
+<a href='#^'>^^^</a>
 
-[[Using Variables.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4115946?start=15)]
+---
+
+<h3 id='11'>11 - Using Variables</h3>
 
 ```
 myvar=ttltrk
@@ -594,9 +630,11 @@ cut -d, -f 1,3 < sample.csv
 sort -t, -k1,1 < sample.csv
 ```
 
-### <h3 id='12'>12 - The sort command</h3>
+<a href='#^'>^^^</a>
 
-[[The sort command.udemy](https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/learn/v4/t/lecture/4115948?start=15)]
+---
+
+<h3 id='12'>12 - The sort command</h3>
 
 Give back the unique elements/rows from the file
 
@@ -672,116 +710,27 @@ occurences
 ps -ef | grep -c <file_name>
 ```
 
-### <h3 id='13'>13 - </h3>
+<h3 id='13'>13 - </h3>
 
-[[]()]
+<a href='#^'>^^^</a>
 
-```
-```
+---
 
-```
-```
+<h3 id='14'>14 - </h3>
 
-```
-```
+<a href='#^'>^^^</a>
 
-```
-```
+---
 
-```
-```
+<h3 id='15'>15 - </h3>
 
-### <h3 id='14'>14 - </h3>
+<a href='#^'>^^^</a>
 
-[[]()]
+---
 
-```
-```
+<h3 id='16'>16 - </h3>
 
-```
-```
+<a href='#^'>^^^</a>
 
-```
-```
+---
 
-```
-```
-
-```
-```
-
-### <h3 id='15'>15 - </h3>
-
-[[]()]
-
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
-
-### <h3 id='16'>16 - </h3>
-
-[[]()]
-
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
-
-### <h3 id='17'>17 - </h3>
-
-[[]()]
-
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
-
-### <h3 id='18'>18 - </h3>
-
-[[]()]
-
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
