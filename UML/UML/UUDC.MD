@@ -17,7 +17,7 @@
 
   + [status]()
   + [man]()
-  + [course]()
+  + [course](https://www.udemy.com/uml-fundamentals/learn/v4/content)
   + [cert]()
 
 ---
