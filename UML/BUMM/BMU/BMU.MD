@@ -5,6 +5,6 @@
 
 ---
 
-* [UML](https://github.com/ttltrk/ELSE/blob/master/UML/BUMM/BUMM.MD)
+* [UML](https://github.com/ttltrk/ELSE/blob/master/UML/UML/UML.MD)
 
 ---
