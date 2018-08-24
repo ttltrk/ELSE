@@ -12,7 +12,7 @@
 ---
 
 * [own manuals]()
-* [courses]()
+* [courses](https://github.com/ttltrk/ELSE/blob/master/UML/UML/UCOU.MD)
 * [apps]()
 
 ---
