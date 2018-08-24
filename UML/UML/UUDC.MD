@@ -16,7 +16,7 @@
 * UML Fundamentals
 
   + [status]()
-  + [man]()
+  + [man](https://github.com/ttltrk/ELSE/blob/master/UML/UML/UDEMY/UMLFUN.MD)
   + [course](https://www.udemy.com/uml-fundamentals/learn/v4/content)
   + [cert]()
 
