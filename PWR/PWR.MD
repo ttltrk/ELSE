@@ -24,7 +24,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | X|RD| X|RD| X| x| x|RD| x| x| x| x| x|RD| x|
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
-|RD| x|RD| x| x|RD| x|RD|  |  |  |  |  |  |  |  |
+|RD| x|RD| x| x|RD| x|RD| x|RD| x|RD| x|RD| x|RD|
 
 |ST|NU|
 |--|--|
@@ -34,6 +34,47 @@
 <a href='#NAV'>NAV</a>
 
 * AUG
+
+  * 31 : (Fri)
+  
+    + RD
+    
+  * 30 : (Thu)
+  
+    + MI: 8x60kg
+    + neck
+    + tric
+    + grip
+    
+  * 29 : (Wed)
+  
+    + RD
+    
+  * 28 : (Tue)
+  
+    + SQ: 10x60kg, 8x70kg
+    + pull ups
+    + curls
+    + LB
+    
+  * 27 : (Mon)
+  
+    + RD
+    
+  * 26 : (Sun) 
+  
+    + BE
+    
+  * 25 : (Sat)
+  
+    + RD
+    
+  * 24 : (Fri)
+  
+    + DL: 1x140kg
+    + pull ups
+    + curls
+    + LB
 
   * 23 : (Thu)
   
