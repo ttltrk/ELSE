@@ -19,148 +19,190 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
-| x| x| x| x| x| x| x| x| x|  |  |  |  |  |  |  |
+| x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| x|
 
 |ST|NU|
 |--|--|
-|WD|23|
+|WD|31|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * AUG
 
+* 31 : Fri
+
+  - ENG(139, LEV 17, DIR: 173)
+  
+    - [Mult ido(to L3)]() 13-14
+
+* 30 : Thu
+
+  - ENG(139, LEV 17, DIR: 172)
+  
+    - [Mult ido(to L3)]() 11-12
+
+* 29 : Wed
+
+  - ENG(139, LEV 17, DIR: 171)
+  
+    - [Mult ido(to L3)]() 9-10
+
+* 28 : Tue
+
+  - ENG(139, LEV 17, DIR: 170)
+  
+    - [Mult ido(to L3)]() 7-8
+
+* 27 : Mon
+
+  - ENG(139, LEV 17, DIR: 169)
+  
+    - [Mult ido(to L3)]() 5-6
+
+* 26 : Sun
+
+  - ENG(139, LEV 17, DIR: 168)
+  
+    - [Mult ido(to L3)]() 3-4
+
+* 25 : Sat
+
+  - ENG(139, LEV 17, DIR: 167)
+  
+    - [Mult ido(to L3)]() 1-2
+
 * 24 : Fri
 
-  - ENG (139, LEV 17, DIR: 166)
+  - ENG (138, LEV 17, DIR: 166)
   
-    - [Oktatas (to L3]() 9-10
+    - [Oktatas (to L3)]() 9-10
 
 * 23 : Thu
 
   - ENG (138, LEV 17, DIR: 165)
   
-    - [Oktatas (to L3]() 7-8
+    - [Oktatas (to L3)]() 7-8
 
 * 22 : Wed
 
   - ENG (138, LEV 17, DIR: 164)
   
-    - [Oktatas (to L3]() 5-6
+    - [Oktatas (to L3)]() 5-6
 
 * 21 : Tue
 
   - ENG (138, LEV 17, DIR: 163)
   
-    - [Oktatas (to L3]() 3-4
+    - [Oktatas (to L3)]() 3-4
 
 * 20 : Mon
 
   - ENG (138, LEV 17, DIR: 162)
   
-    - [Oktatas (to L3]() 1-2
+    - [Oktatas (to L3)]() 1-2
 
 * 19 : Sun
 
   - ENG (137, LEV 17, DIR: 161)
   
-    - [Igek jelen 3 (to L3]() 19-20
+    - [Igek jelen 3 (to L3)]() 19-20
 
 * 18 : Sat
 
   - ENG (137, LEV 17, DIR: 160)
   
-    - [Igek jelen 3 (to L3]() 17-18
+    - [Igek jelen 3 (to L3)]() 17-18
 
 * 17 : Fri
 
   - ENG (137, LEV 17, DIR: 159)
   
-    - [Igek jelen 3 (to L3]() 15-16
+    - [Igek jelen 3 (to L3)]() 15-16
 
 * 16 : Thu
 
   - ENG (137, LEV 17, DIR: 158)
   
-    - [Igek jelen 3 (to L3]() 13-14
+    - [Igek jelen 3 (to L3)]() 13-14
 
 * 15 : Wed
 
   - ENG (137, LEV 17, DIR: 157)
   
-    - [Igek jelen 3 (to L3]() 11-12
+    - [Igek jelen 3 (to L3)]() 11-12
 
 * 14 : Tue
 
   - ENG (137, LEV 17, DIR: 156)
   
-    - [Igek jelen 3 (to L3]() 9-10
+    - [Igek jelen 3 (to L3)]() 9-10
 
 * 13 : Mon
 
   - ENG (137, LEV 17, DIR: 155)
   
-    - [Igek jelen 3 (to L3]() 7-8
+    - [Igek jelen 3 (to L3)]() 7-8
   
 * 12 : Sun
   
   - ENG (137, LEV 17, DIR: 154)
   
-    - [Igek jelen 3 (to L3]() 6-5
+    - [Igek jelen 3 (to L3)]() 6-5
     
 * 11 : Sat
 
   - ENG (137, LEV 17, DIR: 153)
   
-    - [Igek jelen 3 (to L3]() 4-3
+    - [Igek jelen 3 (to L3)]() 4-3
     
 * 10 : Fri
 
   - ENG (137, LEV 17, DIR: 152)
   
-    - [Igek jelen 3 (to L3]() 1-2
+    - [Igek jelen 3 (to L3)]() 1-2
 
 * 09 : Thu
 
   - ENG (137, LEV 17, DIR: 151)
   
-    - [Szamok (to L3]() 12-13
+    - [Szamok (to L3)]() 12-13
 
 * 08 : Wed
 
   - ENG (136, LEV 17, DIR: 150)
   
-    - [Szamok (to L3]() 10-11
+    - [Szamok (to L3)]() 10-11
 
 * 07 : Tue
 
   - ENG (136, LEV 17, DIR: 149)
   
-    - [Szamok (to L3]() 8-9
+    - [Szamok (to L3)]() 8-9
 
 * 06 : Mon
 
   - ENG (136, LEV 17, DIR: 148)
   
-    - [Szamok (to L3]() 6-7
+    - [Szamok (to L3)]() 6-7
 
 * 05 : Sun
 
   - ENG (136, LEV 17, DIR: 147)
   
-    - [Szamok (to L3]() 4-5
+    - [Szamok (to L3)]() 4-5
 
 * 04 : SAT
 
   - ENG (136, LEV 17, DIR: 146)
   
-    - [Szamok (to L3]() 2-3
+    - [Szamok (to L3)]() 2-3
 
 * 03 : FRI
 
   - ENG (136, LEV 17, DIR: 145)
   
-    - [Szamok (to L3]() 1
+    - [Szamok (to L3)]() 1
     - [Tovabbi nevmas (to L3)]() 8
 
 * 02 : THU
