@@ -32,9 +32,15 @@
 
 #### <h4 id="2">Experience</h4>
 
+  * **IBM**
+  
+    + 2018_JUL - present
+    
+      - ETL, DataStage support
+
   * **FirstData**
   
-    + 2017_AUG - present
+    + 2017_AUG - 2018_JUL
     
       - BW3 (BankWorks) support admin
   
@@ -101,12 +107,7 @@
   * **Script**
   
     + Python
-    + JavaScript
-  
-  * **Computer Programming**
-  
-    + C
-  
+    
   * **Java Technology**
   
     + Java
@@ -133,7 +134,7 @@
   
     + [ttltrk.net](http://ttltrk.net/)
   
-  * **Python**
+  * **Scripts**
   
     + [Gauss table](https://github.com/ttltrk/PRG/blob/master/PY/APP/GT/README.MD)
     + [Binary to decimal converter](https://github.com/ttltrk/PRG/blob/master/PY/APP/BIN/README.MD)
