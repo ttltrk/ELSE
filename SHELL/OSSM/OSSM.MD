@@ -11,7 +11,7 @@
 
 ---
 
-* [own manuals]()
+* [own manuals](https://github.com/ttltrk/ELSE/blob/master/SHELL/OSSM/SSM.MD)
 * [courses](https://github.com/ttltrk/ELSE/blob/master/SHELL/OUM/COURSES/COURSES.MD)
 * [apps]()
 
