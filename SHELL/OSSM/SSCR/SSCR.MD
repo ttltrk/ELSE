@@ -19,11 +19,50 @@
 
 <h3 id='echo'>SS Echo</h3>
 
+```bash
+echo "Scripting is fun!"
+
+>>>
+Scripting is fun!
+>>>
+```
+
 <a href='#^'>^^^</a>
 
 ---
 
 <h3 id='variables'>SS Variables</h3>
+
+```bash
+MY_SHELL="bash"
+echo "I like the $MY_SHELL shell."
+
+>>>
+I like the bash shell.
+>>>
+```
+
+<a href='#^'>^^^</a>
+
+```bash
+MY_SHELL="bash"
+echo "I like the ${MY_SHELL} shell."
+
+>>>
+I like the bash shell.
+>>>
+```
+
+<a href='#^'>^^^</a>
+
+```bash
+SERVER_NAME=(hostname)
+echo "You are running this script on ${SERVER_NAME}."
+
+>>>
+
+>>>
+```
 
 <a href='#^'>^^^</a>
 
