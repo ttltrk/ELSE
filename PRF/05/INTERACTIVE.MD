@@ -18,15 +18,14 @@
 
 drawing with mouse
 
-```
-void setup() {
-  size(800, 800);
-  background(255);
-}
+```python
+def setup():
+  size(800, 800)
+  background(255)
 
-void draw() {
-  ellipse(mouseX, mouseY, 40, 40);
-}
+
+def draw():
+  ellipse(mouseX, mouseY, 40, 40)
 ```
 
 ### <h3 id="21">Enhance your little drawing program by adding mouse events!</h3>
