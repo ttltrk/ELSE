@@ -19,16 +19,36 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30| 
-| x| x| x| x| x|  |  |  |  |  |  |  |  |  |  |  
+| x| x| x| x| x| x| x| x| x| x|  |  |  |  |  |  
 
 |ST|NU|
 |--|--|
-|WD|20|
+|WD|25|
 |RD| 0|
 
 <a href='#NAV'>NAV</a>
 
 * SEP
+
+* 25 : Tue
+
+  - 142, LEV 18, DIR: 198, Elvont f (to L3) : 15-16
+
+* 24 : Mon
+
+  - 142, LEV 18, DIR: 197, Elvont f (to L3) : 13-14
+
+* 23 : Sun
+
+  - 142, LEV 18, DIR: 196, Elvont f (to L3) : 11-12
+
+* 22 : Sat
+
+  - 142, LEV 18, DIR: 195, Elvont f (to L3) : 9-10
+
+* 21 : Fri
+
+  - 142, LEV 18, DIR: 194, Elvont f (to L3) : 7-8
 
 * 20 : Thu
 
