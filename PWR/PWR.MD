@@ -24,7 +24,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  |RD| x| x|RD| x|RD| x|RD| x|RD| x|RD| x|RD|RD| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30| 
-| x|RD| x|RD|  |  |  |  |  |  |  |  |  |  |  |  
+| x|RD| x|RD| x| x|RD| x|RD| x|  |  |  |  |  |  
 
 |ST|NU|
 |--|--|
@@ -34,6 +34,34 @@
 <a href='#NAV'>NAV</a>
 
 * SEP
+
+  * 25 : (Tue)
+  
+    + MI: 6x65kg
+    + BE: 10x85kg
+    
+  * 24 : (Mon)
+  
+    + RD
+    
+  * 23 : (Sun)
+  
+    + SQ
+    + curls
+    + pull ups
+    
+  * 22 : (Sat)
+  
+    + RD
+    
+  * 21 : (Fri)
+  
+    + BE
+    
+  * 20 : (Thu)
+  
+    + pull ups
+    + curls
 
   * 19 : (Wed)
   
