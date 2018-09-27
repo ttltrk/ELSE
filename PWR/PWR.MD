@@ -24,7 +24,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  |RD| x| x|RD| x|RD| x|RD| x|RD| x|RD| x|RD|RD| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30| 
-| x|RD| x|RD| x| x|RD| x|RD| x|  |  |  |  |  |  
+| x|RD| x|RD| x| x|RD| x|RD| x| x|  |  |  |  |  
 
 |ST|NU|
 |--|--|
@@ -34,6 +34,10 @@
 <a href='#NAV'>NAV</a>
 
 * SEP
+
+  * 26 : (Wed)
+  
+    + condition (walking)
 
   * 25 : (Tue)
   
