@@ -28,7 +28,7 @@
 
 <a href='#NAV'>NAV</a>
 
-* SEP
+* OCT
 
 * 30 : Sun
 
