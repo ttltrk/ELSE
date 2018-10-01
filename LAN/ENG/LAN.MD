@@ -32,7 +32,7 @@
 
   * 01 - Mon (DIR: 204)
 
-    - 143, LEV 18, Mn alakok (to L3) : 7-8
+    * 143, LEV 18, Mn alakok (to L3) : 7-8
   
 ---
 
