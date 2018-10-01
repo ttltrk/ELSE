@@ -35,7 +35,12 @@
 
 * OCT
 
-  * 01 - Mon 
+  * 01 - Mon (DIR: 1)
+  
+    * SQ:
+    * pull ups: 
+    * curls: 
+    * condition: 
   
 ---
 
