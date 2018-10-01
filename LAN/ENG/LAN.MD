@@ -17,22 +17,22 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+|  | x|  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|  |
+|WD| x|
 |RD|  |
 
 <a href='#NAV'>NAV</a>
 
 * OCT
 
-* 30 : Sun
+  * 01 - Mon (DIR: 204)
 
-  - 143, LEV 18, DIR: 204, Mn alakok (to L3) : 7-8
+    - 143, LEV 18, Mn alakok (to L3) : 7-8
   
 ---
 
@@ -53,113 +53,113 @@
 
 * SEP
 
-* 30 : Sun
+  * 30 : Sun
 
-  - 143, LEV 18, DIR: 203, Mn alakok (to L3) : 5-6
+    - 143, LEV 18, DIR: 203, Mn alakok (to L3) : 5-6
   
-* 29 : Sat
+  * 29 : Sat
 
-  - 143, LEV 18, DIR: 202, Mn alakok (to L3) : 3-4
+    - 143, LEV 18, DIR: 202, Mn alakok (to L3) : 3-4
   
-* 28 : Fri
+  * 28 : Fri
 
-  - 143, LEV 18, DIR: 201, Mn alakok (to L3) : 1-2
+    - 143, LEV 18, DIR: 201, Mn alakok (to L3) : 1-2
 
-* 27 : Thu
+  * 27 : Thu
 
-  - 143, LEV 18, DIR: 200, Elvont f (to L3) : 19-20
+    - 143, LEV 18, DIR: 200, Elvont f (to L3) : 19-20
 
-* 26 : Wed
+  * 26 : Wed
 
-  - 142, LEV 18, DIR: 199, Elvont f (to L3) : 17-18
+    - 142, LEV 18, DIR: 199, Elvont f (to L3) : 17-18
 
-* 25 : Tue
+  * 25 : Tue
 
-  - 142, LEV 18, DIR: 198, Elvont f (to L3) : 15-16
+    - 142, LEV 18, DIR: 198, Elvont f (to L3) : 15-16
 
-* 24 : Mon
+  * 24 : Mon
 
-  - 142, LEV 18, DIR: 197, Elvont f (to L3) : 13-14
+    - 142, LEV 18, DIR: 197, Elvont f (to L3) : 13-14
 
-* 23 : Sun
+  * 23 : Sun
 
-  - 142, LEV 18, DIR: 196, Elvont f (to L3) : 11-12
+    - 142, LEV 18, DIR: 196, Elvont f (to L3) : 11-12
 
-* 22 : Sat
+  * 22 : Sat
 
-  - 142, LEV 18, DIR: 195, Elvont f (to L3) : 9-10
+    - 142, LEV 18, DIR: 195, Elvont f (to L3) : 9-10
 
-* 21 : Fri
+  * 21 : Fri
 
-  - 142, LEV 18, DIR: 194, Elvont f (to L3) : 7-8
+    - 142, LEV 18, DIR: 194, Elvont f (to L3) : 7-8
 
-* 20 : Thu
+  * 20 : Thu
 
-  - 142, LEV 18, DIR: 193, Elvont f (to L3) : 5-6
+    - 142, LEV 18, DIR: 193, Elvont f (to L3) : 5-6
 
-* 19 : Wed
+  * 19 : Wed
 
-  - 142, LEV 18, DIR: 192, Elvont f (to L3) : 3-4
+    - 142, LEV 18, DIR: 192, Elvont f (to L3) : 3-4
   
-* 18 : Tue
+  * 18 : Tue
 
-  - 142, LEV 18, DIR: 191, Elvont f (to L3) : 1-2
+    - 142, LEV 18, DIR: 191, Elvont f (to L3) : 1-2
 
-* 17 : Mon
+  * 17 : Mon
 
-  - 142, LEV 18, DIR: 190, Mult ido (to L3) : 9-10
+    - 142, LEV 18, DIR: 190, Mult ido (to L3) : 9-10
 
-* 16 : Sun
+  * 16 : Sun
 
-  - 141, LEV 17, DIR: 189, Mult ido (to L3) : 7-8
+    - 141, LEV 17, DIR: 189, Mult ido (to L3) : 7-8
 
-* 15 : Sat
+  * 15 : Sat
 
-  - 141, LEV 17, DIR: 188, Mult ido (to L3) : 5-6
+    - 141, LEV 17, DIR: 188, Mult ido (to L3) : 5-6
 
-* 14 : Fri
+  * 14 : Fri
 
-  - 141, LEV 17, DIR: 187, Mult ido (to L3) : 3-4
+    - 141, LEV 17, DIR: 187, Mult ido (to L3) : 3-4
 
-* 13 : Thu
+  * 13 : Thu
 
-  - 141, LEV 17, DIR: 186, Mult ido (to L3) : 1-2
+    - 141, LEV 17, DIR: 186, Mult ido (to L3) : 1-2
 
-* 12 : Wed
+  * 12 : Wed
 
-  - 140, LEV 17, DIR: 185, FN Igenev (to L3) : 17-18
+    - 140, LEV 17, DIR: 185, FN Igenev (to L3) : 17-18
 
-* 11 : Tue
+  * 11 : Tue
 
-  - 140, LEV 17, DIR: 184, FN Igenev (to L3) : 15-16
+    - 140, LEV 17, DIR: 184, FN Igenev (to L3) : 15-16
 
-* 10 : Mon
+  * 10 : Mon
 
-  - 140, LEV 17, DIR: 183, FN Igenev (to L3) : 13-14
+    - 140, LEV 17, DIR: 183, FN Igenev (to L3) : 13-14
 
-* 09 : Sun
+  * 09 : Sun
 
-  - 140, LEV 17, DIR: 182, FN Igenev (to L3) : 11-12
+    - 140, LEV 17, DIR: 182, FN Igenev (to L3) : 11-12
 
-* 08 : Sat
+  * 08 : Sat
 
-  - 140, LEV 17, DIR: 181, FN Igenev (to L3) : 9-10
+    - 140, LEV 17, DIR: 181, FN Igenev (to L3) : 9-10
 
-* 07 : Fri
+  * 07 : Fri
 
-  - 140, LEV 17, DIR: 180, FN Igenev (to L3) : 7-8
+    - 140, LEV 17, DIR: 180, FN Igenev (to L3) : 7-8
 
-* 06 : Thu
+  * 06 : Thu
 
-  - 140, LEV 17, DIR: 179, FN Igenev (to L3) : 5-6
+    - 140, LEV 17, DIR: 179, FN Igenev (to L3) : 5-6
 
-* 05 : Wed
+  * 05 : Wed
 
-  - 140, LEV 17, DIR: 178, FN Igenev (to L3) : 3-4
+    - 140, LEV 17, DIR: 178, FN Igenev (to L3) : 3-4
 
-* 04 : Tue
+  * 04 : Tue
 
-  - 140, LEV 17, DIR: 177, FN Igenev (to L3) : 1-2
+    - 140, LEV 17, DIR: 177, FN Igenev (to L3) : 1-2
 
 * 03 : Mon
 
