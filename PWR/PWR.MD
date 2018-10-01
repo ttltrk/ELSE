@@ -35,6 +35,24 @@
 
 * SEP
 
+  * 30 : (Sun)
+  
+    + RD
+    
+  * 29 : (Sat)
+  
+    + BE: 1x100kg
+    + MI: 10x60kg
+    
+  * 28 : (Fri)
+  
+    + RD
+    
+  * 27 : (Thu)
+  
+    + SQ: 10x65kg
+    + DL: 1x150kg
+
   * 26 : (Wed)
   
     + condition (walking)
