@@ -35,6 +35,20 @@
 
 * OCT
 
+  * 10 - Wed
+  
+    + SQ: 2x100kg
+    + pull ups
+    + curls
+
+  * 09 - Tue
+  
+    + RD
+
+  * 08 - Mon
+  
+    + RD
+
   * 07 - Sun (7)
   
     + BE: 2x100kg
