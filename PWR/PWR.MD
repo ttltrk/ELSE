@@ -35,6 +35,15 @@
 
 * OCT
 
+  * 12 - Fri
+  
+    + MI: 2x70kg
+    
+  * 11 - Thu
+  
+    + grip
+    + jump rope
+
   * 10 - Wed
   
     + SQ: 2x100kg
