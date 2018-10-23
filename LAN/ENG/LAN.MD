@@ -17,18 +17,58 @@
 
 |F | 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|  | x| x| x| x| x| x| x| x| x| x| x| x| x|  |  | 
+|  | x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| x|RD|RD|RD|RD|RD|RD| x|  |  |  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|13|
-|RD|  |
+|WD|17|
+|RD| 6|
 
 <a href='#NAV'>NAV</a>
 
 * OCT
+
+  * 23 - Tue (DIR: 1)
+  
+    * Duolingo: 145, LEV 18, Fn igenev (to L3) : 7-8
+    
+  * 22 - Mon 
+  
+    * RD
+    
+  * 21 - Sun
+  
+    * RD     
+
+  * 20 - Sat
+  
+    * RD  
+
+  * 19 - Fri
+  
+    * RD
+    
+  * 18 - Thu
+  
+    * RD
+    
+  * 17 - Wed
+  
+    * RD
+    
+  * 16 - Tue (DIR: 219)
+  
+    * Duolingo: 145, LEV 18, Fn igenev (to L3) : 5-6    
+    
+  * 15 - Mon (DIR: 218)
+  
+    * Duolingo: 145, LEV 18, Fn igenev (to L3) : 3-4  
+    
+  * 14 - Tue (DIR: 217)
+  
+    * Duolingo: 145, LEV 18, Fn igenev (to L3) : 1-2    
 
   * 13 - Sat (DIR: 216)
 
