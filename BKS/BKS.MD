@@ -13,7 +13,7 @@
 
   * OCT
   
-    * <a href='leangains_mb'>The leangains method - Martin Berkhan</a>
+    * <a href='#leangains_mb'>The leangains method - Martin Berkhan</a>
 
 ---
 
