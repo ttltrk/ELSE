@@ -19,16 +19,24 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |  | x| x| x| x| x| x| x| x| x| x| x| x| x| x| x| 
 |16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31| 
-| x|RD|RD|RD|RD|RD|RD| x|  |  |  |  |  |  |  |  |
+| x|RD|RD|RD|RD|RD|RD| x| x| x|  |  |  |  |  |  |
 
 |ST|NU|
 |--|--|
-|WD|17|
+|WD|19|
 |RD| 6|
 
 <a href='#NAV'>NAV</a>
 
 * OCT
+
+  * 23 - Tue (DIR: 3)
+  
+    * Duolingo: 145, LEV 18, Fn igenev (to L3) : 11-12
+
+  * 23 - Tue (DIR: 2)
+  
+    * Duolingo: 145, LEV 18, Fn igenev (to L3) : 9-10
 
   * 23 - Tue (DIR: 1)
   
