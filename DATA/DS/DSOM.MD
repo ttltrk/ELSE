@@ -7,7 +7,7 @@
 
 ---
 
-### DataStage manuals
+### DS own manuals
 
 ---
 
