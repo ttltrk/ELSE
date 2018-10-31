@@ -14,7 +14,7 @@
 * <a href='#03'>Information Server backbone</a>
 * <a href='#04'>DataStage architecture</a>
 
-<h4 id='#^'></h4>
+<h4 id='^'></h4>
 
 ---
 
