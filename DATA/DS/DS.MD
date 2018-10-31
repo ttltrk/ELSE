@@ -40,7 +40,7 @@ DataStage 11.5
 - Managed using the Information Server Web Console client
 ```
 
-<h4='03'>Information Server backbone</h4>
+<h4 id='03'>Information Server backbone</h4>
 
 ```
 - Information Services Director
