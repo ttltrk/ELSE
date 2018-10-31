@@ -14,6 +14,8 @@
 * <a href='#03'>Information Server backbone</a>
 * <a href='#04'>DataStage architecture</a>
 
+<h4 id='#^'></h4>
+
 ---
 
 <h4 id='01'>IBM InfoSphere DataStage</h4>
@@ -27,6 +29,10 @@
 - Create batch (controlling) jobs
     - Called job sequence
 ```
+
+<a href='#^'>^^^</a>
+
+---
 
 <h4 id='02'>Information Server</h4>
 
@@ -43,6 +49,10 @@
         - Metadata management
 - Managed using the Information Server Web Console client
 ```
+
+<a href='#^'>^^^</a>
+
+---
 
 <h4 id='03'>Information Server backbone</h4>
 
@@ -63,6 +73,10 @@
 
 ```
 
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='04'>DataStage architecture</h4>
 
 ```
@@ -78,4 +92,7 @@
     - Runs server jobs
     - Runs job sequences
 ```
+
+<a href='#^'>^^^</a>
+
 ---
