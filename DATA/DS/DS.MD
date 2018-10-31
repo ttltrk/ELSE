@@ -17,6 +17,7 @@
 * <a href='#02'>Information Server</a>
 * <a href='#03'>Information Server backbone</a>
 * <a href='#04'>DataStage architecture</a>
+* <a href='#05'>DataStage Administrator</a>
 
 ---
 
