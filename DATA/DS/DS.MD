@@ -7,6 +7,8 @@ DataStage 11.5
 
 * <a href='#01'>IBM InfoSphere DataStage</a>
 * <a href='#02'>Information Server</a>
+* <a href='#03'>Information Server backbone</a>
+* <a href='#04'>DataStage architecture</a>
 
 ---
 
@@ -38,4 +40,38 @@ DataStage 11.5
 - Managed using the Information Server Web Console client
 ```
 
+<h4='03'>Information Server backbone</h4>
+
+```
+- Information Services Director
+- Information Governance Catalog
+- Information Analyzer
+- FastTrack
+- DataStage / QualityStage
+- DataClick
+
+- MetaData Server
+    - Metadata Access Services
+    - Metadata Analysis Services
+    
+- Information Server Web Console
+- Repository
+
+```
+
+<h4 id='04'>DataStage architecture</h4>
+
+```
+- DataStage clients
+  - Administrator
+  - Designer
+  - Director
+  
+- DataStage engines
+  - Parallel engine
+    - Runs Parallel jobs
+  - Server engine
+    - Runs server jobs
+    - Runs job sequences
+```
 ---
