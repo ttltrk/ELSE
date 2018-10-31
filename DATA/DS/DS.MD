@@ -93,6 +93,12 @@
     - Runs job sequences
 ```
 
+```
+Administrator - Configures DataStage projects and specifies DataStage user roles.
+Designer - Creates DataStage jobs that are compiled into executable programs.
+Director - Used to run and monitor the DataStage jobs, although this can also be done in Designer.
+```
+
 <a href='#^'>^^^</a>
 
 ---
