@@ -19,6 +19,7 @@
 * <a href='#04'>DataStage architecture</a>
 * <a href='#05'>DataStage Administrator</a>
 * <a href='#06'>DataStage Designer</a>
+* <a href='#07'>DataStage Director</a>
 
 ---
 
@@ -133,3 +134,17 @@ SQL specified in the DB2 Connector stage.
 <a href='#^'>^^^</a>
 
 ---
+
+<h4 id='07'>DataStage Director</h4>
+
+```
+As your job runs, messages are written to the log. These messages display information
+about errors and warnings, information about the environment in which the job is
+running, statistics about the numbers of rows processed by various stages, and much
+more.
+```
+
+<a href='#^'>^^^</a>
+
+---
+
