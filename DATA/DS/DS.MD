@@ -18,6 +18,7 @@
 * <a href='#03'>Information Server backbone</a>
 * <a href='#04'>DataStage architecture</a>
 * <a href='#05'>DataStage Administrator</a>
+* <a href='#06'>DataStage Designer</a>
 
 ---
 
@@ -100,6 +101,33 @@
 Administrator - Configures DataStage projects and specifies DataStage user roles.
 Designer - Creates DataStage jobs that are compiled into executable programs.
 Director - Used to run and monitor the DataStage jobs, although this can also be done in Designer.
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='05'>DataStage Administrator</h4>
+
+```
+Use the Administrator client to specify general server defaults, to add and delete
+projects, and to set project defaults and properties.
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='06'>DataStage Designer</h4>
+
+```
+DataStage Designer is where you build your ETL (Extraction, Transformation, Load)
+jobs. You build a job by dragging stages from the Palette (lower left corner) to the
+canvas. You draw links between the stages to specify the flow of data. In this example,
+a Sequential File stage is used to read data from a sequential file. The data flows into a
+Transformer stage where various transformations are performed. Then the data is
+written out to target DB2 tables based on constraints defined in the Transformer and
+SQL specified in the DB2 Connector stage.
 ```
 
 <a href='#^'>^^^</a>
