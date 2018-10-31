@@ -5,7 +5,12 @@ DataStage 11.5
 
 ---
 
+* <a href='#01'>IBM InfoSphere DataStage</a>
+* <a href='#02'>Information Server</a>
+
 ---
+
+<h4 id='01'>IBM InfoSphere DataStage</h4>
 
 ```
 - Design jobs for Extraction, Transformation, and Loading (ETL)
@@ -15,6 +20,22 @@ DataStage 11.5
 - Administer your DataStage development and execution environments
 - Create batch (controlling) jobs
     - Called job sequence
+```
+
+<h4 id='02'>Information Server</h4>
+
+```
+- Suite of applications, including DataStage, that share a common:
+    - Repository
+    - Set of application services and functionality
+      - Provided by the Metadata Server component
+        - By default an application named “server1”, hosted by an IBM WebSphere Application Server (WAS) instance
+      - Provided services include:
+        - Security
+        - Repository
+        - Logging and reporting
+        - Metadata management
+- Managed using the Information Server Web Console client
 ```
 
 ---
