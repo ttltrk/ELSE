@@ -9,7 +9,7 @@
 
 ---
 
-* [own manuals]()
+* [own manuals](https://github.com/ttltrk/ELSE/blob/master/DATA/DS/DSOM.MD)
 * [courses]()
 * [apps]()
 
