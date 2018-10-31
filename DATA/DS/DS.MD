@@ -9,12 +9,12 @@
 
 ---
 
+<h4 id='^'></h4>
+
 * <a href='#01'>IBM InfoSphere DataStage</a>
 * <a href='#02'>Information Server</a>
 * <a href='#03'>Information Server backbone</a>
 * <a href='#04'>DataStage architecture</a>
-
-<h4 id='^'></h4>
 
 ---
 
