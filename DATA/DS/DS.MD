@@ -13,7 +13,7 @@
 
 <h4 id='^'></h4>
 
-Introduction to DataStage
+1 - Introduction to DataStage
 
 * <a href='#01'>IBM InfoSphere DataStage</a>
 * <a href='#02'>Information Server</a>
@@ -33,7 +33,7 @@ Introduction to DataStage
 
 ---
 
-Deployment
+2 - Deployment
 
 * <a href='#16'>Information Server</a>
 * <a href='#17'>Everything on one machine</a>
@@ -48,7 +48,51 @@ Deployment
 
 ---
 
-Introduction to DataStage
+3 - Datastage Administration
+
+---
+
+4 - Work with metadata
+
+---
+
+5 - Create parallel jobs
+
+---
+
+6 - Access sequential data
+
+---
+
+7 - Partitioning and collecting algorithms
+
+---
+
+8 - Combine data
+
+---
+
+9 - Group processing stages
+
+---
+
+10 - Transformer stage
+
+---
+
+11 - Repository functions
+
+---
+
+12 - Work with relational data
+
+---
+
+13 - Job control
+
+---
+
+1 - Introduction to DataStage
 
 <h4 id='01'>IBM InfoSphere DataStage</h4>
 
@@ -281,7 +325,7 @@ Data -- subset1 -- Stage -- Node1
 
 ---
 
-Deployment
+2 - Deployment
 
 <h4 id='16'>Information Server</h4>
 
