@@ -13,6 +13,8 @@
 
 <h4 id='^'></h4>
 
+Introduction to DataStage
+
 * <a href='#01'>IBM InfoSphere DataStage</a>
 * <a href='#02'>Information Server</a>
 * <a href='#03'>Information Server backbone</a>
@@ -23,8 +25,20 @@
 * <a href='#08'>Developing in DataStage</a>
 * <a href='#09'>DataStage project repository</a>
 * <a href='#10'>Type of DataStage jobs</a>
+* <a href='#11'>Design elements of parallel jobs</a>
+* <a href='#12'>Pipeline parallelism</a>
+* <a href='#13'>Patrition parallelism</a>
+* <a href='#14'>Three-node partitioning</a>
+* <a href='#15'>Job design vs execution</a>
+* <a href='#16'>Configuration file</a>
 
 ---
+
+Deployment
+
+---
+
+Introduction to DataStage
 
 <h4 id='01'>IBM InfoSphere DataStage</h4>
 
@@ -39,8 +53,6 @@
 ```
 
 <a href='#^'>^^^</a>
-
----
 
 <h4 id='02'>Information Server</h4>
 
@@ -59,8 +71,6 @@
 ```
 
 <a href='#^'>^^^</a>
-
----
 
 <h4 id='03'>Information Server backbone</h4>
 
@@ -82,8 +92,6 @@
 ```
 
 <a href='#^'>^^^</a>
-
----
 
 <h4 id='04'>DataStage architecture</h4>
 
@@ -109,8 +117,6 @@ Director - Used to run and monitor the DataStage jobs, although this can also be
 
 <a href='#^'>^^^</a>
 
----
-
 <h4 id='05'>DataStage Administrator</h4>
 
 ```
@@ -119,8 +125,6 @@ projects, and to set project defaults and properties.
 ```
 
 <a href='#^'>^^^</a>
-
----
 
 <h4 id='06'>DataStage Designer</h4>
 
@@ -136,8 +140,6 @@ SQL specified in the DB2 Connector stage.
 
 <a href='#^'>^^^</a>
 
----
-
 <h4 id='07'>DataStage Director</h4>
 
 ```
@@ -148,8 +150,6 @@ more.
 ```
 
 <a href='#^'>^^^</a>
-
----
 
 <h4 id='08'>Developing in DataStage</h4>
 
@@ -163,8 +163,6 @@ more.
 
 <a href='#^'>^^^</a>
 
----
-
 <h4 id='09'>DataStage project repository</h4>
 
 ```
@@ -173,8 +171,6 @@ some general administration, you must open (attach to) a project.
 ```
 
 <a href='#^'>^^^</a>
-
----
 
 <h4 id='10'>Type of DataStage jobs</h4>
 
@@ -194,8 +190,6 @@ some general administration, you must open (attach to) a project.
 ```
 
 <a href='#^'>^^^</a>
-
----
 
 <h4 id='11'>Design elements of parallel jobs</h4>
 
@@ -220,13 +214,19 @@ some general administration, you must open (attach to) a project.
 
 <a href='#^'>^^^</a>
 
----
+<h4 id='12'>Pipeline parallelism</h4>
 
-<h4 id=''></h4>
+```
+- Transform, Enrich, Load stages execute in parallel
+- Like a conveyor belt moving rows from stage to stage
+  - Run downstream stages while upstream stages are running
+- Advantages
+  - Reduces disk usage for staging areas
+  - Keeps processors busy
+- Has limit on scalability
+```
 
 <a href='#^'>^^^</a>
-
----
 
 <h4 id=''></h4>
 
