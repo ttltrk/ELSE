@@ -20,6 +20,9 @@
 * <a href='#05'>DataStage Administrator</a>
 * <a href='#06'>DataStage Designer</a>
 * <a href='#07'>DataStage Director</a>
+* <a href='#08'>Developing in DataStage</a>
+* <a href='#09'>DataStage project repository</a>
+* <a href='#10'>Type of DataStage jobs</a>
 
 ---
 
@@ -148,3 +151,109 @@ more.
 
 ---
 
+<h4 id='08'>Developing in DataStage</h4>
+
+```
+- Define global and project properties in Administrator
+- Import metadata into the Repository
+- Build job in designer
+- Compile job in designer
+- Run the job
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='09'>DataStage project repository</h4>
+
+```
+All your work is stored in a DataStage project. Before you can do anything, other than
+some general administration, you must open (attach to) a project.
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='10'>Type of DataStage jobs</h4>
+
+```
+- Parallel jobs
+  - executed by the DS parallel engine
+  - compiled int OSH
+
+- Server jobs
+  - executed by the DS server engine
+  - use a different set of stages than parallel jobs
+  - runtime monitoring in the job log
+  
+- Job sequences
+  - a server job that runs and controls jobs and other activities
+  - can run both parallel jobs and other job sequences
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='11'>Design elements of parallel jobs</h4>
+
+```
+- Stages
+
+  - Passive stages (E and L of ETL)
+    - Read data
+    - Write data
+    - Examples: Sequential file, DB2, Oracle, Peek stages
+
+  - Processor (active) stages (T of ETL)
+    - Transform data (transformer stage)
+    - Filter data (transformer stage)
+    - Aggregate data (Aggregator stage)
+    - Generate data (Row Generator stage)
+    - Merge data (Join, Lookup stages)
+    
+- Links
+  - Pipes through which the data moves from stage-to-stage
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id=''></h4>
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id=''></h4>
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id=''></h4>
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id=''></h4>
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id=''></h4>
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id=''></h4>
+
+<a href='#^'>^^^</a>
+
+---
