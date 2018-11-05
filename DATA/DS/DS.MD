@@ -29,8 +29,7 @@ Introduction to DataStage
 * <a href='#12'>Pipeline parallelism</a>
 * <a href='#13'>Patrition parallelism</a>
 * <a href='#14'>Three-node partitioning</a>
-* <a href='#15'>Job design vs execution</a>
-* <a href='#16'>Configuration file</a>
+* <a href='#15'>Configuration file</a>
 
 ---
 
@@ -228,19 +227,46 @@ some general administration, you must open (attach to) a project.
 
 <a href='#^'>^^^</a>
 
-<h4 id=''></h4>
+<h4 id='13'>Partition parallelism</h4>
+
+```
+- Divide the incoming stream of data into subsets to be separately processed by an operation
+- Each partition of data is processed by copies the same stage
+- Facilitates near-linear scalability
+```
+
+```
+Partitioning breaks a stream of data into smaller subsets. This is a key to scalability.
+```
 
 <a href='#^'>^^^</a>
 
 ---
 
-<h4 id=''></h4>
+<h4 id='14'>Three-node partitioning</h4>
+
+```
+Data -- subset1 -- Stage -- Node1
+     -- subset2 -- Stage -- Node2
+     -- subset3 -- Stage -- Node3
+```
+
+```
+- here the data split into three partitions (nodes)
+- the stage is executed on each partition of data separately and in parallel
+- if the data is evenly distributed, the data will be processed three times faster
+```
 
 <a href='#^'>^^^</a>
 
----
+<h4 id='15'>Configuration file</h4>
 
-<h4 id=''></h4>
+```
+- Determines the degree of parallelism (numbers of partitions) of jobs that use it
+- Every job runs under a configure file
+- Each DS project has a default configuration file
+  - Specified by the $APT_CONFIG_FILE job parameter
+```
 
 <a href='#^'>^^^</a>
 
