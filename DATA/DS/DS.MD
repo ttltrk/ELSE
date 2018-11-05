@@ -252,8 +252,6 @@ Partitioning breaks a stream of data into smaller subsets. This is a key to scal
 
 <a href='#^'>^^^</a>
 
----
-
 <h4 id='14'>Three-node partitioning</h4>
 
 ```
@@ -327,18 +325,26 @@ An Information Server domain, consisting of the following:
 
 <a href='#^'>^^^</a>
 
-<h4 id=''></h4>
+<h4 id='19'>Metadata Server and DB2 on separate machines</h4>
 
 ```
-
+- IS components all on separate systems
+  - DS Server 
+  - Metadata Server (WAS)
+  - XMETA Repository
 ```
 
 <a href='#^'>^^^</a>
 
-<h4 id=''></h4>
+<h4 id='20'>Information Server start-up</h4>
 
 ```
-
+- Starting the Metadata Server (WAS) on Windows
+- Starting the Metadata Server on Unix platforms
+- By default, the startup services are configured to run automatically upon system startup
+- To begin work in DS, double-click on a DS client icon, and then log in
+- To begin work in the Information Server Web Console, open a web browser, enter the address of the services (WAS) system,
+and then log in
 ```
 
 <a href='#^'>^^^</a>
