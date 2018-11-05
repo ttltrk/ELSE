@@ -35,6 +35,17 @@ Introduction to DataStage
 
 Deployment
 
+* <a href='#16'>Information Server</a>
+* <a href='#17'>Everything on one machine</a>
+* <a href='#18'>DataStage on a separate machine</a>
+* <a href='#'></a>
+* <a href='#'></a>
+* <a href='#'></a>
+* <a href='#'></a>
+* <a href='#'></a>
+* <a href='#'></a>
+* <a href='#'></a>
+
 ---
 
 Introduction to DataStage
@@ -272,13 +283,119 @@ Data -- subset1 -- Stage -- Node1
 
 ---
 
-<h4 id=''></h4>
+Deployment
+
+<h4 id='16'>Information Server</h4>
+
+```
+An Information Server domain, consisting of the following:
+
+  - Metadata Server Backbone, hosted by an IBM WebSphere Application Server (WAS) instance
+  - One or more DS servers
+    - Can be on the same system or on separate systems
+  - One database manager instance containing the Repository database (XMETA)
+  - Information Server clients
+    - Web Console
+    - DS clients
+  - Additional Information Server products
+    - Information Analyzer, Information Governance Catalog
+    - QualityStage (part of DataStage), Data Click, FastTrack
+```
 
 <a href='#^'>^^^</a>
 
----
+<h4 id='17'>Everything on one machine</h4>
+
+```
+- All information Server components on one system
+  - DS server
+  - Netadata Server backbone (WAS)
+  - XMETA Repository 
+  - Clients
+- Additional client workstations can connect to this machine
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id='18'>DataStage on a separate machine</h4>
+
+```
+- IS components on multiple systems
+  - DataStage servers
+  - Metadata server WAS and XMETA repository
+```
+
+<a href='#^'>^^^</a>
 
 <h4 id=''></h4>
+
+```
+
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id=''></h4>
+
+```
+
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id=''></h4>
+
+```
+
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id=''></h4>
+
+```
+
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id=''></h4>
+
+```
+
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id=''></h4>
+
+```
+
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id=''></h4>
+
+```
+
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id=''></h4>
+
+```
+
+```
+
+<a href='#^'>^^^</a>
+
+<h4 id=''></h4>
+
+```
+
+```
 
 <a href='#^'>^^^</a>
 
