@@ -47,7 +47,7 @@ Simple Present Indicative
 | Third Person	| He/she/it writes | They write |
 
 
-
+Simple Present Negative
 
 |P              | Singular	       | Plural     |
 |---------------|------------------|------------|
@@ -61,11 +61,44 @@ Simple Present Indicative
 
 <h4 id='presentcontinues'>Present Continues</h4>
 
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
 <a href='#^'>^^^</a>
 
 ---
 
 <h4 id='presentperfect'>Present Perfect</h4>
+
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
 
 <a href='#^'>^^^</a>
 
@@ -73,11 +106,44 @@ Simple Present Indicative
 
 <h4 id='presentperfectcontinues'>Present Perfect Continues</h4>
 
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
 <a href='#^'>^^^</a>
 
 ---
 
 <h4 id='simplepast'>Simple Past</h4>
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
 
 <a href='#^'>^^^</a>
 
@@ -85,11 +151,44 @@ Simple Present Indicative
 
 <h4 id='pastcontinues'>Past Continues</h4>
 
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
 <a href='#^'>^^^</a>
 
 ---
 
 <h4 id='pastperfect'>Past Perfect</h4>
+
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
 
 <a href='#^'>^^^</a>
 
@@ -97,11 +196,45 @@ Simple Present Indicative
 
 <h4 id='pastperfectcontinues'>Past Perfect Continues</h4>
 
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
 <a href='#^'>^^^</a>
 
 ---
 
 <h4 id='simplefuture'>Simple Future</h4>
+
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
 
 <a href='#^'>^^^</a>
 
@@ -109,17 +242,67 @@ Simple Present Indicative
 
 <h4 id='futurecontinues'>Future Continues</h4>
 
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
 <a href='#^'>^^^</a>
 
 ---
 
 <h4 id='futureperfect'>Future Perfect</h4>
 
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
 <a href='#^'>^^^</a>
 
 ---
 
 <h4 id='futureperfectcontinues'>Future Perfect Continues</h4>
+
+
+Indicative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
+
+Negative
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
 
 <a href='#^'>^^^</a>
 
