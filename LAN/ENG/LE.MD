@@ -37,18 +37,73 @@
 ---
 
 <h4 id='simplepresent'>Simple Present</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='presentcontinues'>Present Continues</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='presentperfect'>Present Perfect</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='presentperfectcontinues'>Present Perfect Continues</h4>
 
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='simplepast'>Simple Past</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='pastcontinues'>Past Continues</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='pastperfect'>Past Perfect</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='pastperfectcontinues'>Past Perfect Continues</h4>
 
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='simplefuture'>Simple Future</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='futurecontinues'>Future Continues</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='futureperfect'>Future Perfect</h4>
+
+<a href='#^'>^^^</a>
+
+---
+
 <h4 id='futureperfectcontinues'>Future Perfect Continues</h4>
+
+<a href='#^'>^^^</a>
 
 ---
