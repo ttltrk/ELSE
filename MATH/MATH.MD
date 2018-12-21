@@ -26,31 +26,31 @@
 
 ---
 
-<h4 id=''>Geometria</h4>
+<h4 id='geom'>Geometria</h4>
 
 <a href='#^'>^^^</a>
 
 ---
 
-<h4 id=''>Trigonometria</h4>
+<h4 id='trigo'>Trigonometria</h4>
 
 <a href='#^'>^^^</a>
 
 ---
 
-<h4 id=''>Algebra</h4>
+<h4 id='alge'>Algebra</h4>
 
 <a href='#^'>^^^</a>
 
 ---
 
-<h4 id=''>Statisztika</h4>
+<h4 id='stat'>Statisztika</h4>
 
 <a href='#^'>^^^</a>
 
 ---
 
-<h4 id=''>Valoszinusegszamitas</h4>
+<h4 id='valsz'>Valoszinusegszamitas</h4>
 
 <a href='#^'>^^^</a>
 
