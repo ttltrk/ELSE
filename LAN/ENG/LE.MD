@@ -38,13 +38,6 @@
 
 <h4 id='simplepresent'>Simple Present</h4>
 
-
-|---------------|-----------------------------|
-| All Persons   | I/You/We/They write         |
-| Third Person	| He/she/it writes            |
-| All Persons   | I/You/We/They do not write  |
-| Third Person	| He/she/it does not write    |
-
 Simple Present 
 
 |P              | Singular	       | Plural     |
@@ -153,7 +146,7 @@ Negative
 
 <h4 id='simplepast'>Simple Past</h4>
 
-Indicative
+Simple Past
 
 |P              | Singular	       | Plural      |
 |---------------|------------------|-------------|
@@ -161,13 +154,29 @@ Indicative
 | Second Person	| You worked	     | You worked  | 
 | Third Person	| He/she/it worked | They worked |
 
-Negative
+N Simple Past
 
 |P              | Singular	            | Plural           |
 |---------------|-----------------------|------------------|
 | First Person	| I didn't work         | We didn't work   |
 | Second Person	| You didn't work	      | You didn't work  | 
 | Third Person	| He/she/it didn't work | They didn't work |
+
+Q Simple Past
+
+|P              | Singular	          | Plural         |
+|---------------|---------------------|----------------|
+| First Person	| Did I work?         | Did We work?   |
+| Second Person	| Did You work?	      | Did You work?  | 
+| Third Person	| Did He/she/it work? | Did They work? |
+
+NQ Simple Past
+
+|P              | Singular	          | Plural         |
+|---------------|---------------------|----------------|
+| First Person	| Did not I work?         | Did not We work?   |
+| Second Person	| Did not You work?	      | Did not You work?  | 
+| Third Person	| Did not He/she/it work? | Did not They work? |
 
 <a href='#^'>^^^</a>
 
