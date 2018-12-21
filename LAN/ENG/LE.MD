@@ -44,7 +44,7 @@ Simple Present Indicative
 |---------------|------------------|------------|
 | First Person	| I write	         | We write   |
 | Second Person	| You write	       | You write  | 
-| Third Person	| He/she/it writes | They write |
+| Third Person	| He/she/it write**s** | They write |
 
 
 Simple Present Negative
