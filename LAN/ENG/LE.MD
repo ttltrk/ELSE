@@ -38,6 +38,19 @@
 
 <h4 id='simplepresent'>Simple Present</h4>
 
+Simple Present Indicative
+
+              | Singular	       | Plural     |
+--------------|------------------|------------|
+First Person	| I write	         | We write   |
+Second Person	| You write	       | You write  | 
+Third Person	| He/she/it writes | They write |
+
+              Singular	        Plural
+First Person	I write	          We write
+Second Person	You write	        You write
+Third Person	He/she/it writes	They write
+
 <a href='#^'>^^^</a>
 
 ---
