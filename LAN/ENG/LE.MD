@@ -17,19 +17,19 @@
 
 <h3 id='tenses'>Tenses</h3>
 
-<a href='#simplepresent'>Simple Present</a>
-<a href='#presentcontinues'>Present Continues</a>
-<a href='#presentperfect'>Present Perfect</a>
+<a href='#simplepresent'>Simple Present</a><br>
+<a href='#presentcontinues'>Present Continues</a><br>
+<a href='#presentperfect'>Present Perfect</a><br>
 <a href='#presentperfectcontinues'>Present Perfect Continues</a><br>
 
-<a href='#simplepast'>Simple Past</a>
-<a href='#pastcontinues'>Past Continues</a>
-<a href='#pastperfect'>Past Perfect</a>
+<a href='#simplepast'>Simple Past</a><br>
+<a href='#pastcontinues'>Past Continues</a><br>
+<a href='#pastperfect'>Past Perfect</a><br>
 <a href='#pastperfectcontinues'>Past Perfect Continues</a><br>
 
-<a href='#simplefuture'>Simple Future</a>
-<a href='#futurecontinues'>Future Continues</a>
-<a href='#futureperfect'>Future Perfect</a>
+<a href='#simplefuture'>Simple Future</a><br>
+<a href='#futurecontinues'>Future Continues</a><br>
+<a href='#futureperfect'>Future Perfect</a><br>
 <a href='#futureperfectcontinues'>Future Perfect Continues</a>
 
 <a href='#^'>^^^</a>
