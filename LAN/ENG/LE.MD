@@ -38,6 +38,11 @@
 
 <h4 id='simplepresent'>Simple Present</h4>
 
+|               |                     |
+|---------------|---------------------|
+| All Persons   | I/You/We/They write |
+| Third Person	| He/she/it writes    |
+
 Simple Present 
 
 |P              | Singular	       | Plural     |
