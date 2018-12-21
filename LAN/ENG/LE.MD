@@ -172,8 +172,8 @@ Q Simple Past
 
 NQ Simple Past
 
-|P              | Singular	          | Plural         |
-|---------------|---------------------|----------------|
+|P              | Singular	              | Plural             |
+|---------------|-------------------------|--------------------|
 | First Person	| Did not I work?         | Did not We work?   |
 | Second Person	| Did not You work?	      | Did not You work?  | 
 | Third Person	| Did not He/she/it work? | Did not They work? |
@@ -253,15 +253,15 @@ Negative
 <h4 id='simplefuture'>Simple Future</h4>
 
 
-Indicative
+Simple Future
 
-|P              | Singular	       | Plural     |
-|---------------|------------------|------------|
-| First Person	|                  |            |
-| Second Person	| 	               |            | 
-| Third Person	|                  |            |
+|P              | Singular	           | Plural     |
+|---------------|----------------------|------------|
+| First Person	| I will work.         |            |
+| Second Person	| You will work.       |            | 
+| Third Person	| He/she/it will work. |            |
 
-Negative
+N Simple Future
 
 |P              | Singular	       | Plural     |
 |---------------|------------------|------------|
