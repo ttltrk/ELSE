@@ -9,12 +9,12 @@
 
 ---
 
-* <a href='#'>01</a>
-* <a href='#'>02</a>
-* <a href='#'>03</a>
-* <a href='#'>04</a>
-* <a href='#'>05</a>
-* <a href='#'>06</a>
-* <a href='#'>07</a>
+<a href='#'>Szamok</a><br>
+<a href='#'>Geometria</a><br>
+<a href='#'>Trigonometria</a><br>
+<a href='#'>Algebra</a><br>
+<a href='#'>Statisztika</a><br>
+<a href='#'>Valoszinusegszamitas</a>
+
 
 ---
