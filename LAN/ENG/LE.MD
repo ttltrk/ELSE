@@ -38,7 +38,7 @@
 
 <h4 id='simplepresent'>Simple Present</h4>
 
-Simple Present Indicative
+Simple Present 
 
 |P              | Singular	       | Plural     |
 |---------------|------------------|------------|
@@ -47,13 +47,30 @@ Simple Present Indicative
 | Third Person	| He/she/it writes | They write |
 
 
-Simple Present Negative
+N Simple Present 
 
 |P              | Singular	               | Plural            |
 |---------------|--------------------------|-------------------|
 | First Person	| I do not write	         | We do not write   |
 | Second Person	| You do not write	       | You do not write  | 
 | Third Person	| He/she/it does not write | They do not write |
+
+Q Simple Present 
+
+|P              | Singular	            | Plural         |
+|---------------|-----------------------|----------------|
+| First Person	| Do I write?	          | Do We write?   |
+| Second Person	| Do You write?	        | Do You write?  | 
+| Third Person	| Does He/she/it write? | Do They write? |
+
+
+NQ Simple Present 
+
+|P              | Singular	                | Plural             |
+|---------------|---------------------------|--------------------|
+| First Person	| Do not I write?	          | Do not We write?   |
+| Second Person	| Do not You write?	        | Do not You write?  | 
+| Third Person	| Does not He/she/it write? | Do not They write? |
 
 <a href='#^'>^^^</a>
 
