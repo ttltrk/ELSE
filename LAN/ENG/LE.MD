@@ -17,20 +17,20 @@
 
 <h3 id='tenses'>Tenses</h3>
 
-* <a href='#simplepresent'>Simple Present</a>
-* <a href='#presentcontinues'>Present Continues</a>
-* <a href='#presentperfect'>Present Perfect</a>
-* <a href='#presentperfectcontinues'>Present Perfect Continues</a><br>
+<a href='#simplepresent'>Simple Present</a>
+<a href='#presentcontinues'>Present Continues</a>
+<a href='#presentperfect'>Present Perfect</a>
+<a href='#presentperfectcontinues'>Present Perfect Continues</a><br>
 
-* <a href='#simplepast'>Simple Past</a>
-* <a href='#pastcontinues'>Past Continues</a>
-* <a href='#pastperfect'>Past Perfect</a>
-* <a href='#pastperfectcontinues'>Past Perfect Continues</a><br>
+<a href='#simplepast'>Simple Past</a>
+<a href='#pastcontinues'>Past Continues</a>
+<a href='#pastperfect'>Past Perfect</a>
+<a href='#pastperfectcontinues'>Past Perfect Continues</a><br>
 
-* <a href='#simplefuture'>Simple Future</a>
-* <a href='#futurecontinues'>Future Continues</a>
-* <a href='#futureperfect'>Future Perfect</a>
-* <a href='#futureperfectcontinues'>Future Perfect Continues</a>
+<a href='#simplefuture'>Simple Future</a>
+<a href='#futurecontinues'>Future Continues</a>
+<a href='#futureperfect'>Future Perfect</a>
+<a href='#futureperfectcontinues'>Future Perfect Continues</a>
 
 <a href='#^'>^^^</a>
 
