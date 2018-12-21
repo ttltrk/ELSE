@@ -46,10 +46,14 @@ Simple Present Indicative
 | Second Person	| You write	       | You write  | 
 | Third Person	| He/she/it writes | They write |
 
-              Singular	        Plural
-First Person	I write	          We write
-Second Person	You write	        You write
-Third Person	He/she/it writes	They write
+
+
+
+|P              | Singular	       | Plural     |
+|---------------|------------------|------------|
+| First Person	|                  |            |
+| Second Person	| 	               |            | 
+| Third Person	|                  |            |
 
 <a href='#^'>^^^</a>
 
