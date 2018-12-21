@@ -44,16 +44,16 @@ Simple Present Indicative
 |---------------|------------------|------------|
 | First Person	| I write	         | We write   |
 | Second Person	| You write	       | You write  | 
-| Third Person	| He/she/it write**s** | They write |
+| Third Person	| He/she/it writes | They write |
 
 
 Simple Present Negative
 
-|P              | Singular	       | Plural     |
-|---------------|------------------|------------|
-| First Person	|                  |            |
-| Second Person	| 	               |            | 
-| Third Person	|                  |            |
+|P              | Singular	               | Plural            |
+|---------------|--------------------------|-------------------|
+| First Person	| I do not write	         | We do not write   |
+| Second Person	| You do not write	       | You do not write  | 
+| Third Person	| He/she/it does not write | They do not write |
 
 <a href='#^'>^^^</a>
 
