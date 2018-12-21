@@ -131,19 +131,19 @@ Negative
 
 Indicative
 
-|P              | Singular	       | Plural     |
-|---------------|------------------|------------|
-| First Person	|                  |            |
-| Second Person	| 	               |            | 
-| Third Person	|                  |            |
+|P              | Singular	       | Plural      |
+|---------------|------------------|-------------|
+| First Person	| I worked         | We worked   |
+| Second Person	| You worked	     | You worked  | 
+| Third Person	| He/she/it worked | They worked |
 
 Negative
 
-|P              | Singular	       | Plural     |
-|---------------|------------------|------------|
-| First Person	|                  |            |
-| Second Person	| 	               |            | 
-| Third Person	|                  |            |
+|P              | Singular	            | Plural           |
+|---------------|-----------------------|------------------|
+| First Person	| I didn't work         | We didn't work   |
+| Second Person	| You didn't work	      | You didn't work  | 
+| Third Person	| He/she/it didn't work | They didn't work |
 
 <a href='#^'>^^^</a>
 
