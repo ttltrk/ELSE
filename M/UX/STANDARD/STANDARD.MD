@@ -64,6 +64,12 @@ ttltrk-mbp:TEST attilatorok$ cat -n test3.txt
      4	negyedik sor es
      5	az utolso otodik sor
 ttltrk-mbp:TEST attilatorok$ 
+
+--a harmadik sortol irja ki megszamozva a file tartalmat
+ttltrk-mbp:TEST attilatorok$ cat -n test3.txt | more +3
+     3  harmadik sor
+     4  negyedik sor es
+     5  az utolso otodik sor
 ```
 
 ```
