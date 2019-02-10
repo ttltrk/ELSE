@@ -70,6 +70,32 @@ ttltrk-mbp:TEST attilatorok$ cat -n test3.txt | more +3
      3  harmadik sor
      4  negyedik sor es
      5  az utolso otodik sor
+     
+--fileok tartalmat osszefuzi
+ttltrk-mbp:TEST attilatorok$ cat t1.txt
+t1 - elso sora
+ttltrk-mbp:TEST attilatorok$ cat t2.txt
+t2 - elso sora
+t2 - masodik sora
+ttltrk-mbp:TEST attilatorok$ cat t3.txt
+:
+ttltrk-mbp:TEST attilatorok$ cat t1.txt t2.txt > t3.txt
+ttltrk-mbp:TEST attilatorok$ cat t3.txt
+t1 - elso sora
+t2 - elso sora
+t2 - masodik sora
+ttltrk-mbp:TEST attilatorok$ 
+```
+
+```
+head
+
+--elso harom sor kiiratasa
+ttltrk-mbp:TEST attilatorok$ head -3 test3.txt
+elso sor
+masodik sor
+harmadik sor
+ttltrk-mbp:TEST attilatorok$ 
 ```
 
 ```
