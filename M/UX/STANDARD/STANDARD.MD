@@ -30,111 +30,6 @@
 
 ---
 
-<h4 id='history'>history</h4>
-
-```
-history
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='less'>less</h4>
-
-```
-less +<line_num> -N <file_name>
-
-less +320 -N code.sh
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='ps'>ps</h4>
-
-```
-ps -ef | grep file_name
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='nohup'>nohup</h4>
-
-```
-nohup /path/path/code.sh &
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='cp'>cp</h4>
-
-```
-cp file path
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='mv'>mv</h4>
-
-```
-mv file path 
-mv name new_name
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='unzip'>unzip</h4>
-
-```
-unzip file_name
-unzip -l file_name
-gunzip file_name
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='chmod'>chmod</h4>
-
-```
-chmod 777 file_dir
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='chown'>chown</h4>
-
-```
-chown user:group file_name
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h4 id='chgrp'>chgrp</h4>
-
-```
-chgrp groupname file_name
-```
-
-<a href='#^'>^^^</a>
-
----
-
 <h4 id='cat'>cat</h4>
 
 ```
@@ -185,64 +80,64 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='head'>head</h4>
+<h4 id='chgrp'>chgrp</h4>
 
 ```
---elso harom sor kiiratasa
-ttltrk-mbp:TEST attilatorok$ head -3 test3.txt
-elso sor
-masodik sor
-harmadik sor
-ttltrk-mbp:TEST attilatorok$ 
+chgrp groupname file_name
 ```
 
 <a href='#^'>^^^</a>
 
 ---
 
-<h4 id='more'>more</h4>
+<h4 id='chmod'>chmod</h4>
 
 ```
---file tartalmat kiirja
-ttltrk-mbp:TEST attilatorok$ more test3.txt
-elso sor
-masodik sor
-harmadik sor
-negyedik sor es
-az utolso otodik sor
-```
-
-```
---file tartalmat kiirja a harmadik sortol
-ttltrk-mbp:TEST attilatorok$ more +3 test3.txt
-harmadik sor
-negyedik sor es
-az utolso otodik sor
+chmod 777 file_dir
 ```
 
 <a href='#^'>^^^</a>
 
 ---
 
-<h4 id='sort'>sort</h4>
+<h4 id='chown'>chown</h4>
 
 ```
---sorokat rendez a fileon belul
-ttltrk-mbp:TEST attilatorok$ sort test3.txt
-az utolso otodik sor
-elso sor
-harmadik sor
-masodik sor
-negyedik sor es
-ttltrk-mbp:TEST attilatorok$ 
+chown user:group file_name
+```
 
---visszafele rendez
-ttltrk-mbp:TEST attilatorok$ sort -r test3.txt
-negyedik sor es
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='cp'>cp</h4>
+
+```
+cp file path
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='diff'>diff</h4>
+
+```
+--kiirja a ket file kozti kulonbseget
+ttltrk-mbp:TEST attilatorok$ cat test3.txt
+elso sor
 masodik sor
 harmadik sor
-elso sor
+negyedik sor es
 az utolso otodik sor
+ttltrk-mbp:TEST attilatorok$ cat test4.txt
+elso sor
+masodik sor
+harmadik sor
+az utolso otodik sor
+ttltrk-mbp:TEST attilatorok$ diff test3.txt test4.txt
+4d3
+< negyedik sor es
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
@@ -291,25 +186,143 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='diff'>diff</h4>
+<h4 id='head'>head</h4>
 
 ```
---kiirja a ket file kozti kulonbseget
-ttltrk-mbp:TEST attilatorok$ cat test3.txt
+--elso harom sor kiiratasa
+ttltrk-mbp:TEST attilatorok$ head -3 test3.txt
+elso sor
+masodik sor
+harmadik sor
+ttltrk-mbp:TEST attilatorok$ 
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='history'>history</h4>
+
+```
+history
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='less'>less</h4>
+
+```
+less +<line_num> -N <file_name>
+
+less +320 -N code.sh
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='more'>more</h4>
+
+```
+--file tartalmat kiirja
+ttltrk-mbp:TEST attilatorok$ more test3.txt
 elso sor
 masodik sor
 harmadik sor
 negyedik sor es
 az utolso otodik sor
-ttltrk-mbp:TEST attilatorok$ cat test4.txt
+```
+
+```
+--file tartalmat kiirja a harmadik sortol
+ttltrk-mbp:TEST attilatorok$ more +3 test3.txt
+harmadik sor
+negyedik sor es
+az utolso otodik sor
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='mv'>mv</h4>
+
+```
+mv file path 
+mv name new_name
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='nohup'>nohup</h4>
+
+```
+nohup /path/path/code.sh &
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='ps'>ps</h4>
+
+```
+ps -ef | grep file_name
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='sort'>sort</h4>
+
+```
+--sorokat rendez a fileon belul
+ttltrk-mbp:TEST attilatorok$ sort test3.txt
+az utolso otodik sor
 elso sor
+harmadik sor
+masodik sor
+negyedik sor es
+ttltrk-mbp:TEST attilatorok$ 
+
+--visszafele rendez
+ttltrk-mbp:TEST attilatorok$ sort -r test3.txt
+negyedik sor es
 masodik sor
 harmadik sor
+elso sor
 az utolso otodik sor
-ttltrk-mbp:TEST attilatorok$ diff test3.txt test4.txt
-4d3
-< negyedik sor es
 ttltrk-mbp:TEST attilatorok$ 
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='tty'>tty</h4>
+
+```
+--kiirja az aktualis terminal nevet
+ttltrk-mbp:TEST attilatorok$ tty
+/dev/ttys000
+ttltrk-mbp:TEST attilatorok$ 
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h4 id='unzip'>unzip</h4>
+
+```
+unzip file_name
+unzip -l file_name
+gunzip file_name
 ```
 
 <a href='#^'>^^^</a>
@@ -350,15 +363,3 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='tty'>tty</h4>
-
-```
---kiirja az aktualis terminal nevet
-ttltrk-mbp:TEST attilatorok$ tty
-/dev/ttys000
-ttltrk-mbp:TEST attilatorok$ 
-```
-
-<a href='#^'>^^^</a>
-
----
