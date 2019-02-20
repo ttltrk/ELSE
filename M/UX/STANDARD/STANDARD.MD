@@ -32,8 +32,9 @@
 
 <h4 id='cat'>cat</h4>
 
+kiirja a file tartalmat
+
 ```
---kiirja a file tartalmat
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
 masodik sor
@@ -42,8 +43,9 @@ negyedik sor es
 az utolso otodik sor
 ```
 
+szamozva kiirja a file tartalmat
+
 ```
---megszamozva a sorokat kiirja a file tartalmat
 ttltrk-mbp:TEST attilatorok$ cat -n test3.txt
      1	elso sor
      2	masodik sor
@@ -53,14 +55,18 @@ ttltrk-mbp:TEST attilatorok$ cat -n test3.txt
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+szamozva kiirja a file tartalmat a 3.ik sortol
+
 ```
---a harmadik sortol irja ki megszamozva a file tartalmat
 ttltrk-mbp:TEST attilatorok$ cat -n test3.txt | more +3
      3  harmadik sor
      4  negyedik sor es
      5  az utolso otodik sor
-     
---fileok tartalmat osszefuzi
+```
+
+fileok tartalmat osszefuzi
+
+```
 ttltrk-mbp:TEST attilatorok$ cat t1.txt
 t1 - elso sora
 ttltrk-mbp:TEST attilatorok$ cat t2.txt
