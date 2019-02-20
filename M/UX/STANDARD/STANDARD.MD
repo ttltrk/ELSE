@@ -1,13 +1,11 @@
 
 ---
 
-###### [MUM](https://github.com/ttltrk/PRG/blob/master/MUM.MD) - [PY](https://github.com/ttltrk/PRG/blob/master/PY/DOC/PYF/PYF.MD) - [SQL](https://github.com/ttltrk/DB/blob/master/SQL/DOC/OSM/OSQLM/SQLM/SQLM.MD) - [ENG](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LE.MD)
-
-###### [UX](https://github.com/ttltrk/ELSE/blob/master/M/UX/UX.MD)
+###### [MUM](https://github.com/ttltrk/PRG/blob/master/MUM.MD) - [PY](https://github.com/ttltrk/PRG/blob/master/PY/DOC/PYF/PYF.MD) - [SQL](https://github.com/ttltrk/DB/blob/master/SQL/DOC/OSM/OSQLM/SQLM/SQLM.MD) - [ENG](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LE.MD) || [UX](https://github.com/ttltrk/ELSE/blob/master/M/UX/UX.MD)
 
 ---
 
-### UX Standard
+<h3 id='^'>UX Standard</h3>
 
 ---
 
@@ -38,6 +36,8 @@
 history
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h4 id='less'>less</h4>
@@ -48,6 +48,8 @@ less +<line_num> -N <file_name>
 less +320 -N code.sh
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h4 id='ps'>ps</h4>
@@ -55,6 +57,8 @@ less +320 -N code.sh
 ```
 ps -ef | grep file_name
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -64,6 +68,8 @@ ps -ef | grep file_name
 nohup /path/path/code.sh &
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h4 id='cp'>cp</h4>
@@ -71,6 +77,8 @@ nohup /path/path/code.sh &
 ```
 cp file path
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -80,6 +88,8 @@ cp file path
 mv file path 
 mv name new_name
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -91,6 +101,8 @@ unzip -l file_name
 gunzip file_name
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h4 id='chmod'>chmod</h4>
@@ -98,6 +110,8 @@ gunzip file_name
 ```
 chmod 777 file_dir
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -107,6 +121,8 @@ chmod 777 file_dir
 chown user:group file_name
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h4 id='chgrp'>chgrp</h4>
@@ -114,6 +130,8 @@ chown user:group file_name
 ```
 chgrp groupname file_name
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -163,6 +181,8 @@ t2 - masodik sora
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h4 id='head'>head</h4>
@@ -175,6 +195,8 @@ masodik sor
 harmadik sor
 ttltrk-mbp:TEST attilatorok$ 
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -197,6 +219,8 @@ harmadik sor
 negyedik sor es
 az utolso otodik sor
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -221,6 +245,8 @@ elso sor
 az utolso otodik sor
 ttltrk-mbp:TEST attilatorok$ 
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -261,6 +287,8 @@ ttltrk-mbp:TEST attilatorok$ grep -c 'elso sor' test3.txt
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h4 id='diff'>diff</h4>
@@ -283,6 +311,8 @@ ttltrk-mbp:TEST attilatorok$ diff test3.txt test4.txt
 < negyedik sor es
 ttltrk-mbp:TEST attilatorok$ 
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -316,6 +346,8 @@ ttltrk-mbp:TEST attilatorok$ wc -c test3.txt
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h4 id='tty'>tty</h4>
@@ -326,5 +358,7 @@ ttltrk-mbp:TEST attilatorok$ tty
 /dev/ttys000
 ttltrk-mbp:TEST attilatorok$ 
 ```
+
+<a href='#^'>^^^</a>
 
 ---
