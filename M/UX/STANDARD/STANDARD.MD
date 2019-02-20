@@ -35,15 +35,19 @@ less +<line_num> -N <file_name>
 less +320 -N code.sh
 ```
 
---
+---
 
 ```
 ps -ef | grep file_name
 ```
 
+---
+
 ```
 nohup /path/path/code.sh &
 ```
+
+---
 
 ```
 cp file path
@@ -51,17 +55,23 @@ mv file path
 mv name new_name
 ```
 
+---
+
 ```
 unzip file_name
 unzip -l file_name
 gunzip file_name
 ```
 
+---
+
 ```
 chmod 777 file_dir
 chown user:group file_name
 chgrp groupname file_name
 ```
+
+---
 
 ```
 cat
@@ -105,6 +115,8 @@ t2 - masodik sora
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+---
+
 ```
 head
 
@@ -115,6 +127,8 @@ masodik sor
 harmadik sor
 ttltrk-mbp:TEST attilatorok$ 
 ```
+
+---
 
 ```
 more
@@ -133,6 +147,8 @@ harmadik sor
 negyedik sor es
 az utolso otodik sor
 ```
+
+---
 
 ```
 sort
@@ -155,6 +171,8 @@ elso sor
 az utolso otodik sor
 ttltrk-mbp:TEST attilatorok$ 
 ```
+
+---
 
 ```
 grep
@@ -189,6 +207,8 @@ ttltrk-mbp:TEST attilatorok$ grep -c 'elso sor' test3.txt
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+---
+
 ```
 diff
 
@@ -209,6 +229,8 @@ ttltrk-mbp:TEST attilatorok$ diff test3.txt test4.txt
 < negyedik sor es
 ttltrk-mbp:TEST attilatorok$ 
 ```
+
+---
 
 ```
 wc
@@ -233,6 +255,8 @@ ttltrk-mbp:TEST attilatorok$ wc -c test3.txt
       71 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
 ```
+
+---
 
 ```
 tty
