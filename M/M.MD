@@ -14,6 +14,5 @@
 * [UX]()
 * [Tools](https://github.com/ttltrk/ELSE/blob/master/M/TOOLS/TOOLS.MD)
 * [ENG]()
-* [Shortenings](https://github.com/ttltrk/ELSE/blob/master/M/SHORT/SHORT.MD)
 
 ---
