@@ -10,7 +10,7 @@
 ---
 
 * <a href='#echo'>echo</a>
-* <a href='#first script'>first script</a>
+* <a href='#firstscript'>first script</a>
 * <a href='#variables'>variables</a>
 
 <a href='#^'>^^^</a>
