@@ -10,6 +10,7 @@
 ---
 
 * <a href='#echo'>echo</a>
+* <a href='#first script'>first script</a>
 * <a href='#variables'>variables</a>
 
 <a href='#^'>^^^</a>
@@ -30,6 +31,52 @@ Scripting is fun!
 
 ---
 
+<h3 id='firstscript'>first script</h3>
+
+```sh
+[/home/TTLTRK] # echo '#!/bin/sh' > my-script.sh
+[/home/TTLTRK] # echo 'echo Hello World' >> my-script.sh
+[/home/TTLTRK] # ls -l
+total 104
+-rwxrwxrwx    1 TTLTRK   staff           152 Feb  4 01:57 c.sh
+-rwxrwxrwx    1 TTLTRK   staff           114 Feb  4 01:46 ccc.sh
+drwx------    2 TTLTRK   staff           256 Feb  4 01:43 first
+-rw-------    1 TTLTRK   staff            27 Feb 20 08:04 my-script.sh
+drwx------    2 TTLTRK   staff           256 Feb  4 01:44 second
+[/home/TTLTRK] # chmod 775 my-script.sh
+[/home/TTLTRK] # ./my-script.sh
+Hello World
+[/home/TTLTRK] #
+
+or via vi
+
+[b03cxnp09032:/home/TTLTRK] # vi first.sh
+
+#!/bin/sh
+# this is a comment
+echo hello world  #this is a comment too
+
+[/home/TTLTRK] # ls -l
+total 112
+-rwxrwxrwx    1 TTLTRK   staff           152 Feb  4 01:57 c.sh
+-rwxrwxrwx    1 TTLTRK   staff           114 Feb  4 01:46 ccc.sh
+drwx------    2 TTLTRK   staff           256 Feb  4 01:43 first
+-rw-------    1 TTLTRK   staff            72 Feb 20 08:07 first.sh
+-rwxrwxr-x    1 TTLTRK   staff            27 Feb 20 08:04 my-script.sh
+drwx------    2 TTLTRK   staff           256 Feb  4 01:44 second
+[/home/TTLTRK] # chmod 755 first.sh
+[/home/TTLTRK] # ./first.sh
+hello world
+[/home/TTLTRK] # cat first.sh
+#!/bin/sh
+# this is a comment
+echo hello world  #this is a comment too
+[/home/TTLTRK] #
+
+```
+
+---
+  
 <h3 id='variables'>SS Variables</h3>
 
 ```bash
