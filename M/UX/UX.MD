@@ -12,7 +12,7 @@
 ---
 
 * [standard](https://github.com/ttltrk/ELSE/blob/master/M/UX/STANDARD/STANDARD.MD)
-* [shell scripts]()
+* [shell scripts](https://github.com/ttltrk/ELSE/blob/master/SHELL/OSSM/SSCR/SSCR.MD)
 * [file](https://github.com/ttltrk/ELSE/blob/master/M/FILE/FILE.MD)
 * [cron](https://github.com/ttltrk/ELSE/blob/master/M/UX/CRON/CRON.MD)
 * [profile](https://github.com/ttltrk/ELSE/blob/master/M/UX/PROFILE/PROFILE.MD)
