@@ -1,7 +1,9 @@
 
 ---
 
-###### [改善](https://github.com/ttltrk/0C/blob/master/README.MD) - [.co.](https://github.com/ttltrk/PRG/blob/master/CODING.MD) - [manuals](https://github.com/ttltrk/PRG/blob/master/MAN.MD) - [M](https://github.com/ttltrk/ELSE/blob/master/M/M.MD) - [UX](https://github.com/ttltrk/ELSE/blob/master/M/UX/UX.MD)
+###### [MUM](https://github.com/ttltrk/PRG/blob/master/MUM.MD) - [PY](https://github.com/ttltrk/PRG/blob/master/PY/DOC/PYF/PYF.MD) - [SQL](https://github.com/ttltrk/DB/blob/master/SQL/DOC/OSM/OSQLM/SQLM/SQLM.MD) - [ENG](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LE.MD)
+
+###### [UX](https://github.com/ttltrk/ELSE/blob/master/M/UX/UX.MD)
 
 ---
 
@@ -165,9 +167,9 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-```
-more
+<h4 id='more'>more</h4>
 
+```
 --file tartalmat kiirja
 ttltrk-mbp:TEST attilatorok$ more test3.txt
 elso sor
@@ -187,9 +189,9 @@ az utolso otodik sor
 
 ---
 
-```
-sort
+<h4 id='sort'>sort</h4>
 
+```
 --sorokat rendez a fileon belul
 ttltrk-mbp:TEST attilatorok$ sort test3.txt
 az utolso otodik sor
@@ -211,21 +213,25 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-```
-grep
+<h4 id='grep'>grep</h4>
 
+```
 --kiirja az a betus sorokat
 ttltrk-mbp:TEST attilatorok$ grep a test3.txt
 masodik sor
 harmadik sor
 az utolso otodik sor
+```
 
+```
 --csak az a betus sorokat nem irja ki
 ttltrk-mbp:TEST attilatorok$ grep -v a test3.txt
 elso sor
 negyedik sor es
 ttltrk-mbp:TEST attilatorok$ 
+```
 
+```
 --kiirja hogy egy keresett betu/szo/mondat hanyszor fordul elo a fileban
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
@@ -246,9 +252,9 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-```
-diff
+<h4 id='diff'>diff</h4>
 
+```
 --kiirja a ket file kozti kulonbseget
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
@@ -269,24 +275,30 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-```
-wc
+<h4 id='wc'>wc</h4>
 
+```
 --megszamolja a fileban a sorokat szavakat karaktereket
 ttltrk-mbp:TEST attilatorok$ wc test3.txt
        5      13      71 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
-       
+```
+
+```
 --csak a sorokat szamolja meg       
 ttltrk-mbp:TEST attilatorok$ wc -l test3.txt
        5 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
-       
+```
+
+```
 --csak a szavakat szamolja meg       
 ttltrk-mbp:TEST attilatorok$ wc -w test3.txt
       13 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
-      
+```
+
+```
 --csak a karaktereket szamolja meg      
 ttltrk-mbp:TEST attilatorok$ wc -c test3.txt
       71 test3.txt
@@ -295,9 +307,9 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-```
-tty
+<h4 id='tty'>tty</h4>
 
+```
 --kiirja az aktualis terminal nevet
 ttltrk-mbp:TEST attilatorok$ tty
 /dev/ttys000
