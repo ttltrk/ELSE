@@ -30,7 +30,7 @@
 
 ---
 
-<h4 id='cat'>cat</h4>
+<h3 id='cat'>cat</h3>
 
 kiirja a file tartalmat
 
@@ -86,7 +86,7 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='chgrp'>chgrp</h4>
+<h3 id='chgrp'>chgrp</h3>
 
 ```
 chgrp groupname file_name
@@ -96,7 +96,7 @@ chgrp groupname file_name
 
 ---
 
-<h4 id='chmod'>chmod</h4>
+<h3 id='chmod'>chmod</h3>
 
 ```
 chmod 777 file_dir
@@ -106,7 +106,7 @@ chmod 777 file_dir
 
 ---
 
-<h4 id='chown'>chown</h4>
+<h3 id='chown'>chown</h3>
 
 ```
 chown user:group file_name
@@ -116,7 +116,7 @@ chown user:group file_name
 
 ---
 
-<h4 id='cp'>cp</h4>
+<h3 id='cp'>cp</h3>
 
 ```
 cp file path
@@ -126,10 +126,11 @@ cp file path
 
 ---
 
-<h4 id='diff'>diff</h4>
+<h3 id='diff'>diff</h3>
+
+kiirja ket file kozotti kulonbseget
 
 ```
---kiirja a ket file kozti kulonbseget
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
 masodik sor
@@ -151,26 +152,29 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='grep'>grep</h4>
+<h3 id='grep'>grep</h3>
+
+kiirja az 'a' betus sorokat
 
 ```
---kiirja az a betus sorokat
 ttltrk-mbp:TEST attilatorok$ grep a test3.txt
 masodik sor
 harmadik sor
 az utolso otodik sor
 ```
 
+csak az 'a' betus sorokat nem irja ki
+
 ```
---csak az a betus sorokat nem irja ki
 ttltrk-mbp:TEST attilatorok$ grep -v a test3.txt
 elso sor
 negyedik sor es
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+kiirja hogy egy keresett betu/szo/mondat hanyszor fordul elo a fileban
+
 ```
---kiirja hogy egy keresett betu/szo/mondat hanyszor fordul elo a fileban
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
 masodik sor
@@ -192,10 +196,11 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='head'>head</h4>
+<h3 id='head'>head</h3>
+
+elso harom sor kiiratasa
 
 ```
---elso harom sor kiiratasa
 ttltrk-mbp:TEST attilatorok$ head -3 test3.txt
 elso sor
 masodik sor
@@ -207,7 +212,7 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='history'>history</h4>
+<h3 id='history'>history</h3>
 
 ```
 history
@@ -217,7 +222,7 @@ history
 
 ---
 
-<h4 id='less'>less</h4>
+<h3 id='less'>less</h3>
 
 ```
 less +<line_num> -N <file_name>
@@ -229,10 +234,11 @@ less +320 -N code.sh
 
 ---
 
-<h4 id='more'>more</h4>
+<h3 id='more'>more</h3>
+
+kiirja a file tartalmat
 
 ```
---file tartalmat kiirja
 ttltrk-mbp:TEST attilatorok$ more test3.txt
 elso sor
 masodik sor
@@ -241,8 +247,9 @@ negyedik sor es
 az utolso otodik sor
 ```
 
+kiirja a file tartalmat a 3.ik sortol
+
 ```
---file tartalmat kiirja a harmadik sortol
 ttltrk-mbp:TEST attilatorok$ more +3 test3.txt
 harmadik sor
 negyedik sor es
@@ -253,7 +260,7 @@ az utolso otodik sor
 
 ---
 
-<h4 id='mv'>mv</h4>
+<h3 id='mv'>mv</h3>
 
 ```
 mv file path 
@@ -264,7 +271,7 @@ mv name new_name
 
 ---
 
-<h4 id='nohup'>nohup</h4>
+<h3 id='nohup'>nohup</h3>
 
 ```
 nohup /path/path/code.sh &
@@ -274,7 +281,7 @@ nohup /path/path/code.sh &
 
 ---
 
-<h4 id='ps'>ps</h4>
+<h3 id='ps'>ps</h3>
 
 ```
 ps -ef | grep file_name
@@ -284,10 +291,11 @@ ps -ef | grep file_name
 
 ---
 
-<h4 id='sort'>sort</h4>
+<h3 id='sort'>sort</h3>
+
+sorokat rendez a fileon belul
 
 ```
---sorokat rendez a fileon belul
 ttltrk-mbp:TEST attilatorok$ sort test3.txt
 az utolso otodik sor
 elso sor
@@ -295,8 +303,11 @@ harmadik sor
 masodik sor
 negyedik sor es
 ttltrk-mbp:TEST attilatorok$ 
+```
 
---visszafele rendez
+visszafele rendez
+
+```
 ttltrk-mbp:TEST attilatorok$ sort -r test3.txt
 negyedik sor es
 masodik sor
@@ -310,10 +321,11 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='tty'>tty</h4>
+<h3 id='tty'>tty</h3>
+
+kiirja az aktualis terminal nevet
 
 ```
---kiirja az aktualis terminal nevet
 ttltrk-mbp:TEST attilatorok$ tty
 /dev/ttys000
 ttltrk-mbp:TEST attilatorok$ 
@@ -323,7 +335,7 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-<h4 id='unzip'>unzip</h4>
+<h3 id='unzip'>unzip</h3>
 
 ```
 unzip file_name
@@ -335,31 +347,35 @@ gunzip file_name
 
 ---
 
-<h4 id='wc'>wc</h4>
+<h3 id='wc'>wc</h3>
+
+megszamolja a fileban a sorokat szavakat karaktereket
 
 ```
---megszamolja a fileban a sorokat szavakat karaktereket
 ttltrk-mbp:TEST attilatorok$ wc test3.txt
        5      13      71 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+csak a sorokat szamolja meg       
+
 ```
---csak a sorokat szamolja meg       
 ttltrk-mbp:TEST attilatorok$ wc -l test3.txt
        5 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+csak a szavakat szamolja meg       
+
 ```
---csak a szavakat szamolja meg       
 ttltrk-mbp:TEST attilatorok$ wc -w test3.txt
       13 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
 ```
 
+csak a karaktereket szamolja meg      
+
 ```
---csak a karaktereket szamolja meg      
 ttltrk-mbp:TEST attilatorok$ wc -c test3.txt
       71 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
