@@ -33,7 +33,7 @@ Scripting is fun!
 
 <h3 id='firstscript'>first script</h3>
 
-```sh
+```bash
 [/home/TTLTRK] # echo '#!/bin/sh' > my-script.sh
 [/home/TTLTRK] # echo 'echo Hello World' >> my-script.sh
 [/home/TTLTRK] # ls -l
