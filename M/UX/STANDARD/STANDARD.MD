@@ -37,11 +37,15 @@ less +320 -N code.sh
 
 ---
 
+<h4 id='ps'>ps</h4>
+
 ```
 ps -ef | grep file_name
 ```
 
 ---
+
+<h4 id='nohup'>nohup</h4>
 
 ```
 nohup /path/path/code.sh &
@@ -49,13 +53,24 @@ nohup /path/path/code.sh &
 
 ---
 
+<h4 id='cp'>cp</h4>
+
 ```
 cp file path
+```
+
+---
+
+<h4 id='mv'>mv</h4>
+
+```
 mv file path 
 mv name new_name
 ```
 
 ---
+
+<h4 id='unzip'>unzip</h4>
 
 ```
 unzip file_name
@@ -65,17 +80,33 @@ gunzip file_name
 
 ---
 
+<h4 id='chmod'>chmod</h4>
+
 ```
 chmod 777 file_dir
+```
+
+---
+
+<h4 id='chown'>chown</h4>
+
+```
 chown user:group file_name
+```
+
+---
+
+<h4 id='chgrp'>chgrp</h4>
+
+```
 chgrp groupname file_name
 ```
 
 ---
 
-```
-cat
+<h4 id='cat'>cat</h4>
 
+```
 --kiirja a file tartalmat
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
@@ -117,9 +148,9 @@ ttltrk-mbp:TEST attilatorok$
 
 ---
 
-```
-head
+<h4 id='head'>head</h4>
 
+```
 --elso harom sor kiiratasa
 ttltrk-mbp:TEST attilatorok$ head -3 test3.txt
 elso sor
