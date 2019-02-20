@@ -35,6 +35,8 @@
 kiirja a file tartalmat
 
 ```
+cat file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
 masodik sor
@@ -46,6 +48,8 @@ az utolso otodik sor
 szamozva kiirja a file tartalmat
 
 ```
+cat -n file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ cat -n test3.txt
      1	elso sor
      2	masodik sor
@@ -58,15 +62,19 @@ ttltrk-mbp:TEST attilatorok$
 szamozva kiirja a file tartalmat a 3.ik sortol
 
 ```
+cat -n file_name.txt | more +3
+
 ttltrk-mbp:TEST attilatorok$ cat -n test3.txt | more +3
      3  harmadik sor
      4  negyedik sor es
      5  az utolso otodik sor
 ```
 
-fileok tartalmat osszefuzi
+fileok tartalmat (1-2) osszefuzi (a 3.ik-ba)
 
 ```
+cat file_name_1.txt file_name_2.txt > file_name_3.txt
+
 ttltrk-mbp:TEST attilatorok$ cat t1.txt
 t1 - elso sora
 ttltrk-mbp:TEST attilatorok$ cat t2.txt
@@ -131,6 +139,8 @@ cp file path
 kiirja ket file kozotti kulonbseget
 
 ```
+diff file_name_1.txt file_name_2.txt
+
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
 masodik sor
@@ -157,6 +167,8 @@ ttltrk-mbp:TEST attilatorok$
 kiirja az 'a' betus sorokat
 
 ```
+grep a file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ grep a test3.txt
 masodik sor
 harmadik sor
@@ -166,6 +178,8 @@ az utolso otodik sor
 csak az 'a' betus sorokat nem irja ki
 
 ```
+grep -v a file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ grep -v a test3.txt
 elso sor
 negyedik sor es
@@ -175,6 +189,10 @@ ttltrk-mbp:TEST attilatorok$
 kiirja hogy egy keresett betu/szo/mondat hanyszor fordul elo a fileban
 
 ```
+grep -c <word> file_name.txt
+grep -c <char> file_name.txt
+grep -c 'example sentence' file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ cat test3.txt
 elso sor
 masodik sor
@@ -201,6 +219,8 @@ ttltrk-mbp:TEST attilatorok$
 elso harom sor kiiratasa
 
 ```
+head -3 file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ head -3 test3.txt
 elso sor
 masodik sor
@@ -239,6 +259,8 @@ less +320 -N code.sh
 kiirja a file tartalmat
 
 ```
+more file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ more test3.txt
 elso sor
 masodik sor
@@ -250,6 +272,8 @@ az utolso otodik sor
 kiirja a file tartalmat a 3.ik sortol
 
 ```
+more +3 file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ more +3 test3.txt
 harmadik sor
 negyedik sor es
@@ -296,6 +320,8 @@ ps -ef | grep file_name
 sorokat rendez a fileon belul
 
 ```
+sort file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ sort test3.txt
 az utolso otodik sor
 elso sor
@@ -308,6 +334,8 @@ ttltrk-mbp:TEST attilatorok$
 visszafele rendez
 
 ```
+sort -r file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ sort -r test3.txt
 negyedik sor es
 masodik sor
@@ -326,6 +354,8 @@ ttltrk-mbp:TEST attilatorok$
 kiirja az aktualis terminal nevet
 
 ```
+tty
+
 ttltrk-mbp:TEST attilatorok$ tty
 /dev/ttys000
 ttltrk-mbp:TEST attilatorok$ 
@@ -352,6 +382,8 @@ gunzip file_name
 megszamolja a fileban a sorokat szavakat karaktereket
 
 ```
+wc file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ wc test3.txt
        5      13      71 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
@@ -360,6 +392,8 @@ ttltrk-mbp:TEST attilatorok$
 csak a sorokat szamolja meg       
 
 ```
+wc -l file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ wc -l test3.txt
        5 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
@@ -368,6 +402,8 @@ ttltrk-mbp:TEST attilatorok$
 csak a szavakat szamolja meg       
 
 ```
+wc -w file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ wc -w test3.txt
       13 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
@@ -376,6 +412,8 @@ ttltrk-mbp:TEST attilatorok$
 csak a karaktereket szamolja meg      
 
 ```
+wc -c file_name.txt
+
 ttltrk-mbp:TEST attilatorok$ wc -c test3.txt
       71 test3.txt
 ttltrk-mbp:TEST attilatorok$ 
