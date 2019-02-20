@@ -13,11 +13,22 @@
 
 * <a href='#history'>history</a></br>
 * <a href='#less'>less</a></br>
-* <a href='#'></a>
-* <a href='#'></a>
-* <a href='#'></a>
-* <a href='#'></a>
-* <a href='#'></a>
+* <a href='#ps'>ps</a></br>
+* <a href='#nohup'>nohup</a></br>
+* <a href='#cp'>cp</a></br>
+* <a href='#mv'>mv</a></br>
+* <a href='#unzip'>unzip</a></br>
+* <a href='#chmod'>chmod</a></br>
+* <a href='#chown'>chown</a></br>
+* <a href='#chgrp'>chgrp</a></br>
+* <a href='#cat'>cat</a></br>
+* <a href='#head'>head</a></br>
+* <a href='#more'>more</a></br>
+* <a href='#sort'>sort</a></br>
+* <a href='#grep'>grep</a></br>
+* <a href='#diff'>diff</a></br>
+* <a href='#wc'>wc</a></br>
+* <a href='#tty'>tty</a></br>
 
 ---
 
