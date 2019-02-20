@@ -9,22 +9,11 @@
 
 ---
 
-* [UX](https://github.com/ttltrk/ELSE/blob/master/M/UX/UX.MD)
-
----
-
-* [SQL](https://github.com/ttltrk/ELSE/blob/master/M/SQL/SQL.MD)
-
----
-
-* [PL/SQL](https://github.com/ttltrk/ELSE/blob/master/M/PLSQL/PLSQL.MD)
-
----
-
+* [Python]()
+* [SQL]()
+* [UX]()
 * [Tools](https://github.com/ttltrk/ELSE/blob/master/M/TOOLS/TOOLS.MD)
-
----
-
+* [ENG]()
 * [Shortenings](https://github.com/ttltrk/ELSE/blob/master/M/SHORT/SHORT.MD)
 
 ---
