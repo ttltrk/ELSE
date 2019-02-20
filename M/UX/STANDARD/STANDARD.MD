@@ -5,7 +5,7 @@
 
 ---
 
-<h3 id='^'>UX Standard</h3>
+<h3 id='^'>UX - Standard</h3>
 
 ---
 
