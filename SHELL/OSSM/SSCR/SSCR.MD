@@ -12,6 +12,7 @@
 * <a href='#echo'>echo</a>
 * <a href='#firstscript'>first script</a>
 * <a href='#variables'>variables</a>
+* <a href='#array'>Array</a>
 
 <a href='#^'>^^^</a>
 
@@ -107,6 +108,35 @@ echo "You are running this script on ${SERVER_NAME}."
 
 >>>
 
+>>>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='array'>SS Array</h3>
+
+```bash
+first()
+  {  
+   VSQL1="SELECT LOAD_ID FROM METADATA.STG_TABLE WHERE SOURCE_KEY = 'CISF'"
+   VSQL2="SELECT PPP FROM METADATA.STG_TABLE WHERE SOURCE_KEY = 'CISF'"
+   jjj="TRK"
+   arr=("jjj" "$jjj")
+   
+   for i in "${arr[@]}"
+   #for i in "$arr"
+   do
+     echo "$i" 
+   done
+  }
+
+first 
+
+>>>
+jjj
+TRK
 >>>
 ```
 
