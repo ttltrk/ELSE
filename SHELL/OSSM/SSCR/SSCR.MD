@@ -120,8 +120,6 @@ echo "You are running this script on ${SERVER_NAME}."
 ```bash
 first()
   {  
-   VSQL1="SELECT LOAD_ID FROM METADATA.STG_TABLE WHERE SOURCE_KEY = 'CISF'"
-   VSQL2="SELECT PPP FROM METADATA.STG_TABLE WHERE SOURCE_KEY = 'CISF'"
    jjj="TRK"
    arr=("jjj" "$jjj")
    
