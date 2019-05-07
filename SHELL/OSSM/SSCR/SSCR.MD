@@ -124,7 +124,6 @@ first()
    arr=("jjj" "$jjj")
    
    for i in "${arr[@]}"
-   #for i in "$arr"
    do
      echo "$i" 
    done
