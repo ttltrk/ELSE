@@ -25,6 +25,6 @@
 
 * [ENG](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LE.MD)
 * [DE]()
-* [SP]()
+* [SP](https://github.com/ttltrk/ELSE/blob/master/LAN/SP/SP.MD)
 
 ---
