@@ -19,6 +19,11 @@ The girl - La nina.
 A man, a boy - Un hombre, un nino
 A woman, a girl - Una mujer, una nina
 
+I'm - Yo
+You - Tu
+He - El
+She - Ella
+
 I'm a boy.
 Yo soy un niño
 
