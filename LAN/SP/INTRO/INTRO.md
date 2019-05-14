@@ -11,6 +11,8 @@
 ---
 
 ```
+-----------------------------------------------------------
+
 The man - El hombre
 The women - La mujer
 The boy -  El nino
@@ -23,6 +25,8 @@ I'm - Yo
 You - Tu
 He - El
 She - Ella
+
+-----------------------------------------------------------
 
 I'm a boy.
 Yo soy un niño
@@ -49,8 +53,12 @@ El come manzanas.
 ```
 the milk - la leche
 
+-----------------------------------------------------------
+
 I eat, you eat, he eats.
 Yo como, tú comes, él come.
+
+-----------------------------------------------------------
 
 Do you drink water?
 Tu bebes agua?
