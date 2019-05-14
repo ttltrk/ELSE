@@ -11,54 +11,47 @@
 ---
 
 ```
-The boy, the girl.
-El nino, la nina.
+The man - El hombre
+The women - La mujer
+The boy -  El nino
+The girl - La nina.
 
-Yo soy un niño
+A man, a boy - Un hombre, un nino
+A woman, a girl - Una mujer, una nina
+
 I'm a boy.
+Yo soy un niño
 
 I am a man.
 Yo soy un hombre.
 
-La niña
-The girl.
-
-The women
-La mujer
-
-A man
-Un hombre
-
 I'm a women.
 Yo soy una mujer.
-```
 
-```
+You are a girl.
+Tu eres una nina.
+
 She is a girl
 Ella es una nina.
 
-El es un nino.
 He is a boy
+El es un nino.
 
-You are a girl.
-Tu eres a nina.
-
-El come manzanas.
 He eats apple.
+El come manzanas.
 ```
 
 ```
+the milk - la leche
+
+I eat, you eat, he eats.
+Yo como, tú comes, él come.
+
 Do you drink water?
 Tu bebes agua?
 
-Yo como, tú comes, él come.
-I eat, you eat, he eats.
-
-the milk.
-La leche.
-
-Duo come pan.
 Duo eats bread.
+Duo come pan.
 
 I drink milk.
 Yo bebo leche.
