@@ -17,6 +17,8 @@
 
 <h3 id='^'>Basics</h3>
 
+---
+
 ```
 I am a man.
 Ich bin ein Mann.
