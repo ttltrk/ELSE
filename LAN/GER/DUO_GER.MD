@@ -12,3 +12,70 @@
 [src](https://www.duolingo.com/)
 
 ---
+
+Basics
+
+```
+I am a man.
+Ich bin ein Mann.
+
+Junge.
+Boy.
+
+Man
+Mann
+
+Ich bin eine Frau.
+I am a girl.
+
+A women.
+Eine Frau.
+
+I am a boy.
+Ich bin eine Junge.
+```
+
+```
+A man and a woman.
+Ein Mann und eine Frau.
+
+Eine Frau, ein Madchen.
+A woman, a girl.
+
+You are a bouy.
+Du bist ein Junge.
+
+Ich bin ein Kind.
+I am a child.
+
+You are a man.
+Du bist ein Mann.
+
+me and you
+ich und du
+```
+
+```
+Does he drink?
+Trinkt er?
+
+Er ist ein Mann und sie ist eine Frau.
+He is a man and she is a woman.
+
+Bread and water.
+Brot und Wasser.
+
+Es ist wasser.
+It is water.
+
+Water and bread.
+Wasser und Brot.
+
+He is drinking.
+Er trinkt.
+
+It is a girl.
+Es ist ein Madchen.
+```
+
+---
