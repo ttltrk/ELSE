@@ -11,14 +11,11 @@
 ---
 
 ```
+Junge - Boy
+Mann - Man
+
 I am a man.
 Ich bin ein Mann.
-
-Junge.
-Boy.
-
-Man
-Mann
 
 Ich bin eine Frau.
 I am a girl.
