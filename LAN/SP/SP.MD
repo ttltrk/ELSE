@@ -8,3 +8,67 @@
 <h3 id='^'>Spanish</h3>
 
 ---
+
+Intro
+
+```
+The boy, the girl.
+El nino, la nina.
+
+Yo soy un niño
+I'm a boy.
+
+I am a man.
+Yo soy un hombre.
+
+La niña
+The girl.
+
+The women
+La mujer
+
+A man
+Un hombre
+
+I'm a women.
+Yo soy una mujer.
+```
+
+```
+She is a girl
+Ella es una nina.
+
+El es un nino.
+He is a boy
+
+You are a girl.
+Tu eres a nina.
+
+El come manzanas.
+He eats apple.
+```
+
+```
+Do you drink water?
+Tu bebes agua?
+
+Yo como, tú comes, él come.
+I eat, you eat, he eats.
+
+the milk.
+La leche.
+
+Duo come pan.
+Duo eats bread.
+
+I drink milk.
+Yo bebo leche.
+
+Do you eat apples?
+Tu comes manzanas?
+
+The woman drinks water.
+La mujer bebe agua.
+```
+
+---
