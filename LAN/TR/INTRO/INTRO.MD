@@ -14,7 +14,6 @@
 ```
 -----------------------------------------------------------
 
-```
 man - erkek
 woman - kadin
 man - Adam
@@ -43,6 +42,6 @@ I drink. - Ben icerim.
 They eat an apple. - Onlar elma yer.
 We drink milk. - Biz sut iceriz.
 We eat bread. - Biz ekmek yeriz.
-```
 
 -----------------------------------------------------------
+```
