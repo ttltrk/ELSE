@@ -9,23 +9,48 @@
 
 ---
 
-* <a href='#echo'>echo</a>
-* <a href='#firstscript'>first script</a>
-* <a href='#variables'>variables</a>
-* <a href='#array'>Array</a>
-
-<a href='#^'>^^^</a>
-
----
-
-<h3 id='echo'>SS Echo</h3>
-
 ```bash
+#------------------------------------------------------
+#echo
+
 echo "Scripting is fun!"
 
->>>
-Scripting is fun!
->>>
+#>>>
+#Scripting is fun!
+#>>>
+
+#------------------------------------------------------
+# variables
+
+MY_SHELL="bash"
+echo "I like the $MY_SHELL shell."
+
+#>>>
+#I like the bash shell.
+#>>>
+
+#------------------------------------------------------
+# Array
+
+first()
+  {  
+   jjj="TRK"
+   arr=("jjj" "$jjj")
+   
+   for i in "${arr[@]}"
+   do
+     echo "$i" 
+   done
+  }
+
+first 
+
+#>>>
+#jjj
+#TRK
+#>>>
+
+#------------------------------------------------------
 ```
 
 <a href='#^'>^^^</a>
