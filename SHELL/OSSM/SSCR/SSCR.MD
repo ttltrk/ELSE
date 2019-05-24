@@ -10,7 +10,10 @@
 ---
 
 ```bash
+
 #------------------------------------------------------
+#------------------------------------------------------
+
 #echo
 
 echo "Scripting is fun!"
@@ -20,6 +23,8 @@ echo "Scripting is fun!"
 #>>>
 
 #------------------------------------------------------
+#------------------------------------------------------
+
 # variables
 
 MY_SHELL="bash"
@@ -30,6 +35,8 @@ echo "I like the $MY_SHELL shell."
 #>>>
 
 #------------------------------------------------------
+#------------------------------------------------------
+
 # Array
 
 first()
@@ -51,6 +58,18 @@ first
 #>>>
 
 #------------------------------------------------------
+#------------------------------------------------------
+
+#iteration
+
+for number in {1..99..2}
+do
+    echo $number
+done
+
+#------------------------------------------------------
+#------------------------------------------------------
+
 ```
 
 <a href='#^'>^^^</a>
@@ -99,67 +118,6 @@ hello world
 echo hello world  #this is a comment too
 [/home/TTLTRK] #
 
-```
-
----
-  
-<h3 id='variables'>SS Variables</h3>
-
-```bash
-MY_SHELL="bash"
-echo "I like the $MY_SHELL shell."
-
->>>
-I like the bash shell.
->>>
-```
-
-<a href='#^'>^^^</a>
-
-```bash
-MY_SHELL="bash"
-echo "I like the ${MY_SHELL} shell."
-
->>>
-I like the bash shell.
->>>
-```
-
-<a href='#^'>^^^</a>
-
-```bash
-SERVER_NAME=(hostname)
-echo "You are running this script on ${SERVER_NAME}."
-
->>>
-
->>>
-```
-
-<a href='#^'>^^^</a>
-
----
-
-<h3 id='array'>SS Array</h3>
-
-```bash
-first()
-  {  
-   jjj="TRK"
-   arr=("jjj" "$jjj")
-   
-   for i in "${arr[@]}"
-   do
-     echo "$i" 
-   done
-  }
-
-first 
-
->>>
-jjj
-TRK
->>>
 ```
 
 <a href='#^'>^^^</a>
