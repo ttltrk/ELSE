@@ -10,6 +10,6 @@
 
 ---
 
-* [Intro](https://github.com/ttltrk/ELSE/blob/master/LAN/TR/INTRO/INTRO.md)
+* [Intro](https://github.com/ttltrk/ELSE/blob/master/LAN/TR/INTRO/INTRO.MD)
 
 ---
