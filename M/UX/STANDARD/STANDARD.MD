@@ -22,6 +22,7 @@
 * <a href='#history'>history</a></br>
 * <a href='#less'>less</a></br>
 * <a href='#ln'>ln</a></br>
+* <a href='#ls'>ls</a></br>
 * <a href='#more'>more</a></br>
 * <a href='#mv'>mv</a></br>
 * <a href='#nohup'>nohup</a></br>
@@ -357,6 +358,28 @@ cd /var/www/html
 pwd
 /var/www/html
 sudo ln -s /var/spool/apt-mirror ubuntu
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='ls'>ls</h3>
+
+```
+ls -l
+```
+
+list out to the directory where the proc is running
+
+```
+ls -l /proc/<pid>/fd
+```
+
+list out all processes
+
+```
+ps -ef | grep <proc_name>
 ```
 
 <a href='#^'>^^^</a>
