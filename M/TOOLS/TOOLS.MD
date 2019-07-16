@@ -12,5 +12,7 @@
 ---
 
 * [Notepad++](https://github.com/ttltrk/ELSE/blob/master/M/NP/NP.MD)
+* [PyCharm]()
+* [DBeaver]()
 
 ---
