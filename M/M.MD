@@ -20,6 +20,8 @@
 * [ENG](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LE.MD)
 * [DE](https://github.com/ttltrk/ELSE/blob/master/LAN/GER/DUO_GER.MD)
 * [SP](https://github.com/ttltrk/ELSE/blob/master/LAN/SP/SP.MD)
+* [TR]()
+* [ESPR]()
 
 ---
 
