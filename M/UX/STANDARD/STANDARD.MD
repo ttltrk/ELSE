@@ -21,6 +21,7 @@
 * <a href='#head'>head</a></br>
 * <a href='#history'>history</a></br>
 * <a href='#less'>less</a></br>
+* <a href='#ln'>ln</a></br>
 * <a href='#more'>more</a></br>
 * <a href='#mv'>mv</a></br>
 * <a href='#nohup'>nohup</a></br>
@@ -341,6 +342,21 @@ history
 less +<line_num> -N <file_name>
 
 less +320 -N code.sh
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='ln'>ln</h3>
+
+Create a Symbolic link sudo ln -s <path> <name>
+
+```
+cd /var/www/html
+pwd
+/var/www/html
+sudo ln -s /var/spool/apt-mirror ubuntu
 ```
 
 <a href='#^'>^^^</a>
