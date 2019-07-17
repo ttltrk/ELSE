@@ -170,3 +170,148 @@ echo hello world  #this is a comment too
 <a href='#^'>^^^</a>
 
 ---
+
+```
+echo "Scripting is fun!"
+
+>>>
+Scripting is fun!
+>>>
+```
+
+```
+VARIABLE_NAME="value"
+MY_SHELL="bash"
+echo "I like the $MY_SHELL shell."
+
+>>>
+I like the bash shell.
+>>>
+```
+
+```
+MY_SHELL="bash"
+echo "I like the ${MY_SHELL} shell."
+
+>>>
+I like the bash shell.
+>>>
+```
+
+```
+SERVER_NAME=(hostname)
+echo "You are running this script on ${SERVER_NAME}."
+
+>>>
+You are running this script on hostname.
+>>>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+```
+if [ condition-is-true ]
+then
+  command 1
+  command 2
+  command N
+fi
+```
+
+```
+MY_SHELL="bash"
+
+if [ "$MY_SHELL" = "bash" ]
+then
+  echo "You seem to like the bash shell."
+fi
+
+>>>
+You seem to like the bash shell.
+>>>
+```
+
+```
+if [ condition-is-true ]
+then
+  command N
+else 
+  command N
+fi
+if [ condition-is-true ]
+then
+  command N
+elif [ condition-is-true ]
+then
+  command N
+else
+  command N
+fi
+```
+
+```
+MY_SHELL="csh"
+
+if [ "$MY_SHELL" = "bash" ]
+then
+  echo "You seem to like the bash shell."
+elif [ "$MY_SHELL" = "csh" ]
+then
+  echo "You seem to like the csh shell."
+else
+  echo "You don't seem to like the bash or csh shells."
+fi
+
+>>>
+You seem to like the csh shell.
+>>>
+```
+
+```
+for VARIABLE_NAME in ITEM_1 ITEM_N
+do
+  command 1
+  command 2
+  command N
+done
+for COLOR in red green blue
+do
+  echo "COLOR: $COLOR"
+done
+
+>>>
+COLOR: red
+COLOR: green
+COLOR: blue
+>>>
+```
+
+```
+COLORS="red green blue"
+
+for COLOR in $COLORS
+do
+  echo "COLOR: $COLOR"
+done
+
+>>>
+COLOR: red
+COLOR: green
+COLOR: blue
+>>>
+```
+
+```
+USER=$1 # The first parameter is the user.
+# Positional parameters are
+
+$0, $1, $2, ... $9
+$@
+>>>
+````
+
+<a href='#^'>^^^</a>
+
+---
