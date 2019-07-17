@@ -327,6 +327,9 @@ do
   command 2
   command N
 done
+```
+
+```bash
 for COLOR in red green blue
 do
   echo "COLOR: $COLOR"
