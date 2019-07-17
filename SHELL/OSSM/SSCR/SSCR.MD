@@ -362,6 +362,16 @@ done
 ```
 
 ```bash
+color="red green blue"
+
+echo $color
+
+>>>
+red green blue
+>>>
+```
+
+```bash
 for COLOR in red green blue
 do
   echo "COLOR: $COLOR"
