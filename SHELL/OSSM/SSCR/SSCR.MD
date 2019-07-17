@@ -25,12 +25,15 @@ fourth line
 <a href='#^'>^^^</a>
 
 ```bash
-var=10
+var1=10
+var2=-10
 
-if [ "$var" -gt 0 ]; then; echo "YES"; else; echo "NO"; fi
+if [ "$var1" -gt 0 ]; then; echo "YES"; else; echo "NO"; fi
+if [ "$var2" -gt 0 ]; then; echo "YES"; else; echo "NO"; fi
 
 >>>
 YES
+NO
 >>>
 ```
 
