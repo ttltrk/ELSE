@@ -10,6 +10,56 @@
 ---
 
 ```bash
+read ch
+
+if [ $ch = 'y' ]
+then
+    echo "YES"
+elif [ $ch = 'Y' ]
+then
+    echo "YES"
+elif [ $ch = 'n' ]
+then
+    echo "NO"
+elif [ $ch = 'N' ]
+then
+    echo "NO"
+
+fi
+```
+
+```bash
+read n1
+read n2
+read n3
+
+if (( $n1 == $n2 && $n2 == $n3 && $n1 == $n3 ))
+then
+    echo "EQUILATERAL  "
+elif (( $n1 == $n2 || $n1 == $n3 || $n3 == $n2 ))
+then
+    echo "ISOSCELES  "
+elif (( $n1 + $n2 > $n3 && $n1 + $n3 > $n2 && $n2 + $n3 > $n1 ))
+then
+    echo "SCALENE"
+
+fi
+```
+
+```bash
+read a
+
+val1=`echo "$a" | bc -l`
+a_rounded=`printf "%.3f" $val1`
+
+echo $a_rounded
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+```bash
 
 #------------------------------------------------------
 #------------------------------------------------------
@@ -119,6 +169,7 @@ echo $a4
 #------------------------------------------------------
 
 ```
+
 <a href='#^'>^^^</a>
 
 ---
