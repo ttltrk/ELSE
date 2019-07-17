@@ -11,6 +11,7 @@
 
 * <a href='#cat'>cat</a></br>
 * <a href='#chgrp'>chgrp</a></br>
+* <a href='#clear'>clear</a></br>
 * <a href='#chmod'>chmod</a></br>
 * <a href='#chown'>chown</a></br>
 * <a href='#cp'>cp</a></br>
@@ -102,6 +103,18 @@ ttltrk-mbp:TEST attilatorok$
 
 ```
 chgrp groupname file_name
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='clear'>clear</h3>
+
+clear the whole screen
+
+```
+clear
 ```
 
 <a href='#^'>^^^</a>
