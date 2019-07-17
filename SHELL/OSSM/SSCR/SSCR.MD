@@ -10,6 +10,23 @@
 ---
 
 ```bash
+echo "first line"; echo "second line"
+echo "third line"
+echo "fourth line"
+
+>>>
+first line
+second line
+third line
+fourth line
+>>>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+```bash
 read ch
 
 if [ $ch = 'y' ]
