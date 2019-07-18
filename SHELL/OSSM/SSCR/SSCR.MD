@@ -19,11 +19,24 @@
 
 <h3 id='basics'>basics</h3>
 
-```
+```sh
 echo "Scripting is fun!"
 
 >>>
 Scripting is fun!
+>>>
+```
+
+```sh
+echo "first line"; echo "second line"
+echo "third line"
+echo "fourth line"
+
+>>>
+first line
+second line
+third line
+fourth line
 >>>
 ```
 
@@ -90,6 +103,15 @@ echo $a4
 #10
 #2
 #>>>
+```
+
+```sh
+read a
+
+val1=`echo "$a" | bc -l`
+a_rounded=`printf "%.3f" $val1`
+
+echo $a_rounded
 ```
 
 <a href='#^'>^^^</a>
@@ -275,36 +297,6 @@ done
 #.
 #99
 #>
-```
-
-<a href='#^'>^^^</a>
-
----
-
-```bash
-echo "first line"; echo "second line"
-echo "third line"
-echo "fourth line"
-
->>>
-first line
-second line
-third line
-fourth line
->>>
-```
-
-<a href='#^'>^^^</a>
-
----
-
-```bash
-read a
-
-val1=`echo "$a" | bc -l`
-a_rounded=`printf "%.3f" $val1`
-
-echo $a_rounded
 ```
 
 <a href='#^'>^^^</a>
