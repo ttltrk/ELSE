@@ -9,26 +9,71 @@
 
 ---
 
-if-else
+* <a href='#ifelse'>if-else</a></br>
 
 ---
 
-```bash
-echo "first line"; echo "second line"
-echo "third line"
-echo "fourth line"
+<h3 id='ifelse'>if-else</h3>
+
+```sh
+if [ condition-is-true ]
+then
+  command 1
+  command 2
+  command N
+fi
+```
+
+```sh
+MY_SHELL="bash"
+
+if [ "$MY_SHELL" = "bash" ]
+then
+  echo "You seem to like the bash shell."
+fi
 
 >>>
-first line
-second line
-third line
-fourth line
+You seem to like the bash shell.
 >>>
 ```
 
-<a href='#^'>^^^</a>
+```sh
+if [ condition-is-true ]
+then
+  command N
+else 
+  command N
+fi
+if [ condition-is-true ]
+then
+  command N
+elif [ condition-is-true ]
+then
+  command N
+else
+  command N
+fi
+```
 
-```bash
+```sh
+MY_SHELL="csh"
+
+if [ "$MY_SHELL" = "bash" ]
+then
+  echo "You seem to like the bash shell."
+elif [ "$MY_SHELL" = "csh" ]
+then
+  echo "You seem to like the csh shell."
+else
+  echo "You don't seem to like the bash or csh shells."
+fi
+
+>>>
+You seem to like the csh shell.
+>>>
+```
+
+```sh
 var1=10
 var2=-10
 
@@ -41,11 +86,7 @@ NO
 >>>
 ```
 
-<a href='#^'>^^^</a>
-
----
-
-```bash
+```sh
 read ch
 
 if [ $ch = 'y' ]
@@ -64,7 +105,7 @@ then
 fi
 ```
 
-```bash
+```sh
 read n1
 read n2
 read n3
@@ -81,6 +122,27 @@ then
 
 fi
 ```
+
+<a href='#^'>^^^</a>
+
+---
+
+```bash
+echo "first line"; echo "second line"
+echo "third line"
+echo "fourth line"
+
+>>>
+first line
+second line
+third line
+fourth line
+>>>
+```
+
+<a href='#^'>^^^</a>
+
+---
 
 ```bash
 read a
@@ -297,64 +359,6 @@ You are running this script on hostname.
 <a href='#^'>^^^</a>
 
 ---
-
-```
-if [ condition-is-true ]
-then
-  command 1
-  command 2
-  command N
-fi
-```
-
-```
-MY_SHELL="bash"
-
-if [ "$MY_SHELL" = "bash" ]
-then
-  echo "You seem to like the bash shell."
-fi
-
->>>
-You seem to like the bash shell.
->>>
-```
-
-```
-if [ condition-is-true ]
-then
-  command N
-else 
-  command N
-fi
-if [ condition-is-true ]
-then
-  command N
-elif [ condition-is-true ]
-then
-  command N
-else
-  command N
-fi
-```
-
-```
-MY_SHELL="csh"
-
-if [ "$MY_SHELL" = "bash" ]
-then
-  echo "You seem to like the bash shell."
-elif [ "$MY_SHELL" = "csh" ]
-then
-  echo "You seem to like the csh shell."
-else
-  echo "You don't seem to like the bash or csh shells."
-fi
-
->>>
-You seem to like the csh shell.
->>>
-```
 
 ```
 for VARIABLE_NAME in ITEM_1 ITEM_N
