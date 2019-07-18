@@ -15,6 +15,7 @@
 * <a href='#chmod'>chmod</a></br>
 * <a href='#chown'>chown</a></br>
 * <a href='#cmp'>cmp</a></br>
+* <a href='#comm'>comm</a></br>
 * <a href='#cp'>cp</a></br>
 * <a href='#diff'>diff</a></br>
 * <a href='#du'>du</a></br>
@@ -154,6 +155,35 @@ this is some other text
 this is appended text
 $ cmp temp.txt temp2.txt
 temp.txt temp2.txt differ: char 2, line 1
+$
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='comm'>comm</h3>
+
+```
+$ cat temp.txt
+this is some other text
+this is appended text
+$
+$ cat temp2.txt
+temp2 temp2
+this is some other text
+this is appended text
+$
+$ comm -1 temp.txt temp2.txt
+temp2 temp2
+        this is some other text
+        this is appended text
+$ comm -2 temp.txt temp2.txt
+        this is some other text
+        this is appended text
+$ comm -12 temp.txt temp2.txt
+this is some other text
+this is appended text
 $
 ```
 
