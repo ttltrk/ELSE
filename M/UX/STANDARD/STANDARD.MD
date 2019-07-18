@@ -14,6 +14,7 @@
 * <a href='#clear'>clear</a></br>
 * <a href='#chmod'>chmod</a></br>
 * <a href='#chown'>chown</a></br>
+* <a href='#cmp'>cmp</a></br>
 * <a href='#cp'>cp</a></br>
 * <a href='#diff'>diff</a></br>
 * <a href='#du'>du</a></br>
@@ -135,6 +136,25 @@ chmod 777 file_dir
 
 ```
 chown user:group file_name
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='cmp'>cmp</h3>
+
+```
+$ cat temp.txt
+this is some other text
+this is appended text
+$ cat temp2.txt
+temp2 temp2
+this is some other text
+this is appended text
+$ cmp temp.txt temp2.txt
+temp.txt temp2.txt differ: char 2, line 1
+$
 ```
 
 <a href='#^'>^^^</a>
