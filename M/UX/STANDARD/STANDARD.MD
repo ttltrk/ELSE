@@ -29,6 +29,7 @@
 * <a href='#more'>more</a></br>
 * <a href='#mv'>mv</a></br>
 * <a href='#nohup'>nohup</a></br>
+* <a href='#passwd'>passwd</a></br>
 * <a href='#ps'>ps</a></br>
 * <a href='#sort'>sort</a></br>
 * <a href='#tty'>tty</a></br>
@@ -494,6 +495,18 @@ mv name new_name
 
 ```
 nohup /path/path/code.sh &
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='passwd'>passwd</h3>
+
+change password
+
+```
+passwd
 ```
 
 <a href='#^'>^^^</a>
