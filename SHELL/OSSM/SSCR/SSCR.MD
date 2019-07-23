@@ -75,6 +75,18 @@ You are running this script on hostname.
 <h3 id='userinput'>user input</h3>
 
 ```sh
+echo "pls enter your name"
+read name
+echo "hi" $name
+
+>>>
+pls enter your name
+trk
+hi trk
+>>>
+```
+
+```sh
 read varname #Dan
 echo Welcome $varname
 
