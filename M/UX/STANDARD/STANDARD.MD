@@ -287,35 +287,6 @@ $
 
 <h3 id='echo'>echo</h3>
 
-how to find errors in the log files
-
-```sh
-$ ls -l log*.txt
--rwxrwxrwa   1 AzureAD\AttilaTorok AzureAD\AttilaTorok      78 Jul 23 14:03 log.txt
--rwxrwxrwa   1 AzureAD\AttilaTorok AzureAD\AttilaTorok      31 Jul 23 14:02 log2.txt
-$
-$ cat log.txt
-hi
-sec lne
-third line 4th line
-error - 4
-5th line
-sixth line
-error - 7
-$ cat log2.txt
-abort - 1
-hi
-abort - 3
-$ ttt.sh
-log.txt:error - 4
-log.txt:error - 7
-log2.txt:abort - 1
-log2.txt:abort - 3
-$ cat ttt.sh
-grep error log*.txt
-grep abort log*.txt
-```
-
 create/update a file
 
 ```
@@ -352,6 +323,34 @@ this is appended text
 
 <h3 id='grep'>grep</h3>
 
+how to find errors in the log files
+
+```sh
+$ ls -l log*.txt
+-rwxrwxrwa   1 AzureAD\AttilaTorok AzureAD\AttilaTorok      78 Jul 23 14:03 log.txt
+-rwxrwxrwa   1 AzureAD\AttilaTorok AzureAD\AttilaTorok      31 Jul 23 14:02 log2.txt
+$
+$ cat log.txt
+hi
+sec lne
+third line 4th line
+error - 4
+5th line
+sixth line
+error - 7
+$ cat log2.txt
+abort - 1
+hi
+abort - 3
+$ ttt.sh
+log.txt:error - 4
+log.txt:error - 7
+log2.txt:abort - 1
+log2.txt:abort - 3
+$ cat ttt.sh
+grep error log*.txt
+grep abort log*.txt
+```
 
 ```sh
 $ cat ttt.sh
