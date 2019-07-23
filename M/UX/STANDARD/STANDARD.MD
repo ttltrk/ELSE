@@ -323,6 +323,22 @@ this is appended text
 
 <h3 id='grep'>grep</h3>
 
+
+```sh
+$ cat ttt.sh
+echo "pls enter your name"
+read name
+echo "hi" $name$
+$
+$ grep echo ttt.sh
+echo "pls enter your name"
+echo "hi" $name
+$
+$ grep read ttt.sh
+read name
+$
+```
+
 kiirja az 'a' betus sorokat
 
 ```
