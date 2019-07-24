@@ -14,4 +14,13 @@ cd ~
 less .profile | grep -i <name_ofthe_bank> 
 ```
 
+```
+function grepv {
+    grep -v grep
+}
+
+ps -ef | grep http | grep -v grep | wc -l
+ps -ef | grep http | grepv | wc -l
+```
+
 ---
