@@ -11,6 +11,10 @@
 
 ```
 cd ~
+```
+
+```
+cat .profile
 less .profile | grep -i <name_ofthe_bank> 
 ```
 
@@ -21,6 +25,10 @@ function grepv {
 
 ps -ef | grep http | grep -v grep | wc -l
 ps -ef | grep http | grepv | wc -l
+```
+
+```
+alias ll="ls -l"
 ```
 
 ---
