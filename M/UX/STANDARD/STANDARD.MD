@@ -42,6 +42,9 @@
 <h3 id='alias'>alias</h3>
 
 ```sh
+$ la
+la: not found
+$
 $ alias la="ls -la"
 $ la
 
