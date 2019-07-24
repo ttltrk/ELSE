@@ -9,6 +9,7 @@
 
 ---
 
+* <a href='#alias'>alias</a></br>
 * <a href='#cat'>cat</a></br>
 * <a href='#chgrp'>chgrp</a></br>
 * <a href='#clear'>clear</a></br>
@@ -35,6 +36,24 @@
 * <a href='#tty'>tty</a></br>
 * <a href='#unzip'>unzip</a></br>
 * <a href='#wc'>wc</a></br>
+
+---
+
+<h3 id='alias'>alias</h3>
+
+```sh
+$ alias la="ls -la"
+$ la
+
+>
+.
+.
+.
+.
+>
+```
+
+<a href='#^'>^^^</a>
 
 ---
 
