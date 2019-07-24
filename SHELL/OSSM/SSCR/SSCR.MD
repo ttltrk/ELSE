@@ -14,6 +14,7 @@
 * <a href='#ifelse'>if-else</a></br>
 * <a href='#for'>for</a></br>
 * <a href='#arrays'>arrays</a></br>
+* <a href='#function'>function</a></br>
 
 ---
 
@@ -342,5 +343,25 @@ first
 <a href='#^'>^^^</a>
 
 ---
+
+<h3 id='function'>function</h3>
+
+
+```sh
+function usage {
+	echo "hi trk"
+}
+
+usage
+
+>>>
+hi trk
+>>>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
 
 
