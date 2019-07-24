@@ -563,6 +563,10 @@ passwd
 ps -ef | grep file_name
 ```
 
+```
+ps -ef | grep file_name | wc -l
+```
+
 <a href='#^'>^^^</a>
 
 ---
