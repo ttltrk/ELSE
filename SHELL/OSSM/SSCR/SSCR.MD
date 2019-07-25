@@ -375,6 +375,23 @@ $
 >>>
 ```
 
+```
+username="trk"
+echo $username
+function proc {
+  local username="at"
+  echo $username "from inside the func"
+}
+proc
+
+>>>
+$ ./ttt.sh
+trk
+at from inside the func
+$
+>>>
+```
+
 <a href='#^'>^^^</a>
 
 ---
