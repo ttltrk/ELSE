@@ -15,6 +15,7 @@
 * <a href='#for'>for</a></br>
 * <a href='#arrays'>arrays</a></br>
 * <a href='#function'>function</a></br>
+* <a href='#file'>file</a></br>
 
 ---
 
@@ -399,6 +400,21 @@ trk
 at from inside the func
 $
 >>>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='file'>file</h3>
+
+```sh
+-d directory - dirctory exists
+-e file - file exists
+-f file - file exist and its a regular file
+-r file - file is readable
+-s file - file is not empty
+-w file - file is writable
 ```
 
 <a href='#^'>^^^</a>
