@@ -133,6 +133,15 @@ echo $a_rounded
 
 <h3 id='ifelse'>if-else</h3>
 
+```
+-eq equal
+-ne not equal
+-gt greather than
+-lt less than
+-gte greather than or equal
+-lte less than or equal
+```
+
 ```sh
 if [ condition-is-true ]
 then
