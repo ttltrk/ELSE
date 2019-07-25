@@ -359,6 +359,22 @@ hi trk
 >>>
 ```
 
+```
+username="trk"
+echo $username
+function proc {
+  echo $username "from inside the func"
+}
+proc
+
+>>>
+$ ./ttt.sh
+trk
+trk from inside the func
+$
+>>>
+```
+
 <a href='#^'>^^^</a>
 
 ---
