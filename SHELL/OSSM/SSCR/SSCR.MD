@@ -13,6 +13,7 @@
 * <a href='#userinput'>user input</a></br>
 * <a href='#ifelse'>if-else</a></br>
 * <a href='#for'>for</a></br>
+* <a href='#while'>while</a><br>
 * <a href='#arrays'>arrays</a></br>
 * <a href='#function'>function</a></br>
 * <a href='#file'>file</a></br>
@@ -320,6 +321,27 @@ done
 #.
 #99
 #>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='while'>while</h3>
+
+```sh
+input=""
+while [[ $input != 'Y' ]]; do
+    echo -n "Please enter Y to continue"
+    read input
+done
+
+>>>
+-n Please enter Y to continue
+bbb
+-n Please enter Y to continue
+Y
+>>>
 ```
 
 <a href='#^'>^^^</a>
