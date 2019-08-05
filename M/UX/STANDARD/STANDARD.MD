@@ -652,7 +652,7 @@ tail is a basic Unix command for quickly accessing the last few lines of a given
 tail is particularly useful for working with log files.
 
 ```
-tail -f
+tail -f <filename>
 ```
 
 <a href='#^'>^^^</a>
