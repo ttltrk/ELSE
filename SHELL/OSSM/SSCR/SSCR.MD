@@ -11,15 +11,13 @@
 
 ---
 
----
-
 * <a href='#hw'>hello world</a></br>
 * <a href='#userinput'>user input</a></br>
+* <a href='#functions'>functions</a></br>
 * <a href='#ifelse'>if-else</a></br>
 * <a href='#for'>for</a></br>
 * <a href='#while'>while</a><br>
 * <a href='#arrays'>arrays</a></br>
-* <a href='#function'>function</a></br>
 * <a href='#file'>file</a></br>
 
 ---
