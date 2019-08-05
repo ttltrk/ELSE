@@ -33,6 +33,7 @@
 * <a href='#passwd'>passwd</a></br>
 * <a href='#ps'>ps</a></br>
 * <a href='#sort'>sort</a></br>
+* <a href='#tail'>tail</a></br>
 * <a href='#tty'>tty</a></br>
 * <a href='#unzip'>unzip</a></br>
 * <a href='#wc'>wc</a></br>
@@ -639,6 +640,19 @@ harmadik sor
 elso sor
 az utolso otodik sor
 ttltrk-mbp:TEST attilatorok$ 
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='tail'>tail</h3>
+
+tail is a basic Unix command for quickly accessing the last few lines of a given text file. 
+tail is particularly useful for working with log files.
+
+```
+tail -f
 ```
 
 <a href='#^'>^^^</a>
