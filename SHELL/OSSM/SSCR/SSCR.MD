@@ -354,6 +354,19 @@ Y
 >>>
 ```
 
+```sh
+#!/usr/bin/env bash
+while true; do
+    echo `date` >> time.txt
+    sleep 1
+done
+
+./infinite_loop_background.sh &
+jobs
+ps -ef | grep *loop*
+tail -f time.txt
+```
+
 <a href='#^'>^^^</a>
 
 ---
