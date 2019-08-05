@@ -11,7 +11,9 @@
 
 ---
 
-* <a href='#basics'>basics</a></br>
+---
+
+* <a href='#hw'>hello world</a></br>
 * <a href='#userinput'>user input</a></br>
 * <a href='#ifelse'>if-else</a></br>
 * <a href='#for'>for</a></br>
@@ -22,7 +24,15 @@
 
 ---
 
-<h3 id='basics'>basics</h3>
+<h3 id='hw'>hello world</h3>
+
+```sh
+echo "hello world"
+
+>>>
+hello world
+>>>
+```
 
 ```sh
 echo "Scripting is fun!"
