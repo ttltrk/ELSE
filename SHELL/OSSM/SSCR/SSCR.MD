@@ -354,6 +354,8 @@ Y
 >>>
 ```
 
+Infinite loop in the background + logging
+
 ```sh
 #!/usr/bin/env bash
 while true; do
