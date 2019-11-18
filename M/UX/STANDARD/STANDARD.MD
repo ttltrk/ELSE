@@ -304,6 +304,24 @@ $ du -h DOCS
 $
 ```
 
+```
+[blabla:/home/xxx] # find  /bla/bla/bla/ -mtime +365 | wc -l 
+     166
+
+van 166 olyan 2M fájlunk, ami egy éve ott van
+
+[blabla:/home/xxx] # du -g //bla/bla/bla/
+31.85   //bla/bla/bla/
+
+32Giga van benne jelenleg
+
+
+[blabla:/blabla/blabla/blabla] # df -g /dev/lv_bbb
+Filesystem    GB blocks      Free %Used    Iused %Iused Mounted on
+/dev/lv_bbb     675.00    219.57   68%   242099     1% /mclm
+[blabla:/blabla/blabla/blabla] #
+```
+
 <a href='#^'>^^^</a>
 
 ---
