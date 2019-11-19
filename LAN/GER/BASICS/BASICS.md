@@ -6,7 +6,7 @@
 
 ---
 
-<h3 id='^'>Deutch - Basics</h3>
+<h3 id='^'>Deutsch - Basics</h3>
 
 ---
 
