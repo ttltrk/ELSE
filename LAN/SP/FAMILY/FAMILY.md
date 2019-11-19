@@ -14,6 +14,30 @@
 ```
 -----------------------------------------------------------
 
+Your apartment is pretty!
+Tu apartamento es bonito.
+
+My husband.
+Mi esposo.
+
+My grandmother.
+Tu abuela.
+
+My car is perfect.
+Mi carro es perfecto.
+
+My wife is intelligente.
+Mi esposa es inteligente.
+
+Your family.
+Tu familia.
+
+An apartment.
+Una apartamento.
+
+My grandfather.
+Mi abuelo.
+
 -----------------------------------------------------------
 
 ```
