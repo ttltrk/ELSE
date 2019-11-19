@@ -7,7 +7,7 @@
 
 ---
 
-<h3 id='^'>Deutch</h3>
+<h3 id='^'>Deutsch</h3>
 
 ---
 
