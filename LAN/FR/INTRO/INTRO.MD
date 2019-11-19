@@ -7,10 +7,29 @@
 
 ---
 
-<h3 id='^'>French</h3>
+<h3 id='^'>French - Basics</h3>
 
 ---
 
-* [Intro](https://github.com/ttltrk/ELSE/blob/master/LAN/FR/INTRO/INTRO.MD)
+```
+
+---------------------------------------------------------
+
+A man - Un homme
+A boy - Un garcon
+A cat - Un chat
+
+A man and a boy.
+Un homme et un garcon.
+
+A man and a cat.
+Un homme et un chat.
+
+A cat and a boy.
+Un chat et un garcon.
+
+---------------------------------------------------------
+
+```
 
 ---
