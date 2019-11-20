@@ -39,3 +39,21 @@ Du isst einen Apfel.
 ```
 
 ---
+
+```
+
+She reads a newspaper.
+Sie liest eine Zeitung.
+
+You read.
+Du liest.
+
+He reads.
+Er liest.
+
+The boy reads a newspaper.
+Der Junge liest eine Zeitung.
+
+```
+
+---
