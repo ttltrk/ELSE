@@ -13,6 +13,29 @@
 
 ```
 
+An apple - ein Apfel
+
+She is eating an apple and they are eating bread.
+Sie isst einen Apfel und sie essen Brot.
+
+Ich esse einen Apfel.
+I eat an Apple.
+
+We are eating bread.
+Wir esseb Brot.
+
+Ein Mann und and ein Apfel
+A man and an apple.
+
+The women Frauen are eating bread.
+Die Frauen essen Brot.
+
+The woman Frau eats an apple.
+Die Frau isst einen Apfel.
+
+You are eating an apple.
+Du isst einen Apfel.
+
 ```
 
 ---
