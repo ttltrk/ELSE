@@ -12,6 +12,7 @@
 ---
 
 * [Basics](https://github.com/ttltrk/ELSE/blob/master/LAN/GER/BASICS/BASICS.md)
+* [Acc Case](https://github.com/ttltrk/ELSE/blob/master/LAN/GER/ACCCASE/ACCCASE.md)
 
 ---
 
