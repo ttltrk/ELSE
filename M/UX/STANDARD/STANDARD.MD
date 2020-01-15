@@ -579,7 +579,7 @@ mv name new_name
 <h3 id='nohup'>nohup</h3>
 
 ```
-nohup /path/path/code.sh &
+nohup sh /path/path/code.sh &
 ```
 
 check the nohup.out
