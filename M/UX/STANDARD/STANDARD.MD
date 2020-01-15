@@ -713,6 +713,12 @@ gunzip file_name
 
 <h3 id='wc'>wc</h3>
 
+megszamolja a filekot egy konyvtarban
+
+```
+ls -1 | wc -l
+```
+
 megszamolja a fileban a sorokat szavakat karaktereket
 
 ```
