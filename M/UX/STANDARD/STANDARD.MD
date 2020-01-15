@@ -582,6 +582,12 @@ mv name new_name
 nohup /path/path/code.sh &
 ```
 
+check the nohup.out
+
+```
+tail -f nohup.out
+```
+
 <a href='#^'>^^^</a>
 
 ---
