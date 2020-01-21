@@ -31,4 +31,11 @@ ps -ef | grep http | grepv | wc -l
 alias ll="ls -l"
 ```
 
+reload profile
+
+```
+login once again or
+. ~/.profile
+```
+
 ---
