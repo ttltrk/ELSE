@@ -18,5 +18,6 @@
 * [sftp](https://github.com/ttltrk/ELSE/blob/master/M/UX/SFTP/SFTP.MD)
 * [archive](https://github.com/ttltrk/ELSE/blob/master/M/UX/ARCHIVE/ARCHIVE.MD)
 * [ssh](https://github.com/ttltrk/ELSE/blob/master/M/UX/SSH/SSHLOGIN.MD)
+* [ip](https://github.com/ttltrk/ELSE/blob/master/M/UX/IP/IP.MD)
 
 ---
