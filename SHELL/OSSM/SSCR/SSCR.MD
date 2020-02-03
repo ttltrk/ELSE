@@ -12,6 +12,7 @@
 ---
 
 * <a href='#hw'>hello world</a></br>
+* <a href='#arexp'>arithmetic expression</a></br>
 * <a href='#userinput'>user input</a></br>
 * <a href='#functions'>functions</a></br>
 * <a href='#ifelse'>if-else</a></br>
@@ -86,6 +87,22 @@ echo "\"Linux is awesome"\"
 
 >>>
 "Linux is awesome"
+>>>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='arexp'>arithmetic expression</h3>
+
+```
+let val=500/2
+
+echo $val
+
+>>>
+250
 >>>
 ```
 
