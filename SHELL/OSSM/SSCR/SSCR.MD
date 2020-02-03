@@ -298,6 +298,35 @@ then
 fi
 ```
 
+```
+var=20
+
+if [ $var -lt 15 ]
+then :
+else
+    echo $var
+fi
+
+>>>
+20
+>>>
+```
+
+```
+var=20
+var1=15
+if [ $var -gt $var1 ]
+then
+    echo $var "is greater than" $var1
+else
+    echo $var
+fi
+
+>>>
+20 is greater than 15
+>>>
+```
+
 <a href='#^'>^^^</a>
 
 ---
