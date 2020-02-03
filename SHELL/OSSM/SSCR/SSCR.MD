@@ -81,6 +81,14 @@ You are running this script on hostname.
 >>>
 ```
 
+```
+echo "\"Linux is awesome"\"
+
+>>>
+"Linux is awesome"
+>>>
+```
+
 <a href='#^'>^^^</a>
 
 ---
