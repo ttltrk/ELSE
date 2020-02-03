@@ -694,6 +694,14 @@ here is something, use it
 xxx:yyy:/home/TTLTRK/shell$
 ```
 
+```
+xxx:yyy:/home/TTLTRK/shell$ echo 'the second line comes here' >> wood.txt
+xxx:yyy:/home/TTLTRK/shell$ cat wood.txt
+here is something, use it
+the second line comes here
+xxx:yyy:/home/TTLTRK/shell$
+```
+
 <a href='#^'>^^^</a>
 
 ---
