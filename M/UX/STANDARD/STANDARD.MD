@@ -702,6 +702,12 @@ the second line comes here
 xxx:yyy:/home/TTLTRK/shell$
 ```
 
+```
+xxx:yyy:/home/TTLTRK/shell$ > wood.txt
+xxx:yyy:/home/TTLTRK/shell$ cat wood.txt
+xxx:yyy:/home/TTLTRK/shell$
+```
+
 <a href='#^'>^^^</a>
 
 ---
