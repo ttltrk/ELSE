@@ -106,6 +106,17 @@ echo $val
 >>>
 ```
 
+```
+let val=500/2
+
+val2=`echo $val`
+echo $val2
+
+>>>
+250
+>>>
+```
+
 <a href='#^'>^^^</a>
 
 ---
