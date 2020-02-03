@@ -34,6 +34,7 @@
 * <a href='#ps'>ps</a></br>
 * <a href='#sort'>sort</a></br>
 * <a href='#tail'>tail</a></br>
+* <a href="#touch'>touch</a></br>
 * <a href='#tty'>tty</a></br>
 * <a href='#unzip'>unzip</a></br>
 * <a href='#wc'>wc</a></br>
@@ -677,6 +678,20 @@ tail is particularly useful for working with log files.
 
 ```
 tail -f <filename>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='touch'>touch</h3>
+
+```
+xxx:yyy:/home/TTLTRK/shell$ touch wood.txt
+xxx:yyy:/home/TTLTRK/shell$ echo 'here is something, use it' > wood.txt
+xxx:yyy:/home/TTLTRK/shell$ cat wood.txt
+here is something, use it
+xxx:yyy:/home/TTLTRK/shell$
 ```
 
 <a href='#^'>^^^</a>
