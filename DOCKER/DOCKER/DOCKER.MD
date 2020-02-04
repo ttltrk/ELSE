@@ -130,3 +130,36 @@ C:\Users\AttilaTorok>
 ```
 
 ---
+
+mongo handling
+
+```
+C:\Users\AttilaTorok>docker run --name mongo -d mongo
+Unable to find image 'mongo:latest' locally
+latest: Pulling from library/mongo
+5c939e3a4d10: Pull complete                                                                                             c63719cdbe7a: Pull complete                                                                                             19a861ea6baf: Pull complete                                                                                             651c9d2d6c4f: Pull complete                                                                                             85155c6d5fac: Pull complete                                                                                             85fb0780fd97: Pull complete                                                                                             85b3b1a901f5: Pull complete                                                                                             6a882e007bb6: Pull complete                                                                                             f7806503a70f: Pull complete                                                                                             5732cde4308d: Pull complete                                                                                             8f892a804391: Pull complete                                                                                             afc61ce39de5: Pull complete                                                                                             ffc30d4b370e: Pull complete                                                                                             Digest: sha256:48a59166d81b41da82cedc8e57223cfc7b6314dc34e8a571dc12f2fc35ac9258
+Status: Downloaded newer image for mongo:latest
+57f58f39a3c8ec35fb0cd1d18c21c536a48a889d3409d71f4f1bbdfae633238e
+
+C:\Users\AttilaTorok>docker ps
+CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS              PORTS               NAMES
+57f58f39a3c8        mongo               "docker-entrypoint.s…"   About a minute ago   Up About a minute   27017/tcp           mongo
+
+C:\Users\AttilaTorok>docker top mongo
+PID                 USER                TIME                COMMAND
+2414                999                 0:01                mongod --bind_ip_all
+
+C:\Users\AttilaTorok>ps -ef | grep mongod
+       0   4352      1  0   Feb 03 con  0:45 mongod
+AttilaTo   8436  12848  0 13:23:38 con  0:00 grep  mongod
+
+C:\Users\AttilaTorok>docker stop mongo
+mongo
+
+C:\Users\AttilaTorok>docker ps
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+C:\Users\AttilaTorok>
+```
+
+---
