@@ -26,6 +26,7 @@
 * <a href='#grep'>grep</a></br>
 * <a href='#head'>head</a></br>
 * <a href='#history'>history</a></br>
+* <a href='#let'>let</a></br>
 * <a href='#less'>less</a></br>
 * <a href='#ln'>ln</a></br>
 * <a href='#ls'>ls</a></br>
@@ -483,6 +484,19 @@ ttltrk-mbp:TEST attilatorok$
 
 ```
 history
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='let'>let</h3>
+
+```
+$ let var2=100*10
+$ echo $var2
+1000
+$
 ```
 
 <a href='#^'>^^^</a>
