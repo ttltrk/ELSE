@@ -11,11 +11,12 @@
 
 ---
 
-* <a href='#union'>DETAILS</a></br>
+* <a href='#union'>Details</a></br>
+* <a href='#wsman'>Webserver management</a></br>
 
 ---
 
-<h3 id='details'>DETAILS</h3>
+<h3 id='details'>Details</h3>
 
 ```
 docker version
@@ -23,13 +24,13 @@ docker info
 docker //list of commands
 ```
 
----
-
 ```
 if using docker toolbox type in the IP addreess >> http://192.168.99.100
 ```
 
 ---
+
+* <a href='#wsman'>Webserver management</a></br>
 
 ```
 docker container run --publish 80:80 nginx //starting the nginx webserver
@@ -41,8 +42,6 @@ docker container run --publish 80:80 --detach --name webhost nginx //starting th
 docker container ls //list out your containers
 docker container stop <CONTAINER ID> // stop the server
 ```
-
----
 
 ```
 C:\Users\AttilaTorok>docker container ls
@@ -58,7 +57,7 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 C:\Users\AttilaTorok>
 ```
 
----
+start nginx in the background
 
 ```
 C:\Users\AttilaTorok>docker container run --publish 80:80 --detach --name webhost nginx
@@ -73,7 +72,7 @@ d60c2c5e5ed0        nginx               "nginx -g 'daemon of…"   About an hour
 C:\Users\AttilaTorok>
 ```
 
----
+check logfiles
 
 ```
 docker container logs webhost //logfile
