@@ -30,7 +30,7 @@ if using docker toolbox type in the IP addreess >> http://192.168.99.100
 
 ---
 
-* <a href='#wsman'>Webserver management</a></br>
+<h3 id='wsman'>Webserver management</h3>
 
 ```
 docker container run --publish 80:80 nginx //starting the nginx webserver
