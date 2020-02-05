@@ -163,3 +163,159 @@ C:\Users\AttilaTorok>
 ```
 
 ---
+
+run mysql + webserver + ngnix
+
+```
+docker container run -d -p 3306:3306 --name db -e MYSQL_RANDOM_ROOT_PASSWORD=yes mysql //run mysql container
+//-d = detach -p = port -e = env variables
+
+C:\Users\AttilaTorok>docker container run -d -p 3306:3306 --name db -e MYSQL_RANDOM_ROOT_PASSWORD=yes mysql
+Unable to find image 'mysql:latest' locally
+latest: Pulling from library/mysql
+619014d83c02: Pull complete                                                                                                                9ced578c3a5f: Pull complete                                                                                                                731f6e13d8ea: Pull complete                                                                                                                3c183de42679: Pull complete                                                                                                                6de69b5c2f3c: Pull complete                                                                                                                00f0a4086406: Pull complete                                                                                                                84d93aea836d: Pull complete                                                                                                                f18efbfd8d76: Pull complete                                                                                                                012b302865d1: Pull complete                                                                                                                fe16fd240f59: Pull complete                                                                                                                ca3e793e545e: Pull complete                                                                                                                51d0f2cb2610: Pull complete                                                                                                                Digest: sha256:6d0741319b6a2ae22c384a97f4bbee411b01e75f6284af0cce339fee83d7e314
+Status: Downloaded newer image for mysql:latest
+a2dad48568d8b2b71e7f0c50bdd34288621c698c085b022ffad02e010ce27711
+
+C:\Users\AttilaTorok>
+```
+
+```
+docker container logs db //check the logs - you can find the password in the logs - GENERATED ROOT PASSWORD:
+```
+
+---
+
+```
+docker container run -d --name webserver -p 8080:80 httpd //run webserver
+
+C:\Users\AttilaTorok>docker container run -d --name webserver -p 8080:80 httpd
+Unable to find image 'httpd:latest' locally
+latest: Pulling from library/httpd
+bc51dd8edc1b: Already exists                                                                                                                                     dca5bc65e18f: Pull complete                                                                                                                                      ccac3445152a: Pull complete                                                                                                                                      8515f2015fbc: Pull complete                                                                                                                                      e35494488b8c: Pull complete                                                                                                                                      Digest: sha256:b783a610e75380aa152dd855a18368ea2f3becb5129d0541e2ec8b662cbd8afb
+Status: Downloaded newer image for httpd:latest
+644924a77b99613dfed62b6a846f48c58d727107c7c91fbb323b810035f6ec0e
+```
+
+---
+
+```
+docker container run -d --name proxy -p 80:80 nginx //start nginx
+
+C:\Users\AttilaTorok>docker container run -d --name proxy -p 80:80 nginx
+7354d78355acf5a0b4c6cacafe7628b97098f83dc4adb4ea5ce937d8506305d9
+
+C:\Users\AttilaTorok>docker ps
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                               NAMES
+7354d78355ac        nginx               "nginx -g 'daemon of…"   5 seconds ago       Up 5 seconds        0.0.0.0:80->80/tcp                  proxy
+644924a77b99        httpd               "httpd-foreground"       2 minutes ago       Up 2 minutes        0.0.0.0:8080->80/tcp                webserver
+a2dad48568d8        mysql               "docker-entrypoint.s…"   10 minutes ago      Up 10 minutes       0.0.0.0:3306->3306/tcp, 33060/tcp   db
+
+C:\Users\AttilaTorok>
+```
+
+---
+
+check the ports 
+
+```
+curl localhost:8080
+curl localhost:80
+curl localhost:3306
+
+C:\Users\AttilaTorok>curl localhost:8080
+<html><body><h1>It works!</h1></body></html>
+
+C:\Users\AttilaTorok>curl localhost:80
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href="http://nginx.org/">nginx.org</a>.<br/>
+Commercial support is available at
+<a href="http://nginx.com/">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+
+C:\Users\AttilaTorok>curl localhost:3306
+Warning: Binary output can mess up your terminal. Use "--output -" to tell
+Warning: curl to output it to your terminal anyway, or consider "--output
+Warning: <FILE>" to save to a file.
+
+C:\Users\AttilaTorok>          
+```
+
+---
+
+stop and remove the processes
+
+```
+C:\Users\AttilaTorok>docker container ls
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                               NAMES
+7354d78355ac        nginx               "nginx -g 'daemon of…"   2 minutes ago       Up 2 minutes        0.0.0.0:80->80/tcp                  proxy
+644924a77b99        httpd               "httpd-foreground"       5 minutes ago       Up 5 minutes        0.0.0.0:8080->80/tcp                webserver
+a2dad48568d8        mysql               "docker-entrypoint.s…"   13 minutes ago      Up 13 minutes       0.0.0.0:3306->3306/tcp, 33060/tcp   db
+
+C:\Users\AttilaTorok>docker container stop 735 644 a2d
+735
+644
+a2d
+
+C:\Users\AttilaTorok>docker container ls
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+C:\Users\AttilaTorok>docker container ls -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                          PORTS               NAMES
+7354d78355ac        nginx               "nginx -g 'daemon of…"   8 minutes ago       Exited (0) About a minute ago                       proxy
+644924a77b99        httpd               "httpd-foreground"       10 minutes ago      Exited (0) About a minute ago                       webserver
+a2dad48568d8        mysql               "docker-entrypoint.s…"   18 minutes ago      Exited (0) About a minute ago                       db
+57f58f39a3c8        mongo               "docker-entrypoint.s…"   20 hours ago        Exited (0) 20 hours ago                             mongo
+
+C:\Users\AttilaTorok>docker container rm 735 644 a2d 57b
+735
+644
+a2d
+Error: No such container: 57b
+
+C:\Users\AttilaTorok>docker container rm 57f
+57f
+
+C:\Users\AttilaTorok>
+C:\Users\AttilaTorok>docker container ls -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+C:\Users\AttilaTorok>    
+```
+
+---
+
+check the images
+
+```
+C:\Users\AttilaTorok>docker image ls
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+nginx               latest              2073e0bcb60e        3 days ago          127MB
+httpd               latest              c562eeace183        3 days ago          165MB
+mysql               latest              791b6e40940c        3 days ago          465MB
+mongo               latest              8e89dfef54ff        8 days ago          386MB
+
+C:\Users\AttilaTorok>
+```
+
+---
