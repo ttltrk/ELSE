@@ -500,6 +500,18 @@ C:\Users\AttilaTorok>
 
 <h3 id='alpinehan'>Alpine handling</h3>
 
+download alpine
+
+```
+docker pull alpine
+```
+
+start shell in alpine (it is same as the bash)
+
+```
+docker container run -it alpine sh
+```
+
 ```
 C:\Users\AttilaTorok>docker pull alpine
 Using default tag: latest
