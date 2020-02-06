@@ -324,3 +324,35 @@ C:\Users\AttilaTorok>
 ```
 
 ---
+
+```
+docker container top - process list in one container
+docker container inspect - details of one container config
+docker container stats - performance stats for all containers
+
+C:\Users\AttilaTorok>docker container run -d --name nginx nginx
+3f2233a67e0f867f8da303c3f3774c0a2f0dfac1b79dd8fc0a0e7881880942bd
+
+C:\Users\AttilaTorok>docker container run -d --name mysql -e MYSQL_RANDOM_ROOT_PASSWORD=true mysql
+b5df1402acf57d4b4f6e4728bd44c5f1e62842e9d9e84d0b95929626a4381b71
+
+C:\Users\AttilaTorok>docker container ls
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                 NAMES
+b5df1402acf5        mysql               "docker-entrypoint.s…"   7 seconds ago       Up 6 seconds        3306/tcp, 33060/tcp   mysql
+3f2233a67e0f        nginx               "nginx -g 'daemon of…"   52 seconds ago      Up 52 seconds       80/tcp                nginx
+
+C:\Users\AttilaTorok>docker container top mysql
+PID                 USER                TIME                COMMAND
+2785                999                 0:01                mysqld
+
+C:\Users\AttilaTorok>docker container top nginx
+PID                 USER                TIME                COMMAND
+2708                root                0:00                nginx: master process nginx -g daemon off;
+2750                101                 0:00                nginx: worker process
+
+C:\Users\AttilaTorok>
+
+docker container inspect mysql //json array about how the mysql was started
+```
+
+---
