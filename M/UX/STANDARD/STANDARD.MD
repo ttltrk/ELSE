@@ -23,6 +23,7 @@
 * <a href='#diff'>diff</a></br>
 * <a href='#du'>du</a></br>
 * <a href='#echo'>echo</a></br>
+* <a href='#file'>file</a></br>
 * <a href='#grep'>grep</a></br>
 * <a href='#head'>head</a></br>
 * <a href='#history'>history</a></br>
@@ -360,6 +361,20 @@ cat temp.txt
 this is some other text
 this is appended text
 >>>
+```
+
+<a href='#^'>^^^</a>
+
+---
+
+<h3 id='file'>file</h3>
+
+Viewing the file type
+
+```
+xxx:yyy:/zzz/trk_exp/trk$ file unzip_all.sh
+unzip_all.sh: shell script  - ksh (Korn shell)
+xxx:yyy:/zzz/trk_exp/trk$
 ```
 
 <a href='#^'>^^^</a>
