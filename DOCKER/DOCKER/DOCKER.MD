@@ -110,6 +110,8 @@ PID                 USER                TIME                COMMAND
 C:\Users\AttilaTorok>
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h3 id='remcon'>Remove running container</h3>
@@ -138,6 +140,8 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 
 C:\Users\AttilaTorok>  
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -172,6 +176,8 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 C:\Users\AttilaTorok>
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 <h3 id='mysqlwsng'>run mysql + webserver + ngnix</h3>
@@ -194,6 +200,8 @@ C:\Users\AttilaTorok>
 docker container logs db //check the logs - you can find the password in the logs - GENERATED ROOT PASSWORD:
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 ```
@@ -206,6 +214,8 @@ bc51dd8edc1b: Already exists                                                    
 Status: Downloaded newer image for httpd:latest
 644924a77b99613dfed62b6a846f48c58d727107c7c91fbb323b810035f6ec0e
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -223,6 +233,8 @@ a2dad48568d8        mysql               "docker-entrypoint.s…"   10 minutes ag
 
 C:\Users\AttilaTorok>
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -271,6 +283,8 @@ Warning: <FILE>" to save to a file.
 C:\Users\AttilaTorok>          
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 stop and remove the processes
@@ -313,6 +327,8 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 C:\Users\AttilaTorok>    
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 check the images
@@ -327,6 +343,8 @@ mongo               latest              8e89dfef54ff        8 days ago          
 
 C:\Users\AttilaTorok>
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -359,6 +377,8 @@ C:\Users\AttilaTorok>
 
 docker container inspect mysql //json array about how the mysql was started
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
@@ -471,6 +491,8 @@ ca8e4271486b        nginx               "nginx -g 'daemon of…"   About an hour
 C:\Users\AttilaTorok>
 ```
 
+<a href='#^'>^^^</a>
+
 ---
 
 ```
@@ -522,6 +544,8 @@ Use apk --help --verbose for a full command listing.
 This apk has coffee making abilities.
 / #
 ```
+
+<a href='#^'>^^^</a>
 
 ---
 
