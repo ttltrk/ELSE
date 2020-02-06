@@ -361,3 +361,168 @@ docker container inspect mysql //json array about how the mysql was started
 ```
 
 ---
+
+```
+docker container inspect mysql //json array about how the mysql was started
+```
+
+---
+
+```
+docker container run -it //start new container interactively
+docker container exec -it //run additional command in existing container
+
+you can use bash inside the container
+
+C:\Users\AttilaTorok>docker container run -t --name proxy nginx bash
+root@db40855ba795:/#
+
+C:\Users\AttilaTorok>docker container run -it --name ubuntu ubuntu
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+5c939e3a4d10: Already exists                                                                                                                c63719cdbe7a: Already exists                                                                                                                19a861ea6baf: Already exists                                                                                                                651c9d2d6c4f: Already exists                                                                                                                Digest: sha256:8d31dad0c58f552e890d68bbfb735588b6b820a46e459672d96e585871acc110
+Status: Downloaded newer image for ubuntu:latest
+root@0cb70666eb84:/# apt-get update
+Get:1 http://archive.ubuntu.com/ubuntu bionic InRelease [242 kB]
+Get:2 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88.7 kB]
+Get:3 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74.6 kB]
+Get:4 http://archive.ubuntu.com/ubuntu bionic/multiverse amd64 Packages [186 kB]
+Get:5 http://archive.ubuntu.com/ubuntu bionic/main amd64 Packages [1344 kB]
+Get:6 http://archive.ubuntu.com/ubuntu bionic/restricted amd64 Packages [13.5 kB]
+Get:7 http://archive.ubuntu.com/ubuntu bionic/universe amd64 Packages [11.3 MB]
+Get:8 http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [1342 kB]
+Get:9 http://archive.ubuntu.com/ubuntu bionic-updates/restricted amd64 Packages [40.5 kB]
+Get:10 http://archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 Packages [11.1 kB]
+Get:11 http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages [1096 kB]
+Get:12 http://archive.ubuntu.com/ubuntu bionic-backports/main amd64 Packages [2496 B]
+Get:13 http://archive.ubuntu.com/ubuntu bionic-backports/universe amd64 Packages [4242 B]
+Get:14 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+Get:15 http://security.ubuntu.com/ubuntu bionic-security/main amd64 Packages [800 kB]
+Get:16 http://security.ubuntu.com/ubuntu bionic-security/universe amd64 Packages [808 kB]
+Get:17 http://security.ubuntu.com/ubuntu bionic-security/restricted amd64 Packages [26.7 kB]
+Get:18 http://security.ubuntu.com/ubuntu bionic-security/multiverse amd64 Packages [7061 B]
+Fetched 17.5 MB in 4s (4208 kB/s)
+Reading package lists... Done
+root@0cb70666eb84:/#
+
+root@0cb70666eb84:/# curl google.com
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+root@0cb70666eb84:/# exit
+exit
+
+C:\Users\AttilaTorok>docker container ls
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                 NAMES
+01cb30af8be7        mysql               "docker-entrypoint.s…"   About an hour ago   Up About an hour    3306/tcp, 33060/tcp   mysql
+ca8e4271486b        nginx               "nginx -g 'daemon of…"   About an hour ago   Up About an hour    80/tcp                nginx
+
+C:\Users\AttilaTorok>docker container ls -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS                 NAMES
+0cb70666eb84        ubuntu              "/bin/bash"              4 minutes ago       Exited (0) 11 seconds ago                         ubuntu
+db40855ba795        nginx               "bash"                   55 minutes ago      Exited (0) 5 minutes ago                          proxy
+01cb30af8be7        mysql               "docker-entrypoint.s…"   About an hour ago   Up About an hour            3306/tcp, 33060/tcp   mysql
+ca8e4271486b        nginx               "nginx -g 'daemon of…"   About an hour ago   Up About an hour            80/tcp                nginx
+
+C:\Users\AttilaTorok>docker container start -ai ubuntu
+root@0cb70666eb84:/# curl google.com
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+root@0cb70666eb84:/# exit
+exit
+
+C:\Users\AttilaTorok>docker container ls
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                 NAMES
+01cb30af8be7        mysql               "docker-entrypoint.s…"   About an hour ago   Up About an hour    3306/tcp, 33060/tcp   mysql
+ca8e4271486b        nginx               "nginx -g 'daemon of…"   About an hour ago   Up About an hour    80/tcp                nginx
+
+C:\Users\AttilaTorok>docker container ls -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                     PORTS                 NAMES
+0cb70666eb84        ubuntu              "/bin/bash"              6 minutes ago       Exited (0) 8 seconds ago                         ubuntu
+db40855ba795        nginx               "bash"                   58 minutes ago      Exited (0) 8 minutes ago                         proxy
+01cb30af8be7        mysql               "docker-entrypoint.s…"   About an hour ago   Up About an hour           3306/tcp, 33060/tcp   mysql
+ca8e4271486b        nginx               "nginx -g 'daemon of…"   About an hour ago   Up About an hour           80/tcp                nginx
+
+C:\Users\AttilaTorok>
+
+```
+
+```
+C:\Users\AttilaTorok>docker container exec -it mysql bash
+root@01cb30af8be7:/# ps aux
+bash: ps: command not found
+root@01cb30af8be7:/# ps -ef
+bash: ps: command not found
+root@01cb30af8be7:/# exit
+exit
+
+C:\Users\AttilaTorok>docker container ls
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                 NAMES
+01cb30af8be7        mysql               "docker-entrypoint.s…"   About an hour ago   Up About an hour    3306/tcp, 33060/tcp   mysql
+ca8e4271486b        nginx               "nginx -g 'daemon of…"   About an hour ago   Up About an hour    80/tcp                nginx
+
+C:\Users\AttilaTorok>
+```
+
+---
+
+```
+C:\Users\AttilaTorok>docker pull alpine
+Using default tag: latest
+latest: Pulling from library/alpine
+c9b1b535fdd9: Pull complete                                                                                                                 Digest: sha256:ab00606a42621fb68f2ed6ad3c88be54397f981a7b70a79db3d1172b11c4367d
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+
+C:\Users\AttilaTorok>docker image ls
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+nginx               latest              2073e0bcb60e        4 days ago          127MB
+httpd               latest              c562eeace183        4 days ago          165MB
+mysql               latest              791b6e40940c        4 days ago          465MB
+mongo               latest              8e89dfef54ff        9 days ago          386MB
+alpine              latest              e7d92cdc71fe        2 weeks ago         5.59MB
+ubuntu              latest              ccc6e87d482b        3 weeks ago         64.2MB
+
+C:\Users\AttilaTorok>docker container run -it alpine sh
+/ # apk
+apk-tools 2.10.4, compiled for x86_64.
+
+Installing and removing packages:
+  add       Add PACKAGEs to 'world' and install (or upgrade) them, while ensuring that all dependencies are met
+  del       Remove PACKAGEs from 'world' and uninstall them
+
+System maintenance:
+  fix       Repair package or upgrade it without modifying main dependencies
+  update    Update repository indexes from all remote repositories
+  upgrade   Upgrade currently installed packages to match repositories
+  cache     Download missing PACKAGEs to cache and/or delete unneeded files from cache
+
+Querying information about packages:
+  info      Give detailed information about PACKAGEs or repositories
+  list      List packages by PATTERN and other criteria
+  dot       Generate graphviz graphs
+  policy    Show repository policy for packages
+
+Repository maintenance:
+  index     Create repository index file from FILEs
+  fetch     Download PACKAGEs from global repositories to a local directory
+  verify    Verify package integrity and signature
+  manifest  Show checksums of package contents
+
+Use apk <command> --help for command-specific help.
+Use apk --help --verbose for a full command listing.
+
+This apk has coffee making abilities.
+/ #
+```
+
+---
+
+
