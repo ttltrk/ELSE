@@ -13,6 +13,9 @@
 
 * <a href='#union'>Details</a></br>
 * <a href='#wsman'>Webserver management</a></br>
+* <a href='#remcon'>Remove running container</a></br>
+* <a href='#monhan'>Mongo handling</a></br>
+* <a href='#mysqlwsng'>run mysql + webserver + ngnix</a></br>
 
 ---
 
@@ -94,7 +97,7 @@ C:\Users\AttilaTorok>docker container logs webhost
 C:\Users\AttilaTorok>
 ```
 
----
+TOP
 
 ```
 docker container top webhost //process running inside the container 
@@ -108,6 +111,8 @@ C:\Users\AttilaTorok>
 ```
 
 ---
+
+<h3 id='remcon'>Remove running container</h3>
 
 ```
 docker container rm -f bbe //remove running container
@@ -136,7 +141,7 @@ C:\Users\AttilaTorok>
 
 ---
 
-mongo handling
+<h3 id='monhan'>Mongo handling</h3>
 
 ```
 C:\Users\AttilaTorok>docker run --name mongo -d mongo
@@ -169,7 +174,7 @@ C:\Users\AttilaTorok>
 
 ---
 
-run mysql + webserver + ngnix
+<h3 id='mysqlwsng'>run mysql + webserver + ngnix</h3>
 
 ```
 docker container run -d -p 3306:3306 --name db -e MYSQL_RANDOM_ROOT_PASSWORD=yes mysql //run mysql container
