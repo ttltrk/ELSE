@@ -12,8 +12,19 @@
 ---
 
 * [Intro](https://github.com/ttltrk/ELSE/blob/master/LAN/SP/INTRO/INTRO.md)
+* [Phrases]()
+* [Travel]()
+* [Restaurant]()
 * [Family](https://github.com/ttltrk/ELSE/blob/master/LAN/SP/FAMILY/FAMILY.md)
 * [Shopping](https://github.com/ttltrk/ELSE/blob/master/LAN/SP/SHOPPING/SHOPPING.md)
+* [School]()
+* [People]()
+* [Greetings]()
+* [Travel 2]()
+* [Schedule]()
+* [People 2]()
+* [People 3]()
+* [School 2]()
 
 ---
 
