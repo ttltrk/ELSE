@@ -13,6 +13,7 @@
 
 * [Intro](https://github.com/ttltrk/ELSE/blob/master/LAN/SP/INTRO/INTRO.md)
 * [Family](https://github.com/ttltrk/ELSE/blob/master/LAN/SP/FAMILY/FAMILY.md)
+* [Shopping](https://github.com/ttltrk/ELSE/blob/master/LAN/SP/SHOPPING/SHOPPING.md)
 
 ---
 
