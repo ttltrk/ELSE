@@ -16,6 +16,8 @@
 * <a href='#remcon'>Remove running container</a></br>
 * <a href='#monhan'>Mongo handling</a></br>
 * <a href='#mysqlwsng'>run mysql + webserver + ngnix</a></br>
+* <a href='#stoprm'>Stop and remove processes</a></br>
+* <a href='#image'>Images</a></br>
 * <a href='#topinpstat'>Top + inspect + stats run</a></br>
 * <a href='#intrun'>Interactive run</a></br>
 * <a href='#alpinehan'>Alpine handling</a></br>
@@ -292,7 +294,7 @@ C:\Users\AttilaTorok>
 
 ---
 
-stop and remove the processes
+<h3 id='stoprm'>Stop and remove processes</h3>
 
 ```
 C:\Users\AttilaTorok>docker container ls
@@ -336,7 +338,7 @@ C:\Users\AttilaTorok>
 
 ---
 
-check the images
+<h3 id='image'>Images</h3>
 
 ```
 C:\Users\AttilaTorok>docker image ls
@@ -353,7 +355,7 @@ C:\Users\AttilaTorok>
 
 ---
 
-<h3 id='topinpstat'>Top + inspect + stats run</h3>
+<h3 id='topinpstat'>Top + inspect + stats</h3>
 
 ```
 docker container top - process list in one container
