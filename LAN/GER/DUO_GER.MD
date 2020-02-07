@@ -11,8 +11,13 @@
 
 ---
 
-* [Basics](https://github.com/ttltrk/ELSE/blob/master/LAN/GER/BASICS/BASICS.md)
+* [Basics 1](https://github.com/ttltrk/ELSE/blob/master/LAN/GER/BASICS/BASICS.md)
+* [The]()
+* [Basics 2]()
+* [Phrases]()
 * [Acc Case](https://github.com/ttltrk/ELSE/blob/master/LAN/GER/ACCCASE/ACCCASE.MD)
+* [Intro]()
+* [Food 1]()
 * [Animals](https://github.com/ttltrk/ELSE/blob/master/LAN/GER/ANIMALS/ANIMALS.md)
 
 ---
