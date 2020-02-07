@@ -56,4 +56,8 @@ Der Junge liest eine Zeitung.
 
 ```
 
+```
+Die Katze frisst brot.
+```
+
 ---
