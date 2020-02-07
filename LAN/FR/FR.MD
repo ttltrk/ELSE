@@ -12,5 +12,6 @@
 ---
 
 * [Intro](https://github.com/ttltrk/ELSE/blob/master/LAN/FR/INTRO/INTRO.MD)
+* [Greetings](https://github.com/ttltrk/ELSE/blob/master/LAN/FR/GREETINGS/GREETINGS.md)
 
 ---
