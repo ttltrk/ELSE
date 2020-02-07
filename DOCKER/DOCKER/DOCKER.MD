@@ -16,6 +16,8 @@
 * <a href='#remcon'>Remove running container</a></br>
 * <a href='#monhan'>Mongo handling</a></br>
 * <a href='#mysqlwsng'>run mysql + webserver + ngnix</a></br>
+* <a href='#topinpstat'>Top + inspect + stats run</a></br>
+* <a href='#intrun'>Interactive run</a></br>
 * <a href='#alpinehan'>Alpine handling</a></br>
 
 ---
@@ -351,6 +353,8 @@ C:\Users\AttilaTorok>
 
 ---
 
+<h3 id='topinpstat'>Top + inspect + stats run</h3>
+
 ```
 docker container top - process list in one container
 docker container inspect - details of one container config
@@ -385,11 +389,7 @@ docker container inspect mysql //json array about how the mysql was started
 
 ---
 
-```
-docker container inspect mysql //json array about how the mysql was started
-```
-
----
+<h3 id='intrun'>Interactive run</h3>
 
 ```
 docker container run -it //start new container interactively
