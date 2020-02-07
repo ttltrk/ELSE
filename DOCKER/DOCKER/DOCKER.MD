@@ -16,6 +16,8 @@
 * <a href='#remcon'>Remove running container</a></br>
 * <a href='#monhan'>Mongo handling</a></br>
 * <a href='#mysqlwsng'>run mysql + webserver + ngnix</a></br>
+* <a href='#runwebng'>Run webserver and nginx</a></br>
+* <a href='#ports'>Check the ports</a></br>
 * <a href='#stoprm'>Stop and remove processes</a></br>
 * <a href='#image'>Images</a></br>
 * <a href='#topinpstat'>Top + inspect + stats run</a></br>
@@ -211,6 +213,8 @@ docker container logs db //check the logs - you can find the password in the log
 
 ---
 
+<h3 id='runwebng'>Run webserver + nginx</h3>
+
 ```
 docker container run -d --name webserver -p 8080:80 httpd //run webserver
 
@@ -245,7 +249,7 @@ C:\Users\AttilaTorok>
 
 ---
 
-check the ports 
+<h3 id='ports'>Check the ports</h3>
 
 ```
 curl localhost:8080
