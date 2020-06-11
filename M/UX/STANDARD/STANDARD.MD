@@ -333,6 +333,26 @@ only display df lines that have more fs usage than 70%
 df -P | awk '0+$5 >= 70 {print}'
 ```
 
+automatic monitoring
+
+```
+#!/bin/sh
+
+warninglimit=500000
+lowlimit=250000
+
+filesystems="/export/data /export/home /"
+
+for fs in $filesystems
+do
+        size=`df -k $fs|grep $fs|awk '{ print $4; }'`
+        if [ $size -le $lowlimit ]
+        then
+                mailx -s "URGENT: Low disk space for $fs ($size)"
+                break
+        fi
+```
+
 <a href='#^'>^^^</a>
 
 ---
