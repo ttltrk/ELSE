@@ -327,6 +327,12 @@ Filesystem    GB blocks      Free %Used    Iused %Iused Mounted on
 [blabla:/blabla/blabla/blabla] #
 ```
 
+only display df lines that have more fs usage than 70%
+
+```
+df -P | awk '0+$5 >= 70 {print}'
+```
+
 <a href='#^'>^^^</a>
 
 ---
