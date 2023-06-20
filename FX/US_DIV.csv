@@ -1,0 +1,130 @@
+,Symbol,Company,Sector,Years,Price,DIV Yield
+0,ABM,ABM Industries Incorporated,Industrials,54,48.76,1.56
+1,ADM,Archer-Daniels-Midland Company,Consumer Staples,46,59.66,2.48
+2,ADP,Automatic Data Processing  Inc.,Information Technology,46,206.86,1.8
+3,AFL,Aflac Incorporated,Financials,39,56.34,2.34
+4,ALB,Albemarle Corporation,Materials,27,239.2,0.65
+5,AOS,A. O. Smith Corporation,Industrials,28,72.6,1.43
+6,APD,Air Products and Chemicals  Inc.,Materials,39,269.34,2.23
+7,AROW,Arrow Financial Corporation,Financials,28,37.58,2.77
+8,ARTN.A,Artesian Resources Corporation,Utilities,29,39.47,2.65
+9,ATO,Atmos Energy Corporation,Utilities,37,98.25,2.54
+10,ATR,AptarGroup  Inc.,Materials,28,135.01,1.13
+11,AWR,American States Water Company,Utilities,67,93.85,1.56
+12,BANF,BancFirst Corporation,Financials,28,56.38,2.55
+13,BDX,Becton  Dickinson and Company,Health Care,49,252.47,1.32
+14,BEN,Franklin Resources  Inc.,Financials,41,32.27,3.47
+15,BF.B,Brown-Forman Corporation,Consumer Staples,37,72.62,0.99
+16,BKH,Black Hills Corporation,Utilities,51,71.53,3.16
+17,BMI,Badger Meter  Inc.,Information Technology,29,106.56,0.75
+18,BRC,Brady Corporation,Industrials,36,53.54,1.64
+19,BRO,Brown & Brown  Inc.,Financials,27,58.46,0.63
+20,CAH,Cardinal Health  Inc.,Health Care,26,52.4,3.75
+21,CAT,Caterpillar Inc.,Industrials,28,207.96,2.14
+22,CB,Chubb Limited,Financials,28,183.02,1.75
+23,CBSH,Commerce Bancshares  Inc.,Financials,53,70.18,1.5
+24,CBU,Community Bank System  Inc.,Financials,29,73.47,2.34
+25,CFR,Cullen/Frost Bankers  Inc.,Financials,28,113.55,2.64
+26,CHD,Church & Dwight Co.  Inc.,Consumer Staples,25,84.33,1.2
+27,CINF,Cincinnati Financial Corporation,Financials,61,122.18,2.06
+28,CL,Colgate-Palmolive Company,Consumer Staples,58,78.33,2.3
+29,CLX,The Clorox Company,Consumer Staples,44,170.8,2.72
+30,CNI,Canadian National Railway Company,Industrials,26,121.92,1.67
+31,CSL,Carlisle Companies Incorporated,Industrials,45,209.15,1.03
+32,CTAS,Cintas Corporation,Industrials,38,396.11,0.96
+33,CTBI,Community Trust Bancorp  Inc.,Financials,41,41.6,3.85
+34,CVX,Chevron Corporation,Energy,34,95.71,5.6
+35,CWT,California Water Service Group,Utilities,54,64.9,1.42
+36,DCI,Donaldson Company  Inc.,Industrials,35,67.25,1.31
+37,DOV,Dover Corporation,Industrials,66,173.89,1.15
+38,EBTC,Enterprise Bancorp  Inc.,Financials,27,33.77,2.19
+39,ECL,Ecolab Inc.,Materials,29,224.97,0.85
+40,ED,Consolidated Edison  Inc.,Utilities,47,76.44,4.06
+41,EMR,Emerson Electric Co.,Industrials,64,104.05,1.94
+42,ENB,Enbridge Inc.,Energy,26,39.47,6.75
+43,ERIE,Erie Indemnity Company,Financials,31,178.11,2.32
+44,ESS,Essex Property Trust  Inc.,Real Estate,27,336.3,2.49
+45,EV,Eaton Vance Corp.,Financials,39,73.07,2.05
+46,EXPD,Expeditors International of Washington  Inc.,Industrials,27,122.92,0.94
+47,FELE,Franklin Electric Co.  Inc.,Industrials,29,85.11,0.82
+48,FLIC,The First of Long Island Corporation,Financials,25,20.95,3.63
+49,FRT,Federal Realty Investment Trust,Real Estate,54,122.79,3.49
+50,FUL,H.B. Fuller Company,Materials,52,67.59,0.99
+51,GD,General Dynamics Corporation,Industrials,30,199.79,2.38
+52,GPC,Genuine Parts Company,Consumer Discretionary,65,122.96,2.65
+53,GWW,W.W. Grainger  Inc.,Industrials,50,429.23,1.51
+54,HRL,Hormel Foods Corporation,Consumer Staples,55,45.67,2.15
+55,IBM,International Business Machines Corporation,Information Technology,26,139.3,4.71
+56,ITW,Illinois Tool Works Inc.,Industrials,58,231.28,2.11
+57,JKHY,Jack Henry & Associates  Inc.,Information Technology,31,177.3,1.04
+58,JNJ,Johnson & Johnson,Health Care,59,173.74,2.44
+59,JW.A,John Wiley & Sons  Inc.,Communication Services,28,57.57,2.4
+60,KMB,Kimberly-Clark Corporation,Consumer Staples,49,139.68,3.26
+61,KO,The Coca-Cola Company,Consumer Staples,59,56.69,2.96
+62,LANC,Lancaster Colony Corporation,Consumer Staples,59,175.06,1.71
+63,LECO,Lincoln Electric Holdings  Inc.,Industrials,26,137.13,1.49
+64,LEG,Leggett & Platt  Incorporated,Consumer Discretionary,50,48.26,3.48
+65,LIN,Linde plc,Materials,28,313.88,1.35
+66,LOW,Lowe's Companies  Inc.,Consumer Discretionary,59,203.43,1.57
+67,MATW,Matthews International Corporation,Industrials,26,37.13,2.32
+68,MCD,McDonald's Corporation,Consumer Discretionary,46,238.15,2.17
+69,MCY,Mercury General Corporation,Financials,34,59.19,4.27
+70,MDT,Medtronic plc,Health Care,44,134.17,1.88
+71,MDU,MDU Resources Group  Inc.,Utilities,30,32.44,2.62
+72,MGEE,MGE Energy  Inc.,Utilities,46,81.12,1.91
+73,MGRC,McGrath RentCorp,Industrials,29,70.95,2.45
+74,MKC.V,McCormick & Company  Incorporated,Consumer Staples,35,87.65,1.55
+75,MMM,3M Company,Industrials,63,193.44,3.06
+76,MSA,MSA Safety Incorporated,Industrials,50,160.85,1.09
+77,NDSN,Nordson Corporation,Industrials,58,240.94,0.85
+78,NEE,NextEra Energy  Inc.,Utilities,27,85.34,1.8
+79,NFG,National Fuel Gas Company,Utilities,51,52.11,3.49
+80,NJR,New Jersey Resources Corporation,Utilities,26,38.0,3.5
+81,NNN,National Retail Properties  Inc.,Real Estate,32,47.57,4.46
+82,NUE,Nucor Corporation,Materials,48,116.26,1.39
+83,NWN,Northwest Natural Holding Company,Utilities,65,51.96,3.7
+84,O,Realty Income Corporation,Real Estate,28,72.41,3.9
+85,ORI,Old Republic International Corporation,Financials,40,25.83,3.41
+86,OZK,Bank OZK,Financials,25,42.36,2.69
+87,PBCT,People's United Financial  Inc.,Financials,29,16.35,4.46
+88,PEP,PepsiCo  Inc.,Consumer Staples,49,157.91,2.72
+89,PG,The Procter & Gamble Company,Consumer Staples,65,143.84,2.42
+90,PH,Parker-Hannifin Corporation,Industrials,65,293.96,1.4
+91,PII,Polaris Inc.,Consumer Discretionary,26,119.05,2.12
+92,PPG,PPG Industries  Inc.,Materials,50,157.75,1.5
+93,RLI,RLI Corp.,Financials,46,109.08,0.92
+94,RNR,RenaissanceRe Holdings Ltd.,Financials,26,155.64,0.93
+95,ROP,Roper Technologies  Inc.,Industrials,28,483.24,0.47
+96,RPM,RPM International Inc.,Materials,47,82.35,1.85
+97,RTX,Raytheon Technologies Corporation,Industrials,28,84.1,2.43
+98,SBSI,Southside Bancshares  Inc.,Financials,27,37.54,3.52
+99,SCL,Stepan Company,Materials,53,117.59,1.04
+100,SEIC,SEI Investments Company,Financials,30,62.59,1.18
+101,SHW,The Sherwin-Williams Company,Materials,43,305.91,0.72
+102,SJW,SJW Group,Utilities,54,70.61,1.93
+103,SON,Sonoco Products Company,Materials,39,65.44,2.75
+104,SPGI,S&P Global Inc.,Financials,48,448.62,0.69
+105,SRCE,1st Source Corporation,Financials,34,47.18,2.63
+106,SWK,Stanley Black & Decker  Inc.,Industrials,54,192.5,1.64
+107,SYK,Stryker Corporation,Health Care,28,276.67,0.91
+108,SYY,Sysco Corporation,Consumer Staples,51,78.99,2.38
+109,T,AT&T Inc.,Communication Services,36,27.19,7.65
+110,TDS,Telephone and Data Systems  Inc.,Communication Services,47,20.36,3.44
+111,TGT,Target Corporation,Consumer Discretionary,54,246.37,1.46
+112,THFF,First Financial Corporation,Financials,33,40.48,2.62
+113,TMP,Tompkins Financial Corporation,Financials,35,79.57,2.71
+114,TNC,Tennant Company,Industrials,49,74.67,1.23
+115,TRI,Thomson Reuters Corporation,Industrials,28,119.13,1.36
+116,TROW,T. Rowe Price Group  Inc.,Financials,35,221.0,1.95
+117,UBSI,United Bankshares  Inc.,Financials,46,36.13,3.87
+118,UGI,UGI Corporation,Utilities,34,46.84,2.95
+119,UHT,Universal Health Realty Income Trust,Real Estate,36,58.64,4.77
+120,UMBF,UMB Financial Corporation,Financials,29,91.1,1.62
+121,UVV,Universal Corporation,Consumer Staples,50,50.35,6.2
+122,WABC,Westamerica Bancorporation,Financials,28,56.69,2.89
+123,WBA,Walgreens Boots Alliance  Inc.,Consumer Staples,46,50.29,3.8
+124,WEYS,Weyco Group  Inc.,Consumer Discretionary,39,23.69,4.05
+125,WMT,Walmart Inc.,Consumer Staples,48,147.78,1.49
+126,WST,West Pharmaceutical Services  Inc.,Health Care,28,453.12,0.15
+127,WTRG,Essential Utilities  Inc.,Utilities,30,50.4,2.13
+128,XOM,Exxon Mobil Corporation,Energy,38,53.77,6.47
